@@ -11,9 +11,9 @@ This course provides a practice-based overview of user experience (UX) and user 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design) and [Canvas](https://canvas.ucsd.edu/)   
 
 Classroom: Center Hall 214   
-Class Days and Times: Monday and Wednesday 2PM PT
-Student Hours: Friday 2PM PT
-Design Studios: Friday 8AM OR 10AM OR 12PM OR 3PM OR 5PM 
+Class Days and Times: Monday and Wednesday 2PM PT  
+Student Hours: Friday 2PM PT  
+Design Studios: Friday 8AM OR 10AM OR 12PM OR 3PM OR 5PM   
 
 ## Instructors
 
