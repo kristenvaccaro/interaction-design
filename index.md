@@ -2,11 +2,11 @@
 
 This course (CSE 170) provides a practice-based overview of user experience (UX) and user interface (UI) design. Topics will include: identifying opportunities to build tools, principles of good design, and practices for evaluating and iterating on designs. 
 
-### What this class is and what it is not  
-This class is a good choice if you're interested in practical, hands on learning.  
-This class is a survey course and will provide pointers to additional classes where you can learn more detail (DESIGN 100, COGS 121, COGS 125).  
-If you are interested in theory and/or cutting-edge research, you may prefer: CSE 190 Human-AI Interaction or COGS 120.  
-
+## What this class is and what it is not  
+1. This class is a good choice if you're interested in practical, hands on learning.  
+2. This a survey course and will provide pointers to additional classes where you can learn more detail (DESIGN 100, COGS 121, COGS 125).  
+3. If you are interested in theory and/or cutting-edge research, you may prefer: CSE 190 Human-AI Interaction or COGS 120.  
+4. If you are interested in coding/software development, you may prefer: CSE 134B, CSE 136.  
 
 <!-- For an overview of basic concepts related to AI and interaction design, review the following documents:  
 [Machine Learning Review](https://kristenvaccaro.github.io/human-ai/review/ML_Review.pdf)  
