@@ -1,18 +1,19 @@
-# Human-AI Interaction: Fall 2021
+# Interaction Design: Fall 2022
 
-This course provides an introduction to harnessing the power of AI so that it benefits people and communities. Topics will include: agency and initiative, fairness and bias, transparency and explainability, confidence and errors, and privacy, ethics, and trust. Students will build a number of interactive technologies powered by AI, gain practical experience with what makes them more or less usable, and learn to evaluate their impact on individuals and communities. Students will learn to think critically (but also optimistically) about what AI systems can do and how they should be integrated into society.
+This course provides a practice-based overview of user experience (UX) and user interface (UI) design. Topics will include: XYZ. Students will build a number of interactive technologies powered by AI, gain practical experience with what makes them more or less usable, and learn to evaluate their impact on individuals and communities. 
 
-For an overview of basic concepts related to AI and interaction design, review the following documents:  
+<!-- For an overview of basic concepts related to AI and interaction design, review the following documents:  
 [Machine Learning Review](https://kristenvaccaro.github.io/human-ai/review/ML_Review.pdf)  
-[Interaction Design Review](https://kristenvaccaro.github.io/human-ai/review/Interaction_Design_Review.pdf)  
+[Interaction Design Review](https://kristenvaccaro.github.io/human-ai/review/Interaction_Design_Review.pdf)   -->
 
 ## Logistics
 
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai) and [Canvas](https://canvas.ucsd.edu/courses/30741)   
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design) and [Canvas](https://canvas.ucsd.edu/)   
 
-Classroom: RWAC 0121   
-Class Days and Times: Monday and Wednesday 1PM PT  
-Design Studio: Friday 1PM PT  
+Classroom: Center Hall 214   
+Class Days and Times: Monday and Wednesday 2PM PT
+Student Hours: Friday 2PM PT
+Design Studios: Friday 8AM OR 10AM OR 12PM OR 3PM OR 5PM 
 
 ## Instructors
 
