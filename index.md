@@ -12,7 +12,7 @@ Course materials/website: [Course Website](https://kristenvaccaro.github.io/inte
 
 Classroom: Center Hall 214   
 Class Days and Times: Monday and Wednesday 2PM PT  
-Student Hours: Friday 2PM PT  
+Student Hours: Friday 2PM PT (at 3226 CSE)  
 Design Studios: Friday 8AM OR 10AM OR 12PM OR 3PM OR 5PM   
 
 ## Instructors
@@ -20,16 +20,17 @@ Design Studios: Friday 8AM OR 10AM OR 12PM OR 3PM OR 5PM
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
 Office: 3226 CSE  
-Office Hours: Monday 2-3 PM
+CSE 170 Student Hours: Friday 2PM  
 
 TAs  
-[Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart)  
+TBD  
+<!-- [Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart)  
 msmart@ucsd.edu  
 Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
 
 Jack Hale  
 jhale@ucsd.edu  
-Office Hours: Thursday 5-6 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
+Office Hours: Thursday 5-6 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)   -->
 
 ## Communication
 
