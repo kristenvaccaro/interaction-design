@@ -62,7 +62,7 @@ By default office hours will be group-office hours, as many students will have s
 Percentage | Activity
 --- | ---
 60% | Design Assignments
-20% | Final Project
+20% | Studios
 20% | Final Exam
 
 Online discussion responses are due 1 PM Monday and Wednesday (before the start of class)
