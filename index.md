@@ -1,5 +1,4 @@
-# Interaction Design: Fall 2022   
-## CSE 170  
+# CSE 170 Interaction Design: Fall 2022   
 
 This course provides a practice-based overview of user experience (UX) and user interface (UI) design. Topics will include: XYZ. Students will build a number of interactive technologies powered by AI, gain practical experience with what makes them more or less usable, and learn to evaluate their impact on individuals and communities. 
 
