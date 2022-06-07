@@ -32,9 +32,9 @@ TAs
 TBD  
 <!-- [Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart)  
 msmart@ucsd.edu  
-Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
+Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  -->
 
-Jack Hale  
+<!-- Jack Hale  
 jhale@ucsd.edu  
 Office Hours: Thursday 5-6 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)   -->
 
