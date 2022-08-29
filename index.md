@@ -71,10 +71,13 @@ Percentage | Activity
 20% | Studios
 20% | Final Exam
 
-Online discussion responses are due 1 PM Monday and Wednesday (before the start of class)
-Programming and design assignments are due Friday 5 PM
+Design assignments are due Friday 5 PM
 
-Late Policy: You will receive *5 free late days* that can be used for programming and design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
+Late Policy: You will receive *5 free late days* that can be used for design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
+
+#### Is attendance mandatory? Are there video recordings of class sessions for asynchronous viewing?
+
+Attendance is only mandatory on Friday studio sessions. However, you are responsible for knowing the content covered in each class and there are no video recordings of the class sessions. I recommend finding a partner to share notes with in case you are sick or otherwise need to miss class. 
 
 ## Inclusion Statement
 It is my hope that we will develop a supportive learning community that will foster rich discussions through the sharing of personal ideas, experiences, and interpretations of the course material. Honesty, listening for understanding, a willingness to share your ideas, and respect for self and others are basic guidelines that can help create a positive learning environment. Your participation and feedback is important to the success of the course and I welcome your thoughts throughout the semester on how we might improve class processes that will encourage effective communication and dialogue.
