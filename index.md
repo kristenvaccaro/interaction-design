@@ -75,7 +75,7 @@ Design assignments are due Friday 5 PM
 
 Late Policy: You will receive *5 free late days* that can be used for design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
 
-#### Is attendance mandatory? Are there video recordings of class sessions for asynchronous viewing?
+#### Is attendance mandatory? Are there video recordings for asynchronous viewing?
 
 Attendance is only mandatory at the studios. However, you are responsible for knowing the content covered in each class and there are no video recordings of the class sessions. I recommend finding a partner to share notes with in case you are sick or otherwise need to miss class. 
 
