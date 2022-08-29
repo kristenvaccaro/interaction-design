@@ -4,10 +4,8 @@ title: Schedule
 
 # Deadlines
 
-Readings: Monday 1PM  
-Discussion Questions: Monday 1PM  
-Peer Discussion Responses: Wednesday 1PM  
-Programming & Design Assignments: Friday 5PM    
+Readings: Before start of class 
+Design Assignments: Friday 5PM    
 
 # Topics & Readings
 
@@ -16,9 +14,8 @@ None
 
 _Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210924_Introduction+.pdf)_
 
-## Week 1: Fairness and Bias
-Research: Suresh & Guttag ["A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle"](https://arxiv.org/pdf/1901.10002.pdf) 2021  
-News: Martinez & Kirchner ["The secret bias hidden in mortgage-approval algorithms"](https://abcnews.go.com/Business/wireStory/secret-bias-hidden-mortgage-approval-algorithms-79633917) ABC News 2021  
+## Week 1: Needfinding
+  
 
 _Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210927_FairnessBias.pdf)_  
 _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210929_FairnessBias_2.pdf)_  
