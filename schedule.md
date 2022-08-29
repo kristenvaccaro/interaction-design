@@ -17,20 +17,18 @@ _Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-intera
 ## Week 1: Needfinding
   
 
-_Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210927_FairnessBias.pdf)_  
-_Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210929_FairnessBias_2.pdf)_  
+_Slides: [Monday]()_  
+_Slides: [Wednesday]()_  
 
-## Week 2: Transparency and Explainability
-Research: Liao, Gruen & Miller ["Questioning the AI: Informing Design Practices for Explainable AI User Experiences"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf) CHI 2020  
-News: Knight ["The Dark Secret at the Heart of AI"](https://www.technologyreview.com/2017/04/11/5113/the-dark-secret-at-the-heart-of-ai/) MIT Technology Review 2017  
+## Week 2: Bridging from Needs to Solutions
+Reading: Sheila Pontis "Making Sense of Field Research" Chapter 9 [Bridging to design: from findings to actionable design decisions](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVgskF04QBFOoFAC3JGZKZcBBm7XEbsvpGaIxfErY_Fe7g?e=0VaKnY)
 
-_Slides: [Monday & Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211004_Explanations.pdf)_  
-_Slides: [Friday - Rubric & Needfinding](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211008_Rubric.pdf)_   
+_Slides: [Monday]()_  
+_Slides: [Wednesday]()_  
 
-## Week 3: Recommendations
+## Week 3: Information Design
 
-Research: Konstan & Riedl ["Recommender systems: from algorithms to user experience"](http://files.grouplens.org/papers/algorithmstouserexperience.pdf) User Modeling and User-Adapted Interaction 2012  
-Press: Chaslot ["The Toxic Potential of YouTube’s Feedback Loop"](https://www.wired.com/story/the-toxic-potential-of-youtubes-feedback-loop/) Wired 2019
+
 
 _Slides: [Monday & Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211011_Recommendations.pdf)_  
 
