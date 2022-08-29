@@ -35,12 +35,12 @@ _Slides: [Wednesday]()_
 
 ## Week 6: Visual Design
 
-## Week 7: Alternative Forms (AR/VR/Ubiquitous Computing) 
+## Week 7:
 
-## Week 8: Testing
+## Week 8: Outside the Screen
 
-## Week 9: 
+## Week 9: Testing
 None
 
-## Week 10:
+## Week 10: Talking About Your Work
 None
