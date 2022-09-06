@@ -27,20 +27,26 @@ _Slides: [Monday]()_
 _Slides: [Wednesday]()_  
 
 ## Week 3: Information Design
-
+Reading: 
 
 ## Week 4: Prototyping
+Reading:
+
 
 ## Week 5: UI Design
+Reading: 
 
 ## Week 6: Visual Design
+Reading:
 
-## Week 7:
+## Week 7: Communication Design
+Reading:
 
-## Week 8: Outside the Screen
+## Week 8: Testing
+Reading:
 
-## Week 9: Testing
-None
+## Week 9: Outside the Screen
+Reading:
 
 ## Week 10: Talking About Your Work
-None
+Reading:
