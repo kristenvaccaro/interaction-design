@@ -15,7 +15,7 @@ None
 _Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210924_Introduction+.pdf)_
 
 ## Week 1: Needfinding
-  
+Reading: Dev Patnaik "Needfinding: Design Research and Planning" pp 5-36
 
 _Slides: [Monday]()_  
 _Slides: [Wednesday]()_  
