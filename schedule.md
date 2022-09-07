@@ -20,7 +20,7 @@ Reading: Dev Patnaik "Needfinding: Design Research and Planning" pp 5-36
 _Slides: [Monday]()_  
 _Slides: [Wednesday]()_  
 
-## Week 2: Bridging from Needs to Solutions
+## Week 2: From Needs to Solutions
 Reading: Sheila Pontis "Making Sense of Field Research" Chapter 9 [Bridging to design: from findings to actionable design decisions](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVgskF04QBFOoFAC3JGZKZcBBm7XEbsvpGaIxfErY_Fe7g?e=0VaKnY)
 
 _Slides: [Monday]()_  
