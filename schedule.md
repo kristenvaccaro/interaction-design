@@ -21,15 +21,17 @@ _Slides: [Monday]()_
 _Slides: [Wednesday]()_  
 
 ## Week 2: From Needs to Solutions
-Reading: Sheila Pontis "Making Sense of Field Research" Chapter 9 [Bridging to design: from findings to actionable design decisions](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EfpHoSXTXHBJoK3BZBn3CykBocPpr5AWWwFuKP_g6ijp1Q?e=gzPSc1)
-Jesse James Garrett "Elements of User Experience" Chapter 4 [The Scope Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EWVqQ8GP4flAlJ4GGNaYpXEB_rlYBPbSTWzzWx_28QaMlA?e=om3NcM)
+Reading:  
+Sheila Pontis "Making Sense of Field Research" Chapter 9 [Bridging to design: from findings to actionable design decisions](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EfpHoSXTXHBJoK3BZBn3CykBocPpr5AWWwFuKP_g6ijp1Q?e=gzPSc1)  
+Jesse James Garrett "Elements of User Experience" Chapter 4 [The Scope Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EWVqQ8GP4flAlJ4GGNaYpXEB_rlYBPbSTWzzWx_28QaMlA?e=om3NcM)  
 
 _Slides: [Monday]()_  
 _Slides: [Wednesday]()_  
 
 ## Week 3: Information Design
-Reading: Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETeWGHesBNBBiFvEwSm686UBYdSOHm5rWdRQkl3l-G5m2g?e=8lh0hm)
-Jesse James Garrett "Elements of User Experience" Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)
+Reading:  
+Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETeWGHesBNBBiFvEwSm686UBYdSOHm5rWdRQkl3l-G5m2g?e=8lh0hm)  
+Jesse James Garrett "Elements of User Experience" Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)  
 
 ## Week 4: Prototyping
 Reading:
