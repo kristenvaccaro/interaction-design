@@ -4,7 +4,7 @@ title: Schedule
 
 # Deadlines
 
-Readings: Before start of class 
+Readings: Before start of class   
 Design Assignments: Friday 5PM    
 
 # Topics & Readings
