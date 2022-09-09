@@ -51,7 +51,9 @@ Reading:
 Nicole Fenlon & Kate Kiefer Lee "Nicely Said: Writing for the Web with Style and Purpose" Chapter 4 [Writing Basics](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ea12OrMuyQFJqSMSEG4wGzIBGBeTLBJCkN9_Hf64kNoIyA?e=md8cKj)  
 
 ## Week 8: Dark Patterns
-Reading:
+Reading:  
+Sara Morrison "Dark patterns, the tricks websites use to make you say yes, explained" on [Vox](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy)  
+Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired](https://www.wired.com/story/how-to-spot-avoid-dark-patterns/)  
 
 ## Week 9: Testing
 Reading:
