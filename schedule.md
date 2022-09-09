@@ -34,7 +34,7 @@ Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane
 Jesse James Garrett "Elements of User Experience" Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)  
 
 ## Week 4: Sketching & Prototyping
-Reading:
+Reading:  
 Bill Buxton "Sketching User Experiences: Getting the Design Right and the Right Design" [The Anatomy of Sketching](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETY5_S6SvzpCs-A9JkWr-d8B7cuu7-5X0SEpi0Jc3uVPUw)  
 
 ## Week 5: UI Design
