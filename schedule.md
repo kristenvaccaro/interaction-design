@@ -43,6 +43,7 @@ Reading:
 ## Week 6: Visual Design
 Reading:  
 Robin Williams "The Non-Designer's Design Book" Part 1 [Design Principles](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EYIFhLP0iI1JnDmGuaB_rRwBck536WK0nE5b9ME6SybXHA?e=ETHUao)  
+Johannes Itten "The Elements of Color" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXCTTxH87_FCuLEoEX0kVewB9p3-qRcobbx-QXldHnTq7w?e=fOrZvB)
 
 ## Week 7: Communication Design
 Reading:  
