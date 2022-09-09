@@ -15,7 +15,7 @@ None
 _Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210924_Introduction+.pdf)_
 
 ## Week 1: Needfinding
-Reading: Dev Patnaik "Needfinding: Design Research and Planning" pp 5-36
+Reading: Dev Patnaik "Needfinding: Design Research and Planning" pp 5-36  
 
 _Slides: [Monday]()_  
 _Slides: [Wednesday]()_  
@@ -33,9 +33,9 @@ Reading:
 Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETeWGHesBNBBiFvEwSm686UBYdSOHm5rWdRQkl3l-G5m2g?e=8lh0hm)  
 Jesse James Garrett "Elements of User Experience" Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)  
 
-## Week 4: Prototyping
+## Week 4: Sketching & Prototyping
 Reading:
-
+Bill Buxton "Sketching User Experiences: Getting the Design Right and the Right Design" [The Anatomy of Sketching](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETY5_S6SvzpCs-A9JkWr-d8B7cuu7-5X0SEpi0Jc3uVPUw)  
 
 ## Week 5: UI Design
 Reading: 
