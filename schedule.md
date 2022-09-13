@@ -39,7 +39,9 @@ Reading:
 Bill Buxton "Sketching User Experiences: Getting the Design Right and the Right Design" [The Anatomy of Sketching](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETY5_S6SvzpCs-A9JkWr-d8B7cuu7-5X0SEpi0Jc3uVPUw)  
 
 ## Week 5: UI Design
-Reading: 
+Reading:   
+Everett N McKay "UI Is Communication" Chapter 2 [Interaction Design](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efgp45WkNKFCnBoQC2PcOPkBClrbxx8bEhwrN-EgeMcD0A?e=lU0iHe)   
+
 
 ## Week 6: Visual Design
 Reading:  
