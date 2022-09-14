@@ -41,7 +41,7 @@ Bill Buxton "Sketching User Experiences: Getting the Design Right and the Right 
 ## Week 5: UI Design
 Reading:   
 Everett N McKay "UI Is Communication" Chapter 2 [Interaction Design](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efgp45WkNKFCnBoQC2PcOPkBClrbxx8bEhwrN-EgeMcD0A?e=lU0iHe)   
-
+Alan Dix, Janet Finlay, Gregory Abowd & Russell Beale "Human-Computer Interaction" Chapter 5.7 [Screen Design And Layout](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EbeMpqja0kxJmx1jhfixhSgBCVEG25hqyDkgnJ4KbkwIcQ?e=w9wW2O) and Chapter 7 [Design Rules](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETu9XXtRtAxIkPG43caDbLABh8-FUlSZ9NgecJ8hVdDaVg?e=s1F8wK)
 
 ## Week 6: Visual Design
 Reading:  
