@@ -11,7 +11,7 @@ Design assignments will be due at 11:59PM Friday, every week.
 
 ### Links
 
-#### Assignment #0
+#### Assignment #0 (Ungraded)
 Due Friday September 23, 11:59PM  
 
 You will identify three populations you may study for this course. 
