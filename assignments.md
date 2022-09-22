@@ -11,21 +11,21 @@ Design assignments will be due at 11:59PM Friday, every week.
 
 ### Links
 
-#### Homework #0
+#### Assignment #0
 Due Friday September 23, 11:59PM  
 
 You will identify three populations you may study for this course. 
 Will be released Friday September 23.  
 
-[Assignment Details]()
+[Materials](https://drive.google.com/file/d/1G4D0ovf1DrvNniFJ2bwl42skLMF7Gpr7/view?usp=sharing)
 
-#### Homework #2
-Due Friday October 8, 5PM  
+#### Assignment #1
+Due Friday September 30, 11:59PM  
 
-You will build a model for home loan predictions and explain the model predictions to others.   
-Will be released Friday October 1.  
+You will develop a plan for conducting needfinding.    
+Will be released Friday September 23.  
 
-[Materials](https://github.com/kristenvaccaro/CSE190-HW2)  
+[Materials]()  
 
 
 
