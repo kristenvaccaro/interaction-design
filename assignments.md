@@ -14,13 +14,13 @@ Design assignments will be due at 11:59PM Friday, every week.
 #### Assignment #0 (Ungraded)
 Due Friday September 23, 11:59PM  
 
-You will identify three populations you may study for this course. 
-Will be released Friday September 23.  
+You will identify three populations you may study for this course.   
+Will be released Friday September 23.   
 
 [Materials](https://drive.google.com/file/d/1G4D0ovf1DrvNniFJ2bwl42skLMF7Gpr7/view?usp=sharing)
 
 #### Assignment #1
-Due Friday September 30, 11:59PM  
+Due Friday September 30, 11:59PM   
 
 You will develop a plan for conducting needfinding.    
 Will be released Friday September 23.  
