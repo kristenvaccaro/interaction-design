@@ -18,7 +18,7 @@ _Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-intera
 Reading: Dev Patnaik "Needfinding: Design Research and Planning" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Eb026qRJHn9Hr9Rwd_cWya8BRksZ1EL8X3ru7sxdxTRarw?e=5fUQAT)    
 Jenny Preece, Yvonne Rogers & Helen Sharp "Interaction Design: Beyond Human-Computer Interaction" Chapter 7.6 [Observation](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVTkx_HI-9xEtga8B0p46lcB8yNB7agUBb4V2cNRkgkGhw?e=ZufOmi)
 
-<-- Dev Patnaik & Robert Becker "Needfinding: The Why and How of Uncovering People’s Needs" from [Design Management Journal](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXFj0Nu-FRNLqdvcQt_vdv4BJXxEyUsykhJ0Hy7msLlDGA?e=aG4hvf) -->    
+<!-- Dev Patnaik & Robert Becker "Needfinding: The Why and How of Uncovering People’s Needs" from [Design Management Journal](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXFj0Nu-FRNLqdvcQt_vdv4BJXxEyUsykhJ0Hy7msLlDGA?e=aG4hvf) -->    
 
 _Slides: [Monday]()_   
 _Slides: [Wednesday]()_   
