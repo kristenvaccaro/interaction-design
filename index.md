@@ -67,11 +67,12 @@ By default office hours will be group-office hours, as many students will have s
 
 Percentage | Activity
 --- | ---
-60% | Design Assignments
-20% | Studios
+50% | Design Assignments  
+20% | Studios  
+10% | Quizzes  
 20% | Final Exam
 
-Design assignments are due Friday 5 PM
+Design assignments are due Friday 11:59 PM
 
 Late Policy: You will receive *5 free late days* that can be used for design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
 
