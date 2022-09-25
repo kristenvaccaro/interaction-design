@@ -12,7 +12,7 @@ Design Assignments: Friday 5PM
 ## Week 0: Introduction
 None  
 
-_Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210924_Introduction+.pdf)_
+_Slides: [Friday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcJERgSMyy1JlI1uAnCjpO8Bb6qMJnwupf34IjM7uvgJqQ?e=FaWxmR)_
 
 ## Week 1: Needfinding   
 Reading: Dev Patnaik "Needfinding: Design Research and Planning" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Eb026qRJHn9Hr9Rwd_cWya8BRksZ1EL8X3ru7sxdxTRarw?e=5fUQAT)    
