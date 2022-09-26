@@ -28,6 +28,17 @@ Will be released Monday September 26.
 [Materials](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efd1VR4qCodKqBWBZ2eopo4BOGmF2CUYPE8AC8inZEYc-w?e=3LeD4C)   
 
 
+#### Assignment #2
+Due Friday October 7, 11:59PM   
+
+You will conduct observations and analyze your findings.        
+Will be released Monday October 3.  
+
+[Materials]()   
+
+
+
+
 ## Quizzes
 
 The quizzes will ask similar questions and prepare you for the final exam. The quizzes will in be in-class. 
