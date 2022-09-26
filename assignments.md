@@ -22,11 +22,10 @@ Will be released Friday September 23.
 #### Assignment #1
 Due Friday September 30, 11:59PM   
 
-You will develop a plan for conducting needfinding.    
-Will be released Friday September 23.  
+You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!      
+Will be released Monday September 26.  
 
-[Materials]()  
-
+[Materials](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efd1VR4qCodKqBWBZ2eopo4BOGmF2CUYPE8AC8inZEYc-w?e=3LeD4C)   
 
 
 ## Quizzes
