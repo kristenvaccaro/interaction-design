@@ -14,12 +14,13 @@ This course (CSE 170) provides a practice-based overview of user experience (UX)
 
 ## Logistics
 
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design) and [Canvas](https://canvas.ucsd.edu/)   
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design), [Canvas](https://canvas.ucsd.edu/), and [Discord](https://discord.gg/6ehpamkGCH)     
 
 Classroom: Center Hall 214   
 Class Days and Times: Monday and Wednesday 2PM PT  
 Student Hours: Friday 2PM PT (at 3226 CSE)  
 Design Studios: Friday 8AM OR 10AM OR 12PM OR 3PM OR 5PM   
+You must attend the design studio session that you enrolled in  
 
 ## Instructors
 
@@ -29,7 +30,14 @@ Office: 3226 CSE
 CSE 170 Student Hours: Friday 2PM  
 
 TAs  
-TBD  
+Sharvari Thippanna   
+sthippan@ucsd.edu   
+
+Alexa Wang   
+alw015@ucsd.edu   
+Student Hours: Monday 11AM  
+Location: https://ucsd.zoom.us/j/5370674523  
+
 <!-- [Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart)  
 msmart@ucsd.edu  
 Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  -->
