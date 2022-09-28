@@ -1,6 +1,6 @@
 # Assignments
 
-There will be five forms of assessment over the quarter: online discussion, in-person discussion/participation, programming&design assignments, a group project, and a final exam. All are weighted equally (20% each). All deadlines are given in PT.
+There will be four forms of assessment over the quarter: active participation in design studios (20%), weekly design assignments (50%), quizzes (10%), and a final exam (20%). All deadlines are given in PT.  
 
 
 ## Design Assignments
@@ -35,8 +35,6 @@ You will conduct observations and analyze your findings.
 Will be released Monday October 3.  
 
 [Materials]()   
-
-
 
 
 ## Quizzes
