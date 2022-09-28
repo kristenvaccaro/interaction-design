@@ -51,7 +51,7 @@ Office Hours: Thursday 5-6 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps
 
 Course related announcements will be shared on Canvas. Please use Canvas for your course-related questions as well!
 
-#### Questions that are a good fit for Canvas Discussions:
+#### Questions that are a good fit for Discord:
 - Can someone help me understand this section of the reading?
 - What would be some examples of \[topic from the readings\]?
 - I'm stuck on the homework at \[xyz\]. Can someone suggest some ideas of what might be going wrong?
