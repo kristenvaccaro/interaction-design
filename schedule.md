@@ -26,7 +26,7 @@ _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro
 ## Week 2: From Needs to Solutions
 Reading:  
 Sheila Pontis "Making Sense of Field Research" Chapter 9 [Bridging to design: from findings to actionable design decisions](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EfpHoSXTXHBJoK3BZBn3CykBocPpr5AWWwFuKP_g6ijp1Q?e=gzPSc1)  
-Jesse James Garrett "Elements of User Experience" Chapter 4 [The Scope Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EWVqQ8GP4flAlJ4GGNaYpXEB_rlYBPbSTWzzWx_28QaMlA?e=om3NcM)  
+Karl Ulrich & Steven Eppinger "Product Design and Development" Chapter 5 [Identifying Customer Needs](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EST6CpqPSIpCmMV0dhsJWysBsCYzyvgHuQgjJvncsvbiEA?e=maiw5O)  
 
 _Slides: [Monday]()_  
 _Slides: [Wednesday]()_  
