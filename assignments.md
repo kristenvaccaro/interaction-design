@@ -34,7 +34,7 @@ Due Friday October 7, 11:59PM
 You will conduct observations and analyze your findings.        
 Will be released Monday October 3.  
 
-[Materials]()   
+[Instructions](https://docs.google.com/document/d/1ItD3q_uJKi2yv2CJAlFe3eI1kH-Hvdrp_F0VpptrZCE/edit?usp=sharing), [Rubric](https://docs.google.com/document/d/1cbY5dA84rzyzzQaDTvHo5kbgaW36I5LQSaDml1mAo_o/edit?usp=sharing), and [Templates](https://drive.google.com/drive/folders/1Zpq602P_8BHOimPo6Ul5c4qyv2Mh9BYf?usp=sharing)
 
 
 ## Quizzes
