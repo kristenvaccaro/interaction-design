@@ -28,7 +28,7 @@ Reading:
 Sheila Pontis "Making Sense of Field Research" Chapter 9 [Bridging to design: from findings to actionable design decisions](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EfpHoSXTXHBJoK3BZBn3CykBocPpr5AWWwFuKP_g6ijp1Q?e=gzPSc1)  
 Karl Ulrich & Steven Eppinger "Product Design and Development" Chapter 5 [Identifying Customer Needs](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EST6CpqPSIpCmMV0dhsJWysBsCYzyvgHuQgjJvncsvbiEA?e=maiw5O)  
 
-_Slides: [Monday]()_  
+_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ER9jH3TgUK5Kj0v-PjricpEByhvmUDX3jcWN5Md9KmchEw?e=bfvqX4)_  
 _Slides: [Wednesday]()_  
 
 ## Week 3: Information Design
