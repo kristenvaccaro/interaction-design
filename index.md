@@ -27,7 +27,7 @@ You must attend the design studio session that you enrolled in
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!    
 CSE 170 Office Hours: Friday 2PM   
-General Office Hours: Wednesday 10AM  
+General Office Hours: Wednesday 9:30AM  
 Location: 3226 CSE Building
 
 TAs  
