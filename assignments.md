@@ -26,8 +26,6 @@ You will develop a plan for conducting a needfinding study. Note, next week you 
 Will be released Monday September 26.  
 
 [Materials](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efd1VR4qCodKqBWBZ2eopo4BOGmF2CUYPE8AC8inZEYc-w?e=3LeD4C)   
-
-
 #### Assignment #2
 Due Friday October 7, 11:59PM   
 
@@ -43,6 +41,16 @@ You will sketch possible solutions for the needs you identified.
 Will be released Monday October 7.  
 
 [Instructions and Rubric](https://docs.google.com/document/d/1-vAP14w8XsAzl1puRHVVDSHhGaJ2rcNDyfSXr_Wk1IY/edit?usp=sharing)
+
+
+#### Assignment #4
+Due Friday October 21, 11:59PM   
+
+You will create an architecture diagram and low-fidelity prototype either of or to support your solution.        
+Will be released Monday October 17.  
+
+[Instructions and Rubric](https://docs.google.com/document/d/1SwIGVOvrpv2KGslgxCNvh0v4zeZXscNu_KrBqAJgJ8o/edit?usp=sharing)
+
 
 
 ## Quizzes
