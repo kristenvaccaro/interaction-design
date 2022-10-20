@@ -45,7 +45,7 @@ Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane
 Jesse James Garrett "Elements of User Experience" Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)  
 
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUPqclMljVBEgUGxmeDMB3ABEboSyn9ZinGYPHapDnKIbA?e=c6pjJq)_  
-_Slides: [Wednesday]()_  
+_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcYJPEqZVUJKhaXKD8wFrLYB9mxDT95o_e8luy1xtjIAVg?e=8Wyg9Z)_  
 
 ## Week 5: UI Design
 Reading:   
