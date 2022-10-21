@@ -41,8 +41,9 @@ _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro
 
 ## Week 4: Information Design
 Reading:  
-Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETeWGHesBNBBiFvEwSm686UBYdSOHm5rWdRQkl3l-G5m2g?e=8lh0hm)  
-Jesse James Garrett "Elements of User Experience" Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)  
+Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETeWGHesBNBBiFvEwSm686UBYdSOHm5rWdRQkl3l-G5m2g?e=8lh0hm) and Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)  
+<!-- Nicole Fenlon & Kate Kiefer Lee "Nicely Said: Writing for the Web with Style and Purpose" Chapter 4 [Writing Basics](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ea12OrMuyQFJqSMSEG4wGzIBGBeTLBJCkN9_Hf64kNoIyA?e=md8cKj)  -->
+
 
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUPqclMljVBEgUGxmeDMB3ABEboSyn9ZinGYPHapDnKIbA?e=c6pjJq)_  
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcYJPEqZVUJKhaXKD8wFrLYB9mxDT95o_e8luy1xtjIAVg?e=8Wyg9Z)_  
@@ -66,20 +67,6 @@ Johannes Itten "The Elements of Color" [Excerpts](https://ucsdcloud-my.sharepoin
 _Slides: [Monday]()_  
 _Slides: [Wednesday]()_  
 
-## Week 7: Qualitative Methods for Testing
-Reading:  
-Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Section 2 [Selecting and Using User Research Methods](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZUkPiWsURlMkS2_zJe3C8gBcBPiQHWhMwY4ttFlXME6iQ), Chapter 9 [User Interviews](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcS7gaF88Z1Fli_qVUBeZpEBL5l0IwOIrbDo5ruuVDf_Qw), Chapter 10 [Diary Studies](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EaAtyaxTdi9OvYY_Gu8eiAQBuNiuHW_skwcuTENdBS2t_A), Chapter 13 [Contextual Inquiry](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZVy3tNq-xtGs6yZJ8n3BeMBiLwXlCqbfhK4K7QSXC3rpg)
-
-_Slides: [Monday]()_  
-_Slides: [Wednesday]()_  
-
-## Week 8: Quantitative Methods for Testing
-Reading:  
-Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Chapter 5 [Usability Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcZBbxgdLW5MkSdb-8j5LpUB7sQyIpdP2DHtF6oqmomfOQ), Chapter 8 [Surveys](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVYK7z2Oh7BPtK8uimYTjU0BON8tYeANxokbxdHFnnx2jw), Chapter 14 [A/B Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Eden7s0VTCZOgTz406l9nZQBsyE_I5hRKFc2XyHAAxr2pg) 
-
-_Slides: [Monday]()_  
-_Slides: [Wednesday]()_  
-
 ## Week 9: Dark Patterns
 Reading:  
 Sara Morrison "Dark patterns, the tricks websites use to make you say yes, explained" on [Vox](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy)  
@@ -88,10 +75,23 @@ Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired]
 _Slides: [Monday]()_  
 _Slides: [Wednesday]()_  
 
-## Week 10: Communication Design
+## Week 10: The Best Interface Is No Interface
 Reading:  
-  
-Nicole Fenlon & Kate Kiefer Lee "Nicely Said: Writing for the Web with Style and Purpose" Chapter 4 [Writing Basics](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ea12OrMuyQFJqSMSEG4wGzIBGBeTLBJCkN9_Hf64kNoIyA?e=md8cKj)  
+Golden Krishna "The Best Interface Is No Interface" [Excerpts]()  
+
+_Slides: [Monday]()_  
+_Slides: [Wednesday]()_  
+
+## Week 9: Qualitative Methods for Testing
+Reading:  
+Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Section 2 [Selecting and Using User Research Methods](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZUkPiWsURlMkS2_zJe3C8gBcBPiQHWhMwY4ttFlXME6iQ), Chapter 9 [User Interviews](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcS7gaF88Z1Fli_qVUBeZpEBL5l0IwOIrbDo5ruuVDf_Qw), Chapter 10 [Diary Studies](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EaAtyaxTdi9OvYY_Gu8eiAQBuNiuHW_skwcuTENdBS2t_A), Chapter 13 [Contextual Inquiry](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZVy3tNq-xtGs6yZJ8n3BeMBiLwXlCqbfhK4K7QSXC3rpg)
+
+_Slides: [Monday]()_  
+_Slides: [Wednesday]()_  
+
+## Week 10: Quantitative Methods for Testing
+Reading:  
+Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Chapter 5 [Usability Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcZBbxgdLW5MkSdb-8j5LpUB7sQyIpdP2DHtF6oqmomfOQ), Chapter 8 [Surveys](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVYK7z2Oh7BPtK8uimYTjU0BON8tYeANxokbxdHFnnx2jw), Chapter 14 [A/B Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Eden7s0VTCZOgTz406l9nZQBsyE_I5hRKFc2XyHAAxr2pg) 
 
 _Slides: [Monday]()_  
 _Slides: [Wednesday]()_  
