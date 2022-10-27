@@ -56,8 +56,8 @@ _OPTIONAL REFERENCE_ Alan Cooper, Robert Reimann & David Cronin "About Face 3: T
 
 <!-- Chapter 5.7 [Screen Design And Layout](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EbeMpqja0kxJmx1jhfixhSgBCVEG25hqyDkgnJ4KbkwIcQ?e=w9wW2O) and -->
 
-_Slides: [Monday]()_  
-_Slides: [Wednesday]()_  
+_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUPqclMljVBEgUGxmeDMB3ABEboSyn9ZinGYPHapDnKIbA?e=GL4oBQ)_  
+_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcYJPEqZVUJKhaXKD8wFrLYB9mxDT95o_e8luy1xtjIAVg?e=44hapY)_  
 
 ## Week 6: Visual Design
 Reading:  
