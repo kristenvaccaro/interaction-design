@@ -59,6 +59,12 @@ You will create low-fidelity prototypes of interactions in your solution. During
 
 [Instructions and Rubric](https://docs.google.com/document/d/1i1MwKyfyfTq77hmWvDUn9qAbm01DXu7nZfl3lQIY1Mg/edit?usp=sharing)
 
+#### Assignment #6   
+Due Friday November 4, 11:59PM  
+
+You will create medium to high-fidelity prototypes of the visual design of some part of your solution.  
+
+[Instructions and Rubric](https://docs.google.com/document/d/1z-ZJKr9lIQOmlzhN_lOYKMDq83-tBjlrH6L6w1iVLWQ/edit?usp=sharing)  
 
 
 ## Quizzes
