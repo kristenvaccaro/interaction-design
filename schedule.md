@@ -48,7 +48,7 @@ Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUPqclMljVBEgUGxmeDMB3ABEboSyn9ZinGYPHapDnKIbA?e=c6pjJq)_  
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcYJPEqZVUJKhaXKD8wFrLYB9mxDT95o_e8luy1xtjIAVg?e=8Wyg9Z)_  
 
-## Week 5: UI Design
+## Week 5: Interaction Design
 Reading:   
 Everett N McKay "UI Is Communication" Chapter 2 [Interaction Design](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efgp45WkNKFCnBoQC2PcOPkBClrbxx8bEhwrN-EgeMcD0A?e=lU0iHe)   
 Alan Dix, Janet Finlay, Gregory Abowd & Russell Beale "Human-Computer Interaction" Chapter 7 [Design Rules](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETu9XXtRtAxIkPG43caDbLABh8-FUlSZ9NgecJ8hVdDaVg?e=s1F8wK)    
@@ -56,8 +56,8 @@ _OPTIONAL REFERENCE_ Alan Cooper, Robert Reimann & David Cronin "About Face 3: T
 
 <!-- Chapter 5.7 [Screen Design And Layout](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EbeMpqja0kxJmx1jhfixhSgBCVEG25hqyDkgnJ4KbkwIcQ?e=w9wW2O) and -->
 
-_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUPqclMljVBEgUGxmeDMB3ABEboSyn9ZinGYPHapDnKIbA?e=GL4oBQ)_  
-_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcYJPEqZVUJKhaXKD8wFrLYB9mxDT95o_e8luy1xtjIAVg?e=44hapY)_  
+_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZdZiSUxuRhCt5ZzDzPNDT4BT6Iioh6TxT0sZhMM58wdpw?e=LgMihC)_  
+_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EfvPzhpdU7BBvbg1jLFNBxIBvNNQzTfJHGgaZaQ6kQURsA?e=gIghJA)_  
 
 ## Week 6: Visual Design
 Reading:  
