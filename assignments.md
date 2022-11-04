@@ -66,6 +66,15 @@ You will create medium to high-fidelity prototypes of the visual design of some 
 
 [Instructions and Rubric](https://docs.google.com/document/d/1z-ZJKr9lIQOmlzhN_lOYKMDq83-tBjlrH6L6w1iVLWQ/edit?usp=sharing)  
 
+#### Assignment #7   
+Due Thursday November 10, 11:59PM  
+
+You will find and analyze an example of a dark pattern.  
+
+[Instructions and Rubric](https://docs.google.com/document/d/1KJYfWpoRGtZtPlIvUNS91hw_EZpJkFtUQbZtAZoicQE/edit?usp=sharing)  
+
+
+
 
 ## Quizzes
 
