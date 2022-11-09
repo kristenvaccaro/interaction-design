@@ -77,7 +77,7 @@ _Slides: [Wednesday]()_
 
 ## Week 10: The Best Interface Is No Interface
 Reading:  
-Golden Krishna "The Best Interface Is No Interface" [Excerpts]()  
+Golden Krishna "The Best Interface Is No Interface" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXM5avpHQwlPuAk4SwCNHy8BH2IEMGQMEjIFmxIb9LThyA?e=cXQAOw)  
 
 _Slides: [Monday]()_  
 _Slides: [Wednesday]()_  
