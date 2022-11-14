@@ -67,7 +67,7 @@ Johannes Itten "The Elements of Color" [Excerpts](https://ucsdcloud-my.sharepoin
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZJO7qVegqJPhkgvO9I46CQBfuwgsACryNcQHjopEoyHzA?e=bdcs7a)_  
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EX0O9RjhvBBIqHOlm7zu4b0BhLCBL2U-_y8ch5XSB0oyaA?e=15Yuog)_  
 
-## Week 9: Dark Patterns
+## Week 7: Dark Patterns
 Reading:  
 Sara Morrison "Dark patterns, the tricks websites use to make you say yes, explained" on [Vox](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy)  
 Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired](https://www.wired.com/story/how-to-spot-avoid-dark-patterns/)  
@@ -75,7 +75,7 @@ Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired]
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ed3rbfvYVRlDssJalmo4a5MBM6nJbOc4AL6pdCCYid1dyA?e=X1ixWJ)_  
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcuKuTJ3ApVAoDgfI78jedEBeOmd8lTtTq72jt1_le2ZJw?e=UAdVUD)_  
 
-## Week 10: The Best Interface Is No Interface
+## Week 8: The Best Interface Is No Interface
 Reading:  
 Golden Krishna "The Best Interface Is No Interface" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXM5avpHQwlPuAk4SwCNHy8BH2IEMGQMEjIFmxIb9LThyA?e=cXQAOw)  
 
