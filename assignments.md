@@ -73,6 +73,13 @@ You will find and analyze an example of a dark pattern.
 
 [Instructions and Rubric](https://docs.google.com/document/d/1KJYfWpoRGtZtPlIvUNS91hw_EZpJkFtUQbZtAZoicQE/edit?usp=sharing)  
 
+#### Assignment #8   
+Due Friday November 18, 11:59PM  
+
+You will brainstorm a no-interface solution to one of your needfinding problems.    
+Note: due to the student worker strike, this assignment will be peer graded.   
+
+[Instructions and Rubric](https://docs.google.com/document/d/1D4sdrL0BGtqEATjX6_u1Y3d1e70NdEnMfSA5QYvQiwQ/edit?usp=sharing)  
 
 
 
