@@ -79,8 +79,8 @@ _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro
 Reading:  
 Golden Krishna "The Best Interface Is No Interface" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXM5avpHQwlPuAk4SwCNHy8BH2IEMGQMEjIFmxIb9LThyA?e=cXQAOw)  
 
-_Slides: [Monday]()_  
-_Slides: [Wednesday]()_  
+_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ESl8gD4vg1BLos3SPohCck4BwQ23T5LsEQcPKBl19DNSXA?e=7ECnTO)_  
+_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVeEJiIuPdlFnwMtwisAA3EBMkVx2viHH684VK5HCbLioQ?e=MtftAc)_  
 
 ## Week 9: Qualitative Methods for Testing
 Reading:  
