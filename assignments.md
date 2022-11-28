@@ -81,6 +81,16 @@ Note: due to the student worker strike, this assignment will be peer graded.
 
 [Instructions and Rubric](https://docs.google.com/document/d/1D4sdrL0BGtqEATjX6_u1Y3d1e70NdEnMfSA5QYvQiwQ/edit?usp=sharing)  
 
+#### Assignment #9   
+Due Friday December 2, 11:59PM  
+
+You will plan user testing for your tool or system.     
+
+[Instructions and Rubric](https://docs.google.com/document/d/1YER0AcptYVQfVK-Wl6NZIJddqFPzhF9vXnRR49aV8zg/edit?usp=sharing)  
+
+
+
+
 
 
 ## Quizzes
