@@ -86,8 +86,8 @@ _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro
 Reading:  
 Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Section 2 [Selecting and Using User Research Methods](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZUkPiWsURlMkS2_zJe3C8gBcBPiQHWhMwY4ttFlXME6iQ), Chapter 9 [User Interviews](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcS7gaF88Z1Fli_qVUBeZpEBL5l0IwOIrbDo5ruuVDf_Qw), Chapter 10 [Diary Studies](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EaAtyaxTdi9OvYY_Gu8eiAQBuNiuHW_skwcuTENdBS2t_A), Chapter 13 [Contextual Inquiry](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZVy3tNq-xtGs6yZJ8n3BeMBiLwXlCqbfhK4K7QSXC3rpg)
 
-_Slides: [Monday]()_  
-_Slides: [Wednesday]()_  
+_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUKYDuVoLFJHiHwnsSPFimUBni96v9kNj6U7dOuCpWMB5g?e=Cb16Mh)_  
+_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXKTJeAWq2hEmSqsTK0OrggByzKzCkCziayBbe2OqpkHEg?e=DRQ0Ai)_  
 
 ## Week 10: Quantitative Methods for Testing
 Reading:  
