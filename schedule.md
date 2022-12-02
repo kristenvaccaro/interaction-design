@@ -94,4 +94,4 @@ Reading:
 Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Chapter 5 [Usability Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcZBbxgdLW5MkSdb-8j5LpUB7sQyIpdP2DHtF6oqmomfOQ), Chapter 8 [Surveys](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVYK7z2Oh7BPtK8uimYTjU0BON8tYeANxokbxdHFnnx2jw), Chapter 14 [A/B Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Eden7s0VTCZOgTz406l9nZQBsyE_I5hRKFc2XyHAAxr2pg) 
 
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EWg-SSTtVRNBrni7hUnwkOkBNwbGcY0tl48suMuSN3Z3_A?e=Wm8wEf)_  
-_Slides: [Wednesday]()_  
+_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ERUSFzcWrVhMueGc98pwKcUBhZn5c7DyPGJGjuEoXyR8fA?e=vdvnBN)_  
