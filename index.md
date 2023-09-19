@@ -17,8 +17,8 @@ This course (CSE 170) provides a practice-based overview of user experience (UX)
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design), [Canvas](https://canvas.ucsd.edu/), and [Discord](https://discord.gg/6ehpamkGCH)     
 
 Classroom: Center Hall 214   
-Class Days and Times: Monday and Wednesday 2PM PT  
-Student Hours: Friday 2PM PT (at 3226 CSE)  
+Class Days and Times: Monday, Wednesday, and Friday 2PM PT  
+Student Hours: TBD (at 3226 CSE)  
 Design Studios: Friday 8AM OR 10AM OR 12PM OR 3PM OR 5PM   
 You must attend the design studio session that you enrolled in  
 
@@ -76,10 +76,11 @@ By default office hours will be group-office hours, as many students will have s
 
 Percentage | Activity
 --- | ---
-50% | Design Assignments  
+40% | Design Assignments  
+20% | Coding Assignments
 20% | Studios  
 10% | Quizzes  
-20% | Final Exam
+10% | Final Exam
 
 Design assignments are due Friday 11:59 PM
 
