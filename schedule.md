@@ -48,7 +48,15 @@ Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUPqclMljVBEgUGxmeDMB3ABEboSyn9ZinGYPHapDnKIbA?e=c6pjJq)_  
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcYJPEqZVUJKhaXKD8wFrLYB9mxDT95o_e8luy1xtjIAVg?e=8Wyg9Z)_  
 
-## Week 5: Interaction Design
+## Week 5: Visual Design
+Reading:  
+Robin Williams "The Non-Designer's Design Book" Part 1 [Design Principles](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EYIFhLP0iI1JnDmGuaB_rRwBck536WK0nE5b9ME6SybXHA?e=ETHUao)  
+Johannes Itten "The Elements of Color" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXCTTxH87_FCuLEoEX0kVewB9p3-qRcobbx-QXldHnTq7w?e=fOrZvB)
+
+_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZJO7qVegqJPhkgvO9I46CQBfuwgsACryNcQHjopEoyHzA?e=bdcs7a)_  
+_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EX0O9RjhvBBIqHOlm7zu4b0BhLCBL2U-_y8ch5XSB0oyaA?e=15Yuog)_  
+
+## Week 6: Interaction Design
 Reading:   
 Everett N McKay "UI Is Communication" Chapter 2 [Interaction Design](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efgp45WkNKFCnBoQC2PcOPkBClrbxx8bEhwrN-EgeMcD0A?e=lU0iHe)   
 Alan Dix, Janet Finlay, Gregory Abowd & Russell Beale "Human-Computer Interaction" Chapter 7 [Design Rules](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETu9XXtRtAxIkPG43caDbLABh8-FUlSZ9NgecJ8hVdDaVg?e=s1F8wK)    
@@ -59,14 +67,6 @@ _OPTIONAL REFERENCE_ Alan Cooper, Robert Reimann & David Cronin "About Face 3: T
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZdZiSUxuRhCt5ZzDzPNDT4BT6Iioh6TxT0sZhMM58wdpw?e=LgMihC)_  
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EfvPzhpdU7BBvbg1jLFNBxIBvNNQzTfJHGgaZaQ6kQURsA?e=gIghJA)_  
 
-## Week 6: Visual Design
-Reading:  
-Robin Williams "The Non-Designer's Design Book" Part 1 [Design Principles](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EYIFhLP0iI1JnDmGuaB_rRwBck536WK0nE5b9ME6SybXHA?e=ETHUao)  
-Johannes Itten "The Elements of Color" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXCTTxH87_FCuLEoEX0kVewB9p3-qRcobbx-QXldHnTq7w?e=fOrZvB)
-
-_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZJO7qVegqJPhkgvO9I46CQBfuwgsACryNcQHjopEoyHzA?e=bdcs7a)_  
-_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EX0O9RjhvBBIqHOlm7zu4b0BhLCBL2U-_y8ch5XSB0oyaA?e=15Yuog)_  
-
 ## Week 7: Dark Patterns
 Reading:  
 Sara Morrison "Dark patterns, the tricks websites use to make you say yes, explained" on [Vox](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy)  
@@ -75,12 +75,12 @@ Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired]
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ed3rbfvYVRlDssJalmo4a5MBM6nJbOc4AL6pdCCYid1dyA?e=X1ixWJ)_  
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcuKuTJ3ApVAoDgfI78jedEBeOmd8lTtTq72jt1_le2ZJw?e=UAdVUD)_  
 
-## Week 8: The Best Interface Is No Interface
+## Week 8: User Testing
 Reading:  
-Golden Krishna "The Best Interface Is No Interface" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXM5avpHQwlPuAk4SwCNHy8BH2IEMGQMEjIFmxIb9LThyA?e=cXQAOw)  
+TBD
 
-_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ESl8gD4vg1BLos3SPohCck4BwQ23T5LsEQcPKBl19DNSXA?e=7ECnTO)_  
-_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVeEJiIuPdlFnwMtwisAA3EBMkVx2viHH684VK5HCbLioQ?e=MtftAc)_  
+_Slides: [Monday]()_  
+_Slides: [Wednesday]()_  
 
 ## Week 9: Qualitative Methods for Testing
 Reading:  
