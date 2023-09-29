@@ -12,7 +12,7 @@ Design Assignments: Friday 11:59PM
 ## Week 0: Introduction
 None  
 
-_Slides: [Friday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcJERgSMyy1JlI1uAnCjpO8Bb6qMJnwupf34IjM7uvgJqQ?e=FaWxmR)_
+_Slides: [Friday](https://drive.google.com/file/d/10qIpuTrm1q5xN9zSg36YIKMkrD2LDIe5/view?usp=sharing)_
 
 ## Week 1: Needfinding   
 Reading: Dev Patnaik "Needfinding: Design Research and Planning" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Eb026qRJHn9Hr9Rwd_cWya8BRksZ1EL8X3ru7sxdxTRarw?e=5fUQAT)    
