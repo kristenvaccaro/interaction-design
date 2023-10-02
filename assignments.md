@@ -1,6 +1,6 @@
 # Assignments
 
-There will be four forms of assessment over the quarter: active participation in design studios (20%), weekly design assignments (50%), quizzes (10%), and a final exam (20%). All deadlines are given in PT.  
+There will be five forms of assessment over the quarter: active participation in design studios (20%), weekly design assignments (40%), coding assignments (20%), quizzes (10%), and a final exam (10%). All deadlines are given in PT.  
 
 
 ## Design Assignments
@@ -12,12 +12,12 @@ Design assignments will be due at 11:59PM Friday, every week.
 ### Links
 
 #### Assignment #0 (Ungraded)
-Due Friday September 23, 11:59PM  
+Due Friday October 6, 11:59PM  
 
 You will identify three populations you may study for this course.   
-Will be released Friday September 23.   
+Will be released Monday October 2.   
 
-[Materials](https://drive.google.com/file/d/1G4D0ovf1DrvNniFJ2bwl42skLMF7Gpr7/view?usp=sharing)
+[Materials](https://drive.google.com/file/d/1JmKrg75gFlEcPON22ZeYP9DJ_2r15f8z/view?usp=sharing)
 
 #### Assignment #1
 Due Friday September 30, 11:59PM   
