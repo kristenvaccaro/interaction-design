@@ -11,21 +11,22 @@ Design assignments will be due at 11:59PM Friday, every week.
 
 ### Links
 
-#### Assignment #0 (Ungraded)
+#### Assignment #1
 Due Friday October 6, 11:59PM  
 
-You will identify three populations you may study for this course.   
+You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!   
 Will be released Monday October 2.   
 
 [Materials](https://drive.google.com/file/d/1JmKrg75gFlEcPON22ZeYP9DJ_2r15f8z/view?usp=sharing)
 
-#### Assignment #1
-Due Friday September 30, 11:59PM   
+#### Assignment #2
+Due Friday October 13, 11:59PM   
 
 You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!      
-Will be released Monday September 26.  
+Will be released Monday October 9.  
 
-[Materials](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efd1VR4qCodKqBWBZ2eopo4BOGmF2CUYPE8AC8inZEYc-w?e=3LeD4C)   
+[Materials](https://drive.google.com/file/d/1C4wS1ebfbmMwRIxqFiyP-40Ln_vRZr33/view?usp=drive_link)   
+
 #### Assignment #2
 Due Friday October 7, 11:59PM   
 
