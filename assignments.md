@@ -90,7 +90,11 @@ You will plan user testing for your tool or system.
 [Instructions and Rubric](https://docs.google.com/document/d/1YER0AcptYVQfVK-Wl6NZIJddqFPzhF9vXnRR49aV8zg/edit?usp=sharing)  
 
 
+## Coding Labs
 
+#### Coding Lab #1
+
+[Instructions](https://docs.google.com/document/d/1Vw_FP30RpA4RJIafceWIcOg2oDhlk_1bRuqGWPKcDKQ/edit?usp=sharing)
 
 
 
