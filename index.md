@@ -30,9 +30,9 @@ CSE 170 Office Hours: Monday 3-4PM and Wednesday 1-2PM
 Location: 3226 CSE Building
 
 TAs  
-Aishwarya Manjunath
-aimanjunath@ucsd.edu
-Studio: Friday 3PM
+Aishwarya Manjunath.  
+aimanjunath@ucsd.edu   
+Studio: Friday 3PM   
   
 Alexa Wang   
 alw015@ucsd.edu   
