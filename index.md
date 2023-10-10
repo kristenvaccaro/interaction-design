@@ -32,7 +32,11 @@ Location: 3226 CSE Building
 TAs  
 Aishwarya Manjunath.  
 aimanjunath@ucsd.edu   
-Studio: Friday 3PM   
+Studio: Friday 3PM
+
+Shivaramakrishna Srinivasan  
+shivaramakrishna@ucsd.edu   
+Studio: Thursday 9AM   
   
 Alexa Wang   
 alw015@ucsd.edu   
