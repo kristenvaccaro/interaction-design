@@ -38,8 +38,8 @@ Shivaramakrishna Srinivasan
 shivaramakrishna@ucsd.edu   
 Studio: Thursday 9AM
 
-Martha Gahl
-mgahl@ucsd.edu
+Martha Gahl  
+mgahl@ucsd.edu  
 Studios: Thursday 11AM, Friday 11AM, Friday 2PM
   
 Alexa Wang   
