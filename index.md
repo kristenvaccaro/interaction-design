@@ -16,28 +16,29 @@ This course (CSE 170) provides a practice-based overview of user experience (UX)
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design), [Canvas](https://canvas.ucsd.edu/), and [Discord](https://discord.gg/6ehpamkGCH)     
 
-Classroom: Center Hall 214   
-Class Days and Times: Monday, Wednesday, and Friday 2PM PT  
-Student Hours: TBD (at 3226 CSE)  
-Design Studios: Friday 8AM OR 10AM OR 12PM OR 3PM OR 5PM   
-You must attend the design studio session that you enrolled in  
+Classroom: Warren Lecture Hall 2204 at 2PM or Center Hall 212 at 4PM  
+Class Days and Times: Monday, Wednesday, and Friday 2PM or 4PM  
+Student Hours: Monday 3-4PM and Wednesday 1-2PM (at 3226 CSE)  
+Design Studios: Thursdays or Fridays   
+Unless you have been given permission by the instructors in advance, you must attend the design studio session that you enrolled in  
 
 ## Instructors
 
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!    
-CSE 170 Office Hours: Friday 2PM   
-General Office Hours: Wednesday 9:30AM  
+CSE 170 Office Hours: Monday 3-4PM and Wednesday 1-2PM   
 Location: 3226 CSE Building
 
 TAs  
-Sharvari Thippanna   
-sthippan@ucsd.edu   
-
+Aishwarya Manjunath
+aimanjunath@ucsd.edu
+Studio: Friday 3PM
+  
 Alexa Wang   
 alw015@ucsd.edu   
-Student Hours: Monday 11AM  
-Location: https://ucsd.zoom.us/j/5370674523  
+
+<!-- Student Hours: Monday 11AM  
+Location: https://ucsd.zoom.us/j/5370674523  --> 
 
 <!-- [Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart)  
 msmart@ucsd.edu  
