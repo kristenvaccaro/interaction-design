@@ -36,7 +36,11 @@ Studio: Friday 3PM
 
 Shivaramakrishna Srinivasan  
 shivaramakrishna@ucsd.edu   
-Studio: Thursday 9AM   
+Studio: Thursday 9AM
+
+Martha Gahl
+mgahl@ucsd.edu
+Studios: Thursday 11AM, Friday 11AM, Friday 2PM
   
 Alexa Wang   
 alw015@ucsd.edu   
