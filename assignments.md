@@ -22,9 +22,10 @@ Will be released Monday October 2.
 #### Assignment #2
 Due Friday October 13, 11:59PM   
 
-You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!      
+You will conduct observations and analyze your findings.      
 Will be released Monday October 9.  
 
+[Instructions](https://docs.google.com/document/d/1KBe2s9GNwFuY1aQ89Qbt-_EPUbHai-ivlP-lgdmDbZc/edit?usp=sharing)
 [Materials](https://drive.google.com/file/d/1C4wS1ebfbmMwRIxqFiyP-40Ln_vRZr33/view?usp=drive_link)   
 
 #### Assignment #2
