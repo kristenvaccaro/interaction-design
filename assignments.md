@@ -28,7 +28,8 @@ Will be released Monday October 9.
 [Instructions](https://docs.google.com/document/d/1KBe2s9GNwFuY1aQ89Qbt-_EPUbHai-ivlP-lgdmDbZc/edit?usp=sharing)
 [Materials](https://drive.google.com/file/d/1C4wS1ebfbmMwRIxqFiyP-40Ln_vRZr33/view?usp=drive_link)   
 
-#### Assignment #2
+<!--
+#### Assignment #3 
 Due Friday October 7, 11:59PM   
 
 You will conduct observations and analyze your findings.        
@@ -89,7 +90,7 @@ Due Friday December 2, 11:59PM
 You will plan user testing for your tool or system.     
 
 [Instructions and Rubric](https://docs.google.com/document/d/1YER0AcptYVQfVK-Wl6NZIJddqFPzhF9vXnRR49aV8zg/edit?usp=sharing)  
-
+-->
 
 ## Coding Labs
 
