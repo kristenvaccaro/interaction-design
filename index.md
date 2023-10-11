@@ -43,7 +43,11 @@ mgahl@ucsd.edu
 Studios: Thursday 11AM, Friday 11AM, Friday 2PM
   
 Alexa Wang   
-alw015@ucsd.edu   
+alw015@ucsd.edu
+
+Vikram Sirupurapu
+vsirupur@ucsd.edu  
+Studios: Thursday 10AM, Friday 8AM, Friday 10AM, Friday 12Pm
 
 <!-- Student Hours: Monday 11AM  
 Location: https://ucsd.zoom.us/j/5370674523  --> 
