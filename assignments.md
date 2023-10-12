@@ -98,7 +98,9 @@ You will plan user testing for your tool or system.
 
 [Instructions](https://docs.google.com/document/d/1Vw_FP30RpA4RJIafceWIcOg2oDhlk_1bRuqGWPKcDKQ/edit?usp=sharing)
 
+#### Coding Lab #2
 
+[Instructions](https://docs.google.com/document/d/1NXNImg8zl1R0GK8Y9IM2j712zuM892J1xbQnM7SAzdA/edit?usp=drive_link)
 
 ## Quizzes
 
