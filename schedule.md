@@ -29,7 +29,7 @@ Sheila Pontis "Making Sense of Field Research" Chapter 9 [Bridging to design: fr
 Karl Ulrich & Steven Eppinger "Product Design and Development" Chapter 5 [Identifying Customer Needs](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EST6CpqPSIpCmMV0dhsJWysBsCYzyvgHuQgjJvncsvbiEA?e=maiw5O)  
 
 _Slides: [Monday](https://drive.google.com/file/d/1WK7jOM88zrft-n30F_WC1vCjNYbc5JlE/view?usp=drive_link)_  
-_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETuDdkUtpKpJjRuP_L1EKa4BV-KkRZTbEMibCrk8gzUpkg?e=Wh9BV4)_  
+_Slides: [Wednesday](https://drive.google.com/drive/folders/1bJ_Xm4nxDt12eZDTJ2pu-4ljd6YspxvV?usp=drive_link)_  
 
 ## Week 3: Sketching & Prototyping
 Reading:  
