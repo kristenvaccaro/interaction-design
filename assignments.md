@@ -17,7 +17,7 @@ Due Friday October 6, 11:59PM
 You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!   
 Will be released Monday October 2.   
 
-[Materials](https://drive.google.com/file/d/1JmKrg75gFlEcPON22ZeYP9DJ_2r15f8z/view?usp=sharing)
+[Materials](https://drive.google.com/file/d/1JmKrg75gFlEcPON22ZeYP9DJ_2r15f8z/view?usp=sharing)   
 
 #### Assignment #2
 Due Friday October 13, 11:59PM   
@@ -25,8 +25,17 @@ Due Friday October 13, 11:59PM
 You will conduct observations and analyze your findings.      
 Will be released Monday October 9.  
 
-[Instructions](https://docs.google.com/document/d/1KBe2s9GNwFuY1aQ89Qbt-_EPUbHai-ivlP-lgdmDbZc/edit?usp=sharing)
+[Instructions](https://docs.google.com/document/d/1KBe2s9GNwFuY1aQ89Qbt-_EPUbHai-ivlP-lgdmDbZc/edit?usp=sharing)   
 [Materials](https://drive.google.com/file/d/1C4wS1ebfbmMwRIxqFiyP-40Ln_vRZr33/view?usp=drive_link)   
+
+#### Assignment #3   
+Due Friday October 20, 11:59PM   
+
+You will sketch possible solutions for the needs you identified.        
+Will be released Monday October 16.   
+
+[Instructions](https://docs.google.com/document/d/1lagFlIdlN0dpGQgtR_ytREDWwnOQiFskwua425pMqvQ/edit?usp=sharing)   
+[Materials](https://drive.google.com/file/d/120TzpI6lG39vWzKcNr3WIsN6O0DTF-B4/view?usp=drive_link)     
 
 <!--
 #### Assignment #3 
