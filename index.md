@@ -72,7 +72,7 @@ Course related announcements will be shared on Canvas. Please use Canvas for you
 - I found a meme or news article related to class...
 
 #### Questions that are a good fit for office hours:
-- Here’s where I’m stuck on the homework... (can also post to Piazza)
+- Here’s where I’m stuck on the homework... (can also post to Discord)
 - I don't think I quite understand \[topic\] yet. Can we talk about that?
 - Can you give me feedback on my topic for the final project?
 - I could use some tips on how to \[study for this class, read research papers, prepare for the final exam...\]
