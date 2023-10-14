@@ -105,6 +105,7 @@ You will plan user testing for your tool or system.
 
 #### Coding Lab #1
 
+[Slides](https://drive.google.com/file/d/13-V6r0Co6R36FqBstnh8FN3hF_XUhqPt/view?usp=drive_link)
 [Instructions](https://docs.google.com/document/d/1Vw_FP30RpA4RJIafceWIcOg2oDhlk_1bRuqGWPKcDKQ/edit?usp=sharing)
 
 #### Coding Lab #2
