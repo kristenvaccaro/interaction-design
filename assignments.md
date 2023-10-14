@@ -105,13 +105,13 @@ You will plan user testing for your tool or system.
 
 #### Coding Lab #1
 
-[Slides](https://drive.google.com/file/d/13-V6r0Co6R36FqBstnh8FN3hF_XUhqPt/view?usp=drive_link)
-[Instructions](https://docs.google.com/document/d/1Vw_FP30RpA4RJIafceWIcOg2oDhlk_1bRuqGWPKcDKQ/edit?usp=sharing)
+[Slides](https://drive.google.com/file/d/13-V6r0Co6R36FqBstnh8FN3hF_XUhqPt/view?usp=drive_link)    
+[Instructions](https://docs.google.com/document/d/1Vw_FP30RpA4RJIafceWIcOg2oDhlk_1bRuqGWPKcDKQ/edit?usp=sharing)    
 
 #### Coding Lab #2
 
-[Slides](https://drive.google.com/file/d/1iodcRI7mTa1R-eou1qrOxgZ5FyL1gw9e/view?usp=sharing)  
-[Instructions](https://docs.google.com/document/d/1NXNImg8zl1R0GK8Y9IM2j712zuM892J1xbQnM7SAzdA/edit?usp=drive_link)
+[Slides](https://drive.google.com/file/d/1iodcRI7mTa1R-eou1qrOxgZ5FyL1gw9e/view?usp=sharing)     
+[Instructions](https://docs.google.com/document/d/1NXNImg8zl1R0GK8Y9IM2j712zuM892J1xbQnM7SAzdA/edit?usp=drive_link)    
 
 ## Quizzes
 
