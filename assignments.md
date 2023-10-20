@@ -115,8 +115,8 @@ You will plan user testing for your tool or system.
 
 #### Coding Lab #3   
 
-[Slides]()    
-[Lecture Recording]()   
+[Slides](https://drive.google.com/file/d/1nGdStMezjX7CRQ44YvaMoCT9rEt-ieBl/view?usp=share_link)    
+[Lecture Recording](https://drive.google.com/file/d/1mJMeiJQmANY4AU3I6-XQUOL2jHuOF7sk/view?usp=share_link)   
 [Instructions](https://docs.google.com/document/d/12ivLXLjBSvvynfy07yLdoSw0VGl9SGYxDgyg-ugsgqE/edit?usp=sharing)   
 
 
