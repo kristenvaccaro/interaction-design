@@ -113,6 +113,13 @@ You will plan user testing for your tool or system.
 [Slides](https://drive.google.com/file/d/1iodcRI7mTa1R-eou1qrOxgZ5FyL1gw9e/view?usp=sharing)     
 [Instructions](https://docs.google.com/document/d/1NXNImg8zl1R0GK8Y9IM2j712zuM892J1xbQnM7SAzdA/edit?usp=drive_link)    
 
+#### Coding Lab #3   
+
+[Slides]()    
+[Lecture Recording]()   
+[Instructions](https://docs.google.com/document/d/12ivLXLjBSvvynfy07yLdoSw0VGl9SGYxDgyg-ugsgqE/edit?usp=sharing)   
+
+
 ## Quizzes
 
 The quizzes will ask similar questions and prepare you for the final exam. The quizzes will in be in-class. 
