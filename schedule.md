@@ -42,6 +42,7 @@ _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro
 ## Week 4: Information Design
 Reading:  
 Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETeWGHesBNBBiFvEwSm686UBYdSOHm5rWdRQkl3l-G5m2g?e=8lh0hm) and Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)  
+Akos Lada et al. [How does News Feed predict what you want to see?](https://tech.facebook.com/engineering/2021/1/news-feed-ranking/)
 <!-- Nicole Fenlon & Kate Kiefer Lee "Nicely Said: Writing for the Web with Style and Purpose" Chapter 4 [Writing Basics](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ea12OrMuyQFJqSMSEG4wGzIBGBeTLBJCkN9_Hf64kNoIyA?e=md8cKj)  -->
 
 
@@ -57,6 +58,7 @@ _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_uc
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EX0O9RjhvBBIqHOlm7zu4b0BhLCBL2U-_y8ch5XSB0oyaA?e=15Yuog)_  
 
 ## Week 6: Interaction Design
+Note: no studios /coding lab due to Veterans Day Holiday
 Reading:   
 Everett N McKay "UI Is Communication" Chapter 2 [Interaction Design](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efgp45WkNKFCnBoQC2PcOPkBClrbxx8bEhwrN-EgeMcD0A?e=lU0iHe)   
 Alan Dix, Janet Finlay, Gregory Abowd & Russell Beale "Human-Computer Interaction" Chapter 7 [Design Rules](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETu9XXtRtAxIkPG43caDbLABh8-FUlSZ9NgecJ8hVdDaVg?e=s1F8wK)    
@@ -76,6 +78,7 @@ _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_uc
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcuKuTJ3ApVAoDgfI78jedEBeOmd8lTtTq72jt1_le2ZJw?e=UAdVUD)_  
 
 ## Week 8: User Testing
+Note: No studios / coding lab due to Thanksgiving holiday
 Reading:  
 TBD
 
