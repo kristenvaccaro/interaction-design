@@ -37,6 +37,14 @@ Will be released Monday October 16.
 [Instructions](https://docs.google.com/document/d/1lagFlIdlN0dpGQgtR_ytREDWwnOQiFskwua425pMqvQ/edit?usp=sharing)   
 [Materials](https://drive.google.com/file/d/120TzpI6lG39vWzKcNr3WIsN6O0DTF-B4/view?usp=drive_link)     
 
+#### Assignment #4   
+Due Friday October 27, 11:59PM   
+
+You create an architecture diagram and low-fidelity prototype.        
+Will be released Monday October 23.   
+
+[Instructions](https://docs.google.com/document/d/18AqOm0jqx5qzHDpHolhnFmm_omsYep_b3fZ_czbnXgg/edit?usp=sharing)
+
 <!--
 #### Assignment #3 
 Due Friday October 7, 11:59PM   
