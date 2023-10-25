@@ -43,8 +43,8 @@ Due Friday October 27, 11:59PM
 You create an architecture diagram and low-fidelity prototype.        
 Will be released Monday October 23.   
 
-[Instructions](https://docs.google.com/document/d/18AqOm0jqx5qzHDpHolhnFmm_omsYep_b3fZ_czbnXgg/edit?usp=sharing)
-[(Optional) Materials](https://drive.google.com/file/d/1MlFAo7Ka9NNhS16DeVXNJmqXRVqd_Exu/view?usp=drive_link)
+[Instructions](https://docs.google.com/document/d/18AqOm0jqx5qzHDpHolhnFmm_omsYep_b3fZ_czbnXgg/edit?usp=sharing)    
+[(Optional) Materials](https://drive.google.com/file/d/1MlFAo7Ka9NNhS16DeVXNJmqXRVqd_Exu/view?usp=drive_link)   
 
 <!--
 #### Assignment #3 
