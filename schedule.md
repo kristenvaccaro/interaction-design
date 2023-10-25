@@ -46,8 +46,8 @@ Akos Lada et al. [How does News Feed predict what you want to see?](https://tech
 <!-- Nicole Fenlon & Kate Kiefer Lee "Nicely Said: Writing for the Web with Style and Purpose" Chapter 4 [Writing Basics](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ea12OrMuyQFJqSMSEG4wGzIBGBeTLBJCkN9_Hf64kNoIyA?e=md8cKj)  -->
 
 
-_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUPqclMljVBEgUGxmeDMB3ABEboSyn9ZinGYPHapDnKIbA?e=c6pjJq)_  
-_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcYJPEqZVUJKhaXKD8wFrLYB9mxDT95o_e8luy1xtjIAVg?e=8Wyg9Z)_  
+_Slides: [Monday](https://drive.google.com/file/d/1hKKAtb9dSi7CgKgRF39ViY7Yef8LsyMR/view?usp=drive_link)_  
+_Slides: [Wednesday](https://drive.google.com/file/d/1ZokwzgwQs7cfubql-q8sN0p3upS4VLw4/view?usp=drive_link)_  
 
 ## Week 5: Visual Design
 Reading:  
