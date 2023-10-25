@@ -37,7 +37,7 @@ Bill Buxton "Sketching User Experiences: Getting the Design Right and the Right 
 Yvonne Rogers, Helen Sharp & Jenny Preece "Interaction Design: Beyond Human-Computer Interaction" Chapter 8 [Design, Prototyping, and Construction](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EQf5dU72JGpAtyxjjK99_DoBS34iy50WT24x85CSI3xl1Q?e=v0Vqp7)  
 
 _Slides: [Monday](https://drive.google.com/file/d/16bOCVB39WPLgM9Mc-pT9nBlwa6HepqXR/view?usp=drive_link)_  
-_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZksVOnFkI9In24VnyEVyewBdimuxtPjld-DuWBPeGjqwg?e=b1eWCs)_  
+_Slides: [Wednesday](https://drive.google.com/file/d/1__6KauHgoVpi6E8Z5VfDoVYuCpvFGxFx/view?usp=drive_link)_  
 
 ## Week 4: Information Design
 Reading:  
@@ -56,8 +56,8 @@ Interaction Design Foundation "Color Theory" [What is Color Theory?](https://www
 
 <!--Johannes Itten "The Elements of Color" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXCTTxH87_FCuLEoEX0kVewB9p3-qRcobbx-QXldHnTq7w?e=fOrZvB)-->
 
-_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZJO7qVegqJPhkgvO9I46CQBfuwgsACryNcQHjopEoyHzA?e=bdcs7a)_  
-_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EX0O9RjhvBBIqHOlm7zu4b0BhLCBL2U-_y8ch5XSB0oyaA?e=15Yuog)_  
+_Slides: [Monday](https://drive.google.com/file/d/1hKKAtb9dSi7CgKgRF39ViY7Yef8LsyMR/view?usp=drive_link)_  
+_Slides: [Wednesday](https://drive.google.com/file/d/1ZokwzgwQs7cfubql-q8sN0p3upS4VLw4/view?usp=drive_link)_  
 
 ## Week 6: Interaction Design
 Note: no studios /coding lab due to Veterans Day Holiday
