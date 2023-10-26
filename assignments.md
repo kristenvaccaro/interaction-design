@@ -129,6 +129,10 @@ You will plan user testing for your tool or system.
 [Instructions](https://docs.google.com/document/d/12ivLXLjBSvvynfy07yLdoSw0VGl9SGYxDgyg-ugsgqE/edit?usp=sharing)   
 
 
+#### Coding Lab #4   
+
+[Slides](https://drive.google.com/file/d/1dypisj0IXGdWkh6ZudbPpLSV0Jyk4EiU/view?usp=drive_link)   
+
 ## Quizzes
 
 The quizzes will ask similar questions and prepare you for the final exam. The quizzes will in be in-class. 
