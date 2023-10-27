@@ -132,6 +132,7 @@ You will plan user testing for your tool or system.
 #### Coding Lab #4   
 
 [Slides](https://drive.google.com/file/d/1dypisj0IXGdWkh6ZudbPpLSV0Jyk4EiU/view?usp=drive_link)   
+[Instructions](https://docs.google.com/document/d/1tP2r-JYAmiyPys0yfKyShRXUG9u8qh97JvKEhPNMid8/edit?usp=sharing)
 
 ## Quizzes
 
