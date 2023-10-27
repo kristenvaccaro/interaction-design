@@ -26,7 +26,7 @@ Unless you have been given permission by the instructors in advance, you must at
 
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!    
-CSE 170 Office Hours: Monday 3-4PM and Wednesday 1-2PM   
+CSE 170 Student Hours: Monday 3-4PM and Wednesday 1-2PM   
 Location: 3226 CSE Building
 
 TAs  
