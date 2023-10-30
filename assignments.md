@@ -52,8 +52,8 @@ Due Friday November 3, 11:59PM
 You will create a visual design in a high-fidelity prototype.   
 Will be released Monday October 30.   
 
-[Instructions](https://docs.google.com/document/d/1_NbR9TsVBq5aruLEiy6Pts5PpoLP3gX5GRwX0Jh-rU4/edit?usp=sharing)
-
+[Instructions](https://docs.google.com/document/d/1_NbR9TsVBq5aruLEiy6Pts5PpoLP3gX5GRwX0Jh-rU4/edit?usp=sharing)    
+[(Optional) Materials](https://drive.google.com/file/d/1BBlxi9aJmm0bwk-lI7dgwL-ERA079iJc/view?usp=drive_link)   
 <!--
 #### Assignment #3 
 Due Friday October 7, 11:59PM   
