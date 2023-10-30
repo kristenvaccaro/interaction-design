@@ -10,7 +10,7 @@ Yes, I will approve *any* petition for exceptions of prerequisites.
 
 ### Are there requirements for synchronous participation?
 
-Yes, this course will be offered in person and synchronous participation is expected.
+Yes, this course will be offered in person and synchronous participation is expected. In particular, while you may skip lectures, you **must** attend your studio each week.   
 
 ### I would like to enroll after the start of the quarter (or I have enrolled late). Can I make up late assignments? 
 
