@@ -46,6 +46,14 @@ Will be released Monday October 23.
 [Instructions](https://docs.google.com/document/d/18AqOm0jqx5qzHDpHolhnFmm_omsYep_b3fZ_czbnXgg/edit?usp=sharing)    
 [(Optional) Materials](https://drive.google.com/file/d/1MlFAo7Ka9NNhS16DeVXNJmqXRVqd_Exu/view?usp=drive_link)   
 
+#### Assignment #5
+Due Friday November 3, 11:59PM
+
+You will create a visual design in a high-fidelity prototype.   
+Will be released Monday October 30.   
+
+[Instructions](https://docs.google.com/document/d/1_NbR9TsVBq5aruLEiy6Pts5PpoLP3gX5GRwX0Jh-rU4/edit?usp=sharing)
+
 <!--
 #### Assignment #3 
 Due Friday October 7, 11:59PM   
