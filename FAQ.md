@@ -2,7 +2,7 @@
 
 ### How is this course different from COGS 120? 
 
-COGS 120 is designed to introduce you to more theory and on-going research. If you are interested in that, COGS 120 is a great choice! 
+COGS 120 is designed to introduce you to more theory and on-going research. If you are interested in that, COGS 120 is a great choice! This course is intended to introduce you to hands-on, practical aspects of interaction design.   
 
 ### Will you approve my enrollment without the prerequisites?
 
