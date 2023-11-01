@@ -54,13 +54,14 @@ Reading:
 Robin Williams "The Non-Designer's Design Book" Part 1 [Design Principles](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EYIFhLP0iI1JnDmGuaB_rRwBck536WK0nE5b9ME6SybXHA?e=ETHUao)  
 Interaction Design Foundation "Color Theory" [What is Color Theory?](https://www.interaction-design.org/literature/topics/color-theory)
 
-[Monday](https://drive.google.com/file/d/1FIsATHenzmKFvnNIkBf9R9P6Nl1JUhfp/view?usp=drive_link)
-[Wednesday](https://drive.google.com/file/d/1X6CEK2jekQosSkmIzTgzphTlQV29C1We/view?usp=drive_link)
+_Slides: [Monday](https://drive.google.com/file/d/1FIsATHenzmKFvnNIkBf9R9P6Nl1JUhfp/view?usp=drive_link)_
+_Slides: [Wednesday](https://drive.google.com/file/d/1X6CEK2jekQosSkmIzTgzphTlQV29C1We/view?usp=drive_link)_
 
-<!--Johannes Itten "The Elements of Color" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXCTTxH87_FCuLEoEX0kVewB9p3-qRcobbx-QXldHnTq7w?e=fOrZvB)-->
+<!--Johannes Itten "The Elements of Color" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXCTTxH87_FCuLEoEX0kVewB9p3-qRcobbx-QXldHnTq7w?e=fOrZvB)
 
 _Slides: [Monday](https://drive.google.com/file/d/1hKKAtb9dSi7CgKgRF39ViY7Yef8LsyMR/view?usp=drive_link)_  
 _Slides: [Wednesday](https://drive.google.com/file/d/1ZokwzgwQs7cfubql-q8sN0p3upS4VLw4/view?usp=drive_link)_  
+-->
 
 ## Week 6: Interaction Design
 Note: no studios /coding lab due to Veterans Day Holiday
