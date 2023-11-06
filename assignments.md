@@ -55,6 +55,14 @@ Will be released Monday October 30.
 [Instructions](https://docs.google.com/document/d/1_NbR9TsVBq5aruLEiy6Pts5PpoLP3gX5GRwX0Jh-rU4/edit?usp=sharing)    
 [(Optional) Materials](https://drive.google.com/file/d/1BBlxi9aJmm0bwk-lI7dgwL-ERA079iJc/view?usp=drive_link)   
 
+#### Assignment #6 - OPTIONAL   
+Due Friday November 10, 11:59PM   
+
+You will identify examples of interaction design and design interactions for your own prototype.   
+Will be released Monday November 6.  
+**Note, this assignment is optional and is intended for students who joined the class late and missed the first 1-2 design assignments.**
+
+[Instructions](https://docs.google.com/document/d/19pxaqOzsWlHvusqWgkkVtZdgNkxZVw-xVorJHO2A5L8/edit?usp=sharing)   
 
 <!--
 #### Assignment #3 
@@ -149,6 +157,8 @@ You will plan user testing for your tool or system.
 
 [Instructions](https://docs.google.com/document/d/1EmJxAlJeR9kq3LCZiI141mHxGWgwd7pxupG-M5Q01G4/edit?usp=sharing)    
 Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/143041/assessment/2375127)  
+
+#### No Coding Lab Week 6
 
 
 ## Quizzes
