@@ -73,7 +73,7 @@ _OPTIONAL REFERENCE_ Alan Cooper, Robert Reimann & David Cronin "About Face 3: T
 <!-- Chapter 5.7 [Screen Design And Layout](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EbeMpqja0kxJmx1jhfixhSgBCVEG25hqyDkgnJ4KbkwIcQ?e=w9wW2O) and -->
 
 _Slides: [Monday](https://drive.google.com/file/d/1yexUsabImBJpY9nlX9rr09_KJAVF6l2t/view?usp=drive_link)_  
-_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EfvPzhpdU7BBvbg1jLFNBxIBvNNQzTfJHGgaZaQ6kQURsA?e=gIghJA)_  
+_Slides: [Wednesday](https://drive.google.com/file/d/1HVx15PvQq36xVhsbSEsD8JHEsGhD0Jp2/view?usp=drive_link)_  
 
 ## Week 7: Dark Patterns
 Reading:  
