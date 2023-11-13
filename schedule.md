@@ -80,7 +80,7 @@ Reading:
 Sara Morrison "Dark patterns, the tricks websites use to make you say yes, explained" on [Vox](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy)  
 Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired](https://www.wired.com/story/how-to-spot-avoid-dark-patterns/)  
 
-_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ed3rbfvYVRlDssJalmo4a5MBM6nJbOc4AL6pdCCYid1dyA?e=X1ixWJ)_  
+_Slides: [Monday](https://drive.google.com/file/d/1eTD7MhKcCc0YtUFS5gdvAKdvZbAzOU7w/view?usp=drive_link)_  
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcuKuTJ3ApVAoDgfI78jedEBeOmd8lTtTq72jt1_le2ZJw?e=UAdVUD)_  
 
 ## Week 8: User Testing
