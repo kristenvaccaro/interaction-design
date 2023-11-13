@@ -64,14 +64,14 @@ Note, this assignment is optional and is intended for students who joined the cl
 
 [Instructions](https://docs.google.com/document/d/19pxaqOzsWlHvusqWgkkVtZdgNkxZVw-xVorJHO2A5L8/edit?usp=sharing)   
 
-#### Assignment #7 
-Due Saturday November 18, 11:59PM
-**Note, a 3 minute demo of your interactions is due Thursday at 8am on Discord!**
+#### Assignment #7   
+Due Saturday November 18, 11:59PM   
+**Note, a 3 minute demo of your interactions is due Thursday at 8am on Discord!**   
 
-You will design interactions for your own prototype, record a demo, and conduct a heuristic evaluation. 
-Will be released Monday November 13.
+You will design interactions for your own prototype, record a demo, and conduct a heuristic evaluation.   
+Will be released Monday November 13.   
 
-[Instructions](https://docs.google.com/document/d/1Kzcb2fcSCdk1JpTLnV_OMwTfuXd2TwNp2DF_WWmZ9Ww/edit?usp=sharing)
+[Instructions](https://docs.google.com/document/d/1Kzcb2fcSCdk1JpTLnV_OMwTfuXd2TwNp2DF_WWmZ9Ww/edit?usp=sharing)   
 
 <!--
 #### Assignment #3 
