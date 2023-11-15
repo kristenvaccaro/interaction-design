@@ -14,7 +14,7 @@ This course (CSE 170) provides a practice-based overview of user experience (UX)
 
 ## Logistics
 
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design), [Canvas](https://canvas.ucsd.edu/), and [Discord](https://discord.gg/ePMvmUYzu) (updated!)     
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design), [Canvas](https://canvas.ucsd.edu/), and [Discord](https://discord.gg/4jCjC5wYm) (updated 11/14/23!)     
 
 Classroom: Warren Lecture Hall 2204 at 2PM or Center Hall 212 at 4PM  
 Class Days and Times: Monday, Wednesday, and Friday 2PM or 4PM  
