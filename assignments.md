@@ -169,11 +169,11 @@ Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_inst
 
 #### No Coding Lab Week 6
 
-#### Coding Lab #7 
+#### Coding Lab #7   
 
-[Slides](https://drive.google.com/file/d/1RL3zyWmj1pjgtm2uXzkMPzVzl4knhNOM/view?usp=drive_link)
-[Instructions](https://docs.google.com/document/d/1rgtl5vj8MLkq6UCvBDc5JbB95monima26HxqoeoutdU/edit?usp=sharing)
-Submit your results on [PrairieLearn]()
+[Slides](https://drive.google.com/file/d/1RL3zyWmj1pjgtm2uXzkMPzVzl4knhNOM/view?usp=drive_link)   
+[Instructions](https://docs.google.com/document/d/1rgtl5vj8MLkq6UCvBDc5JbB95monima26HxqoeoutdU/edit?usp=sharing)   
+Submit your results on [PrairieLearn]()   
 
 ## Quizzes
 
