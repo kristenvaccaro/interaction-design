@@ -84,7 +84,7 @@ _Slides: [Monday](https://drive.google.com/file/d/1eTD7MhKcCc0YtUFS5gdvAKdvZbAzO
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcuKuTJ3ApVAoDgfI78jedEBeOmd8lTtTq72jt1_le2ZJw?e=UAdVUD)_  
 
 ## Week 8: User Testing
-Note: No studios / coding lab due to Thanksgiving holiday
+Note: No studios / coding lab due to Thanksgiving holiday   
 Reading:  
 TBD
 
