@@ -81,7 +81,7 @@ Sara Morrison "Dark patterns, the tricks websites use to make you say yes, expla
 Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired](https://www.wired.com/story/how-to-spot-avoid-dark-patterns/)  
 
 _Slides: [Monday](https://drive.google.com/file/d/1eTD7MhKcCc0YtUFS5gdvAKdvZbAzOU7w/view?usp=drive_link)_  
-_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcuKuTJ3ApVAoDgfI78jedEBeOmd8lTtTq72jt1_le2ZJw?e=UAdVUD)_  
+_Slides: [Wednesday](https://drive.google.com/file/d/1j9tnhOj7k5u5-4vVPjr12bqD_daEXv4S/view?usp=drive_link)_  
 
 ## Week 8: User Testing
 Note: No studios / coding lab due to Thanksgiving holiday   
