@@ -85,22 +85,21 @@ _Slides: [Wednesday](https://drive.google.com/file/d/1j9tnhOj7k5u5-4vVPjr12bqD_d
 
 ## Week 8: User Testing
 Note: No studios / coding lab due to Thanksgiving holiday   
-Reading:  
-TBD
+Reading: Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Section 2 [Selecting and Using User Research Methods](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZUkPiWsURlMkS2_zJe3C8gBcBPiQHWhMwY4ttFlXME6iQ), Chapter 9 [User Interviews](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcS7gaF88Z1Fli_qVUBeZpEBL5l0IwOIrbDo5ruuVDf_Qw), Chapter 8 [Surveys](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVYK7z2Oh7BPtK8uimYTjU0BON8tYeANxokbxdHFnnx2jw)     
 
 _Slides: [Monday]()_  
 _Slides: [Wednesday]()_  
 
 ## Week 9: Qualitative Methods for Testing
 Reading:  
-Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Section 2 [Selecting and Using User Research Methods](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZUkPiWsURlMkS2_zJe3C8gBcBPiQHWhMwY4ttFlXME6iQ), Chapter 9 [User Interviews](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcS7gaF88Z1Fli_qVUBeZpEBL5l0IwOIrbDo5ruuVDf_Qw), Chapter 10 [Diary Studies](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EaAtyaxTdi9OvYY_Gu8eiAQBuNiuHW_skwcuTENdBS2t_A), Chapter 13 [Contextual Inquiry](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZVy3tNq-xtGs6yZJ8n3BeMBiLwXlCqbfhK4K7QSXC3rpg)
+Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Chapter 10 [Diary Studies](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EaAtyaxTdi9OvYY_Gu8eiAQBuNiuHW_skwcuTENdBS2t_A), Chapter 13 [Contextual Inquiry](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZVy3tNq-xtGs6yZJ8n3BeMBiLwXlCqbfhK4K7QSXC3rpg)
 
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUKYDuVoLFJHiHwnsSPFimUBni96v9kNj6U7dOuCpWMB5g?e=Cb16Mh)_  
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXKTJeAWq2hEmSqsTK0OrggByzKzCkCziayBbe2OqpkHEg?e=DRQ0Ai)_  
 
 ## Week 10: Quantitative Methods for Testing
 Reading:  
-Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Chapter 5 [Usability Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcZBbxgdLW5MkSdb-8j5LpUB7sQyIpdP2DHtF6oqmomfOQ), Chapter 8 [Surveys](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVYK7z2Oh7BPtK8uimYTjU0BON8tYeANxokbxdHFnnx2jw), Chapter 14 [A/B Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Eden7s0VTCZOgTz406l9nZQBsyE_I5hRKFc2XyHAAxr2pg) 
+Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Chapter 5 [Usability Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcZBbxgdLW5MkSdb-8j5LpUB7sQyIpdP2DHtF6oqmomfOQ), Chapter 14 [A/B Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Eden7s0VTCZOgTz406l9nZQBsyE_I5hRKFc2XyHAAxr2pg) 
 
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EWg-SSTtVRNBrni7hUnwkOkBNwbGcY0tl48suMuSN3Z3_A?e=Wm8wEf)_  
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ERUSFzcWrVhMueGc98pwKcUBhZn5c7DyPGJGjuEoXyR8fA?e=vdvnBN)_  
