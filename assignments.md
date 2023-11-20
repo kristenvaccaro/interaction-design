@@ -73,6 +73,16 @@ Will be released Monday November 13.
 
 [Instructions](https://docs.google.com/document/d/1Kzcb2fcSCdk1JpTLnV_OMwTfuXd2TwNp2DF_WWmZ9Ww/edit?usp=sharing)   
 
+#### Assignment #8 - OPTIONAL   
+Due Sunday November 26, 11:59PM   
+
+You will conduct a heuristic evaluation and usability testing on an existing application (not your own).   
+Will be released Monday November 20.     
+Note, this assignment is optional and is intended for students who joined the class late and missed the first 1-2 design assignments.   
+
+[Instructions](https://docs.google.com/document/d/1Qcm0QSWObYGQSkPO_5YgVYUl3uLEi61t9R8FVFOFAB4/edit?usp=sharing)   
+
+
 <!--
 #### Assignment #3 
 Due Friday October 7, 11:59PM   
