@@ -78,9 +78,18 @@ Due Sunday November 26, 11:59PM
 
 You will conduct a heuristic evaluation and usability testing on an existing application (not your own).   
 Will be released Monday November 20.     
-Note, this assignment is optional and is intended for students who joined the class late and missed the first 1-2 design assignments.   
+This assignment can be used to replace either a missing/low design assignment score or to supplement one missing/low studio score.      
+
 
 [Instructions](https://docs.google.com/document/d/1Qcm0QSWObYGQSkPO_5YgVYUl3uLEi61t9R8FVFOFAB4/edit?usp=sharing)   
+
+#### Assignment #9    
+Due Saturday December 2, 11:59PM    
+
+You will conduct a user test of your application.   
+Will be released by Monday November 27.   
+
+[Instructions](https://docs.google.com/document/d/1yDeHKnBoFRPAy0iW1lMskdNYTSF73OuJyZCWKqOxsoA/edit?usp=sharing)
 
 
 <!--
