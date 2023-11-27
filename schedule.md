@@ -94,7 +94,7 @@ _Slides: [Wednesday]()_
 Reading:  
 Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Chapter 10 [Diary Studies](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EaAtyaxTdi9OvYY_Gu8eiAQBuNiuHW_skwcuTENdBS2t_A), Chapter 13 [Contextual Inquiry](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZVy3tNq-xtGs6yZJ8n3BeMBiLwXlCqbfhK4K7QSXC3rpg)
 
-_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUKYDuVoLFJHiHwnsSPFimUBni96v9kNj6U7dOuCpWMB5g?e=Cb16Mh)_  
+_Slides: [Monday](https://drive.google.com/file/d/1WABsnq5JQt-nAt6MvdIEofdkp9kClj5y/view?usp=drive_link)_  
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXKTJeAWq2hEmSqsTK0OrggByzKzCkCziayBbe2OqpkHEg?e=DRQ0Ai)_  
 
 ## Week 10: Quantitative Methods for Testing
