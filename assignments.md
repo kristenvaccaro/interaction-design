@@ -93,6 +93,7 @@ Will be released by Monday November 27.
 
 
 #### Assignment #10 (Final Submission)
+Due Saturday December 9, 11:59PM 
 
 You will provide an overview of the development of your application & implement a portion as a website. 
 Released Thursday November 30. 
@@ -200,6 +201,18 @@ Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_inst
 [Slides](https://drive.google.com/file/d/1RL3zyWmj1pjgtm2uXzkMPzVzl4knhNOM/view?usp=drive_link)   
 [Instructions](https://docs.google.com/document/d/1rgtl5vj8MLkq6UCvBDc5JbB95monima26HxqoeoutdU/edit?usp=sharing)   
 Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/143041/assessment/2378129)   
+
+#### No Coding Lab Week 8 (Happy Thanksgiving!)
+
+#### Coding Lab #9
+
+[Slides]()
+[Instructions]()
+Submit your results on [PrairieLearn]
+
+#### No Coding Lab Week 10 - Open Coding Session
+
+Week 10 please come for help with any issues in the coding on your final project. 
 
 ## Quizzes
 
