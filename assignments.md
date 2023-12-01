@@ -207,7 +207,7 @@ Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_inst
 #### Coding Lab #9
 
 [Slides](https://drive.google.com/file/d/1YqYjhA5ik_9xVvaCRsHGTvyipE9yxqls/view?usp=drive_link)
-[Instructions]()
+[Instructions](https://docs.google.com/document/d/1DWGK9WBzY_Ne5OumiyMtNWuL1i6QatxvsPNsBNqcjY8/edit?usp=sharing)
 Submit your results on [PrairieLearn]
 
 #### No Coding Lab Week 10 - Open Coding Session
