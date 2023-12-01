@@ -206,7 +206,7 @@ Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_inst
 
 #### Coding Lab #9
 
-[Slides]()
+[Slides](https://drive.google.com/file/d/1YqYjhA5ik_9xVvaCRsHGTvyipE9yxqls/view?usp=drive_link)
 [Instructions]()
 Submit your results on [PrairieLearn]
 
