@@ -2,6 +2,15 @@
 
 There will be five forms of assessment over the quarter: active participation in design studios (20%), weekly design assignments (40%), coding assignments (20%), quizzes (10%), and a final exam (10%). All deadlines are given in PT.  
 
+## Studio Attendance  & Active Participation   
+You will present your weekly design assignment in your studio each week (1-2 minutes) and receive feedback from your peers. The steps of the critique will be: 
+1) Listen: everyone listens to the current presenter. No phones, no working on your own design.
+2) Ask questions:
+3) sth
+   
+As a general rule, you should expect to contribute at least 3 times to the discussion each studio. If active participation becomes an issue, we will count number of times each student participates. 
+
+Each missed studio attendance will lose 25% of your total studio attendance grade. To request an excused absence, fill out [this Google form](https://forms.gle/M77m6T62NeBCsPLcA) by 4:30PM the day before your studio; your TA will confirm that your absence is excused before the start of class. 
 
 ## Design Assignments
 
