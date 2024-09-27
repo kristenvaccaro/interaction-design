@@ -33,6 +33,7 @@ Due Week 2 Friday, 11:59PM
 
 You will conduct observations and analyze your findings.       
 
+<!--
 [Instructions](https://docs.google.com/document/d/1KBe2s9GNwFuY1aQ89Qbt-_EPUbHai-ivlP-lgdmDbZc/edit?usp=sharing)   
 [Materials](https://drive.google.com/file/d/1C4wS1ebfbmMwRIxqFiyP-40Ln_vRZr33/view?usp=drive_link)   
 
@@ -100,6 +101,8 @@ Due Week 10 Friday, 11:59PM
 You will provide an overview of the development of your application & implement a portion as a website.  
 
 [Instructions](https://docs.google.com/document/d/1GcvxMZ7_ihoFjwwzi_eOzZzZ44d2wEp4f56A3wM2ddo/edit?usp=sharing)
+
+-->
 
 <!--
 #### Assignment #3 
