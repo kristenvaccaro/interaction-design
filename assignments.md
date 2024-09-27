@@ -178,45 +178,47 @@ You will plan user testing for your tool or system.
 
 [Slides](https://drive.google.com/file/d/13-V6r0Co6R36FqBstnh8FN3hF_XUhqPt/view?usp=drive_link)    
 [Instructions](https://docs.google.com/document/d/1Vw_FP30RpA4RJIafceWIcOg2oDhlk_1bRuqGWPKcDKQ/edit?usp=sharing)    
+Submit your results on [PrairieLearn](https://us.prairielearn.com)  
 
 #### Coding Lab #2
 
 [Slides](https://drive.google.com/file/d/1iodcRI7mTa1R-eou1qrOxgZ5FyL1gw9e/view?usp=sharing)     
 [Instructions](https://docs.google.com/document/d/1NXNImg8zl1R0GK8Y9IM2j712zuM892J1xbQnM7SAzdA/edit?usp=drive_link)    
+Submit your results on [PrairieLearn](https://us.prairielearn.com)  
 
 #### Coding Lab #3   
 
 [Slides](https://drive.google.com/file/d/1nGdStMezjX7CRQ44YvaMoCT9rEt-ieBl/view?usp=share_link)    
-[Lecture Recording](https://drive.google.com/file/d/1mJMeiJQmANY4AU3I6-XQUOL2jHuOF7sk/view?usp=share_link)   
+<!--[Lecture Recording](https://drive.google.com/file/d/1mJMeiJQmANY4AU3I6-XQUOL2jHuOF7sk/view?usp=share_link)  --> 
 [Instructions](https://docs.google.com/document/d/12ivLXLjBSvvynfy07yLdoSw0VGl9SGYxDgyg-ugsgqE/edit?usp=sharing)   
-
+Submit your results on [PrairieLearn](https://us.prairielearn.com)  
 
 #### Coding Lab #4   
 
 [Slides](https://drive.google.com/file/d/1dypisj0IXGdWkh6ZudbPpLSV0Jyk4EiU/view?usp=drive_link)   
 [Instructions](https://docs.google.com/document/d/1tP2r-JYAmiyPys0yfKyShRXUG9u8qh97JvKEhPNMid8/edit?usp=sharing)
-
+Submit your results on [PrairieLearn](https://us.prairielearn.com)  
 
 #### Coding Lab #5  
 
 [Instructions](https://docs.google.com/document/d/1EmJxAlJeR9kq3LCZiI141mHxGWgwd7pxupG-M5Q01G4/edit?usp=sharing)    
-Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/143041/assessment/2375127)  
+Submit your results on [PrairieLearn](https://us.prairielearn.com)  
 
-#### No Coding Lab Week 6
-
-#### Coding Lab #7   
+#### Coding Lab #6   
 
 [Slides](https://drive.google.com/file/d/1RL3zyWmj1pjgtm2uXzkMPzVzl4knhNOM/view?usp=drive_link)   
 [Instructions](https://docs.google.com/document/d/1rgtl5vj8MLkq6UCvBDc5JbB95monima26HxqoeoutdU/edit?usp=sharing)   
 Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/143041/assessment/2378129)   
 
-#### No Coding Lab Week 8 (Happy Thanksgiving!)
+#### No Coding Lab Week 7
 
-#### Coding Lab #9
+#### Coding Lab #8
 
 [Slides](https://drive.google.com/file/d/1YqYjhA5ik_9xVvaCRsHGTvyipE9yxqls/view?usp=drive_link)   
 [Instructions](https://docs.google.com/document/d/1DWGK9WBzY_Ne5OumiyMtNWuL1i6QatxvsPNsBNqcjY8/edit?usp=sharing)   
 Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/143041/assessment/2380835)    
+
+#### No Coding Lab Week 9 (Happy Thanksgiving!)
 
 #### No Coding Lab Week 10 - Open Coding Session
 
