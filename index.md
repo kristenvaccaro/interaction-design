@@ -1,4 +1,4 @@
-# Interaction Design: Fall 2022   
+# Interaction Design: Fall 2024   
 
 This course (CSE 170) provides a practice-based overview of user experience (UX) and user interface (UI) design. Topics will include: identifying opportunities to build tools, principles of good design, and practices for evaluating and iterating on designs. 
 
@@ -30,24 +30,14 @@ CSE 170 Student Hours: Monday 3-4PM and Wednesday 1-2PM
 Location: 3226 CSE Building
 
 TAs  
-Aishwarya Manjunath.  
-aimanjunath@ucsd.edu   
-Studio: Friday 3PM
+Tianyi Shan  
+tshan@ucsd.edu   
+Studios: TBD
 
-Shivaramakrishna Srinivasan  
-shivaramakrishna@ucsd.edu   
-Studio: Thursday 9AM
+Smruthi Gowtham   
+sgowtham@ucsd.edu   
+Studios: TBD
 
-Martha Gahl  
-mgahl@ucsd.edu  
-Studios: Thursday 11AM, Friday 11AM, Friday 2PM
-  
-Alexa Wang   
-alw015@ucsd.edu
-
-Vikram Sirupurapu
-vsirupur@ucsd.edu  
-Studios: Thursday 10AM, Friday 8AM, Friday 10AM, Friday 12Pm
 
 <!-- Student Hours: Monday 11AM  
 Location: https://ucsd.zoom.us/j/5370674523  --> 
@@ -89,15 +79,15 @@ By default office hours will be group-office hours, as many students will have s
 
 Percentage | Activity
 --- | ---
-40% | Design Assignments  
+25% | Design Assignments/Project   
+20% | Studio Participation  
 20% | Coding Assignments
-20% | Studios  
 10% | Quizzes  
-10% | Final Exam
+25% | Final Exam
 
 Design assignments are due Friday 11:59 PM
 
-Late Policy: You will receive *5 free late days* that can be used for design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
+Late Policy: You will receive *5 free late days* that can be used for design assignment submissions, but you should still be prepared to discuss your plans in enough detail to get feedback in your studio. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
 
 #### Is attendance mandatory? Are there video recordings for asynchronous viewing?
 
