@@ -11,7 +11,7 @@ You will present your weekly design assignment in your studio each week (1-2 min
    
 As a general rule, you should expect to contribute at least 3 times to the discussion each studio. If active participation becomes an issue, we will count number of times each student participates. 
 
-Each missed studio attendance will lose 25% of your total studio attendance grade. To request an excused absence, fill out [this Google form](https://forms.gle/M77m6T62NeBCsPLcA) by 4:30PM the day before your studio; your TA will confirm that your absence is excused before the start of class. 
+Each missed studio attendance will lose 25% of your total studio attendance grade. To request an excused absence, fill out [this Google form](https://forms.gle/M77m6T62NeBCsPLcA) by 4:30PM the day before your studio; if your absence is excused, your TA will confirm that before the start of class. 
 
 ## Design Assignments
 
