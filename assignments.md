@@ -175,6 +175,8 @@ You will plan user testing for your tool or system.
 
 ## Coding Labs
 
+Submit all coding labs on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/165782)    
+
 #### Coding Lab #1
 
 [Slides](https://drive.google.com/file/d/13-V6r0Co6R36FqBstnh8FN3hF_XUhqPt/view?usp=drive_link)    
@@ -226,8 +228,8 @@ Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_inst
 Week 10 please come for help with any issues in the coding on your final project. 
 
 ## Quizzes
-
-The quizzes will ask similar questions and prepare you for the final exam. Quizzes will be released on PrairieLearn each Monday, and will be due by Friday 5PM.    
+  
+The quizzes will ask similar questions and prepare you for the final exam. Quizzes will be released on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/165782) each Monday, and will be due by Friday 5PM.    
 
 ## Final Exam
 
