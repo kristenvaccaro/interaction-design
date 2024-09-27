@@ -24,7 +24,8 @@ Design assignments will be due at 11:59PM Friday, every week.
 #### Assignment #1
 Due Week 1 Friday (October 4), 11:59PM  
 
-You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!      
+You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!   
+You may not use students as your needer group!   
 
 [Materials](https://drive.google.com/file/d/1JmKrg75gFlEcPON22ZeYP9DJ_2r15f8z/view?usp=sharing)   
 
