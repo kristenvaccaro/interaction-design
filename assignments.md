@@ -217,8 +217,7 @@ Week 10 please come for help with any issues in the coding on your final project
 
 ## Quizzes
 
-The quizzes will ask similar questions and prepare you for the final exam. The quizzes will in be in-class. 
-
+The quizzes will ask similar questions and prepare you for the final exam. Quizzes will be released on PrairieLearn each Monday, and will be due by Friday 5PM.    
 
 ## Final Exam
 
