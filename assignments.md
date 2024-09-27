@@ -6,7 +6,7 @@ There will be five forms of assessment over the quarter: active participation in
 You will present your weekly design assignment in your studio each week (1-2 minutes) and receive feedback from your peers. The steps of the critique will be: 
 1) **Listen:** Students will present their own work briefly (1-2 minutes). Other students should listen attentively: no phones, no working on your own project.  
 2) **Ask questions:** Students should ask any questions they have about the work or the process. Examples: what inspired you? How did you accomplish X? What is your goal with element Y? Etc. 
-3) **Offer feedback/suggestions:** Should have a reason/rationale. No personal attacks, if you provide negative feedback, you need to provide a constructive suggestion. I like it because… You could improve by… 
+3) **Offer feedback/suggestions:** Should have a reason/rationale. No personal attacks. If you provide negative feedback, you must provide a constructive suggestion. I like it because… You could improve by… 
 
    
 As a general rule, you should expect to contribute at least 3 times to the discussion each studio. If active participation becomes an issue, we will count number of times each student participates. 
