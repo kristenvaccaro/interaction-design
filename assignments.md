@@ -35,40 +35,43 @@ You will conduct observations and analyze your findings.
 
 <!--
 [Instructions](https://docs.google.com/document/d/1KBe2s9GNwFuY1aQ89Qbt-_EPUbHai-ivlP-lgdmDbZc/edit?usp=sharing)   
-[Materials](https://drive.google.com/file/d/1C4wS1ebfbmMwRIxqFiyP-40Ln_vRZr33/view?usp=drive_link)   
+[Materials](https://drive.google.com/file/d/1C4wS1ebfbmMwRIxqFiyP-40Ln_vRZr33/view?usp=drive_link)   -->
 
 #### Assignment #3   
 Due Week 3 Friday, 11:59PM   
 
 You will sketch possible solutions for the needs you identified.          
 
+<!--
 [Instructions](https://docs.google.com/document/d/1lagFlIdlN0dpGQgtR_ytREDWwnOQiFskwua425pMqvQ/edit?usp=sharing)   
-[Materials](https://drive.google.com/file/d/120TzpI6lG39vWzKcNr3WIsN6O0DTF-B4/view?usp=drive_link)     
+[Materials](https://drive.google.com/file/d/120TzpI6lG39vWzKcNr3WIsN6O0DTF-B4/view?usp=drive_link)     -->
 
 #### Assignment #4   
 Due Week 4 Friday, 11:59PM   
 
 You create an architecture diagram and low-fidelity prototype.           
 
+<!--
 [Instructions](https://docs.google.com/document/d/18AqOm0jqx5qzHDpHolhnFmm_omsYep_b3fZ_czbnXgg/edit?usp=sharing)    
-[(Optional) Materials](https://drive.google.com/file/d/1MlFAo7Ka9NNhS16DeVXNJmqXRVqd_Exu/view?usp=drive_link)   
+[(Optional) Materials](https://drive.google.com/file/d/1MlFAo7Ka9NNhS16DeVXNJmqXRVqd_Exu/view?usp=drive_link)   -->
 
 #### Assignment #5
 Due Week 5 Friday, 11:59PM
 
 You will create a visual design in a high-fidelity prototype.      
 
+<!--
 [Instructions](https://docs.google.com/document/d/1_NbR9TsVBq5aruLEiy6Pts5PpoLP3gX5GRwX0Jh-rU4/edit?usp=sharing)    
-[(Optional) Materials](https://drive.google.com/file/d/1BBlxi9aJmm0bwk-lI7dgwL-ERA079iJc/view?usp=drive_link)   
+[(Optional) Materials](https://drive.google.com/file/d/1BBlxi9aJmm0bwk-lI7dgwL-ERA079iJc/view?usp=drive_link)  --> 
 
-#### Assignment #6 - OPTIONAL   
+#### Assignment #6   
 Due Week 6 Friday, 11:59PM   
 
 You will identify examples of interaction design and design interactions for your own prototype.   
-Will be released Monday November 6.  
-Note, this assignment is optional and is intended for students who joined the class late and missed the first 1-2 design assignments.
+  
+<!-- Note, this assignment is optional and is intended for students who joined the class late and missed the first 1-2 design assignments.
 
-[Instructions](https://docs.google.com/document/d/19pxaqOzsWlHvusqWgkkVtZdgNkxZVw-xVorJHO2A5L8/edit?usp=sharing)   
+[Instructions](https://docs.google.com/document/d/19pxaqOzsWlHvusqWgkkVtZdgNkxZVw-xVorJHO2A5L8/edit?usp=sharing)   -->
 
 #### Assignment #7   
 Due Week 7 Friday, 11:59PM   
@@ -76,7 +79,7 @@ Due Week 7 Friday, 11:59PM
 
 You will design interactions for your own prototype, record a demo, and conduct a heuristic evaluation.    
 
-[Instructions](https://docs.google.com/document/d/1Kzcb2fcSCdk1JpTLnV_OMwTfuXd2TwNp2DF_WWmZ9Ww/edit?usp=sharing)   
+<!-- [Instructions](https://docs.google.com/document/d/1Kzcb2fcSCdk1JpTLnV_OMwTfuXd2TwNp2DF_WWmZ9Ww/edit?usp=sharing)   -->
 
 #### Assignment #8 - OPTIONAL   
 Due Week 8 Friday, 11:59PM   
@@ -84,15 +87,15 @@ Due Week 8 Friday, 11:59PM
 You will conduct a heuristic evaluation and usability testing on an existing application (not your own).       
 This assignment can be used to replace either a missing/low design assignment score or to supplement one missing/low studio score.      
 
-
-[Instructions](https://docs.google.com/document/d/1Qcm0QSWObYGQSkPO_5YgVYUl3uLEi61t9R8FVFOFAB4/edit?usp=sharing)   
+<!--
+[Instructions](https://docs.google.com/document/d/1Qcm0QSWObYGQSkPO_5YgVYUl3uLEi61t9R8FVFOFAB4/edit?usp=sharing)   -->
 
 #### Assignment #9    
 Due Week 9 Friday, 11:59PM    
 
 You will conduct a user test of your application.      
 
-[Instructions](https://docs.google.com/document/d/1yDeHKnBoFRPAy0iW1lMskdNYTSF73OuJyZCWKqOxsoA/edit?usp=sharing)
+<!-- [Instructions](https://docs.google.com/document/d/1yDeHKnBoFRPAy0iW1lMskdNYTSF73OuJyZCWKqOxsoA/edit?usp=sharing)    -->
 
 
 #### Assignment #10 (Final Submission)
@@ -100,6 +103,7 @@ Due Week 10 Friday, 11:59PM
 
 You will provide an overview of the development of your application & implement a portion as a website.  
 
+<!--
 [Instructions](https://docs.google.com/document/d/1GcvxMZ7_ihoFjwwzi_eOzZzZ44d2wEp4f56A3wM2ddo/edit?usp=sharing)
 
 -->
