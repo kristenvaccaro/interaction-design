@@ -22,51 +22,46 @@ Design assignments will be due at 11:59PM Friday, every week.
 ### Links
 
 #### Assignment #1
-Due Friday October 6, 11:59PM  
+Due Week 1 Friday (October 4), 11:59PM  
 
-You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!   
-Will be released Monday October 2.   
+You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!      
 
 [Materials](https://drive.google.com/file/d/1JmKrg75gFlEcPON22ZeYP9DJ_2r15f8z/view?usp=sharing)   
 
 #### Assignment #2
-Due Friday October 13, 11:59PM   
+Due Week 2 Friday, 11:59PM   
 
-You will conduct observations and analyze your findings.      
-Will be released Monday October 9.  
+You will conduct observations and analyze your findings.       
 
 [Instructions](https://docs.google.com/document/d/1KBe2s9GNwFuY1aQ89Qbt-_EPUbHai-ivlP-lgdmDbZc/edit?usp=sharing)   
 [Materials](https://drive.google.com/file/d/1C4wS1ebfbmMwRIxqFiyP-40Ln_vRZr33/view?usp=drive_link)   
 
 #### Assignment #3   
-Due Friday October 20, 11:59PM   
+Due Week 3 Friday, 11:59PM   
 
-You will sketch possible solutions for the needs you identified.        
-Will be released Monday October 16.   
+You will sketch possible solutions for the needs you identified.          
 
 [Instructions](https://docs.google.com/document/d/1lagFlIdlN0dpGQgtR_ytREDWwnOQiFskwua425pMqvQ/edit?usp=sharing)   
 [Materials](https://drive.google.com/file/d/120TzpI6lG39vWzKcNr3WIsN6O0DTF-B4/view?usp=drive_link)     
 
 #### Assignment #4   
-Due Friday October 27, 11:59PM   
+Due Week 4 Friday, 11:59PM   
 
-You create an architecture diagram and low-fidelity prototype.        
-Will be released Monday October 23.   
+You create an architecture diagram and low-fidelity prototype.           
 
 [Instructions](https://docs.google.com/document/d/18AqOm0jqx5qzHDpHolhnFmm_omsYep_b3fZ_czbnXgg/edit?usp=sharing)    
 [(Optional) Materials](https://drive.google.com/file/d/1MlFAo7Ka9NNhS16DeVXNJmqXRVqd_Exu/view?usp=drive_link)   
 
 #### Assignment #5
-Due Friday November 3, 11:59PM
+Due Week 5 Friday, 11:59PM
 
-You will create a visual design in a high-fidelity prototype.   
-Will be released Monday October 30.   
+You will create a visual design in a high-fidelity prototype.      
 
 [Instructions](https://docs.google.com/document/d/1_NbR9TsVBq5aruLEiy6Pts5PpoLP3gX5GRwX0Jh-rU4/edit?usp=sharing)    
 [(Optional) Materials](https://drive.google.com/file/d/1BBlxi9aJmm0bwk-lI7dgwL-ERA079iJc/view?usp=drive_link)   
 
 #### Assignment #6 - OPTIONAL   
-Due Friday November 10, 11:59PM   
+Due Week 6 Friday, 11:59PM   
 
 You will identify examples of interaction design and design interactions for your own prototype.   
 Will be released Monday November 6.  
@@ -75,38 +70,34 @@ Note, this assignment is optional and is intended for students who joined the cl
 [Instructions](https://docs.google.com/document/d/19pxaqOzsWlHvusqWgkkVtZdgNkxZVw-xVorJHO2A5L8/edit?usp=sharing)   
 
 #### Assignment #7   
-Due Saturday November 18, 11:59PM   
+Due Week 7 Friday, 11:59PM   
 **Note, a 3 minute demo of your interactions is due Thursday at 8am on Discord!**   
 
-You will design interactions for your own prototype, record a demo, and conduct a heuristic evaluation.   
-Will be released Monday November 13.   
+You will design interactions for your own prototype, record a demo, and conduct a heuristic evaluation.    
 
 [Instructions](https://docs.google.com/document/d/1Kzcb2fcSCdk1JpTLnV_OMwTfuXd2TwNp2DF_WWmZ9Ww/edit?usp=sharing)   
 
 #### Assignment #8 - OPTIONAL   
-Due Sunday November 26, 11:59PM   
+Due Week 8 Friday, 11:59PM   
 
-You will conduct a heuristic evaluation and usability testing on an existing application (not your own).   
-Will be released Monday November 20.     
+You will conduct a heuristic evaluation and usability testing on an existing application (not your own).       
 This assignment can be used to replace either a missing/low design assignment score or to supplement one missing/low studio score.      
 
 
 [Instructions](https://docs.google.com/document/d/1Qcm0QSWObYGQSkPO_5YgVYUl3uLEi61t9R8FVFOFAB4/edit?usp=sharing)   
 
 #### Assignment #9    
-Due Saturday December 2, 11:59PM    
+Due Week 9 Friday, 11:59PM    
 
-You will conduct a user test of your application.   
-Will be released by Monday November 27.   
+You will conduct a user test of your application.      
 
 [Instructions](https://docs.google.com/document/d/1yDeHKnBoFRPAy0iW1lMskdNYTSF73OuJyZCWKqOxsoA/edit?usp=sharing)
 
 
 #### Assignment #10 (Final Submission)
-Due Saturday December 9, 11:59PM 
+Due Week 10 Friday, 11:59PM 
 
-You will provide an overview of the development of your application & implement a portion as a website. 
-Released Thursday November 30. 
+You will provide an overview of the development of your application & implement a portion as a website.  
 
 [Instructions](https://docs.google.com/document/d/1GcvxMZ7_ihoFjwwzi_eOzZzZ44d2wEp4f56A3wM2ddo/edit?usp=sharing)
 
