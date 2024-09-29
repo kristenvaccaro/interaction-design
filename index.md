@@ -14,7 +14,7 @@ This course (CSE 170) provides a practice-based overview of user experience (UX)
 
 ## Logistics
 
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design), [PrairieLearn](https://us.prairielearn.com/pl/course_instance/165782), [Canvas](https://canvas.ucsd.edu/), and [Discord?]()     
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design), [PrairieLearn](https://us.prairielearn.com/pl/course_instance/165782), [Canvas](https://canvas.ucsd.edu/), and [Discord](https://discord.gg/YzcCxEpt8r)     
 
 Classroom: Center Hall 105  
 Class Days and Times: Monday, Wednesday, and Friday 1PM  
