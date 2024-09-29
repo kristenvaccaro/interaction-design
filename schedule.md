@@ -12,7 +12,7 @@ Design Assignments: Friday 11:59PM
 ## Week 0: Introduction
 None  
 
-_Slides(https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
+_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
 
 ## Week 1: Needfinding   
 Reading: Dev Patnaik "Needfinding: Design Research and Planning" [Excerpts](https://drive.google.com/file/d/1266xxFwQm195506qiSz9fmVxvs_disGu/view?usp=sharing)    
