@@ -20,8 +20,7 @@ Jenny Preece, Yvonne Rogers & Helen Sharp "Interaction Design: Beyond Human-Comp
 
 <!-- Dev Patnaik & Robert Becker "Needfinding: The Why and How of Uncovering People’s Needs" from [Design Management Journal](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXFj0Nu-FRNLqdvcQt_vdv4BJXxEyUsykhJ0Hy7msLlDGA?e=aG4hvf) -->    
 
-_Slides: [Monday](https://drive.google.com/file/d/1FhCt11QAqMrw7crRlNAWOnQ_l9ne3Hb_/view?usp=drive_link)_   
-_Slides: [Wednesday](https://drive.google.com/file/d/1Ddn56f8KuJM4ODHu_lTfBZAp2TAe1Jee/view?usp=drive_link)_   
+_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
 
 ## Week 2: From Needs to Solutions
 Reading:  
