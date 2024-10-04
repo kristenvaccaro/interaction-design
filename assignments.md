@@ -25,7 +25,18 @@ Design assignments will be due at 11:59PM Friday, every week.
 Due Week 1 Friday (October 4), 11:59PM  
 
 You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!   
-You may not use students as your needer group!   
+You may not use students as your needer group! Instead, I recommend identifying a topic or area of interest to you. Here are some ideas from past years:
+
+Surfers at the beach 
+Senior citizens shopping at UTC mall
+People working at a local community garden
+Gaming-focused livestreamers on Twitch
+Knitters on a knitting-related social media forum
+Baristas working at a local coffee shop
+Late night workers at fast food places (e.g., McDonalds)
+Vendors at a farmers market
+Children visiting a museum in Balboa Park
+
 
 [Materials](https://drive.google.com/file/d/1JmKrg75gFlEcPON22ZeYP9DJ_2r15f8z/view?usp=sharing)   
 
