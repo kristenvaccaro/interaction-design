@@ -82,7 +82,7 @@ You will design interactions for your own prototype, record a demo, and conduct 
 
 [Instructions](https://docs.google.com/document/d/1Kzcb2fcSCdk1JpTLnV_OMwTfuXd2TwNp2DF_WWmZ9Ww/edit?usp=sharing) 
 
-#### Assignment #7   
+#### Assignment #7 - TBD   
 
 <!-- You will identify examples of interaction design and design interactions for your own prototype.   
   
