@@ -91,21 +91,21 @@ You will design interactions for your own prototype, record a demo, and conduct 
 [Instructions](https://docs.google.com/document/d/19pxaqOzsWlHvusqWgkkVtZdgNkxZVw-xVorJHO2A5L8/edit?usp=sharing)   -->
 
 
-#### Assignment #8 - OPTIONAL   
+#### Assignment #8 
 Due Week 8 Friday, 11:59PM   
 
-You will conduct a heuristic evaluation and usability testing on an existing application (not your own).       
-This assignment can be used to replace either a missing/low design assignment score or to supplement one missing/low studio score.      
+You will conduct a user test of your application.      
+
+[Instructions](https://docs.google.com/document/d/1yDeHKnBoFRPAy0iW1lMskdNYTSF73OuJyZCWKqOxsoA/edit?usp=sharing)
+
+<!-- You will conduct a heuristic evaluation and usability testing on an existing application (not your own).-->             
 
 <!--
 [Instructions](https://docs.google.com/document/d/1Qcm0QSWObYGQSkPO_5YgVYUl3uLEi61t9R8FVFOFAB4/edit?usp=sharing)   -->
 
-#### Assignment #9    
-Due Week 9 Friday, 11:59PM    
+#### Assignment #9 -- No Studio (Thanksgiving Holiday)   
+  
 
-You will conduct a user test of your application.      
-
-<!-- [Instructions](https://docs.google.com/document/d/1yDeHKnBoFRPAy0iW1lMskdNYTSF73OuJyZCWKqOxsoA/edit?usp=sharing)    -->
 
 
 #### Assignment #10 (Final Submission)
@@ -113,10 +113,9 @@ Due Week 10 Friday, 11:59PM
 
 You will provide an overview of the development of your application & implement a portion as a website.  
 
-<!--
 [Instructions](https://docs.google.com/document/d/1GcvxMZ7_ihoFjwwzi_eOzZzZ44d2wEp4f56A3wM2ddo/edit?usp=sharing)
 
--->
+
 
 <!--
 #### Assignment #3 
