@@ -79,7 +79,7 @@ By default office hours will be group-office hours, as many students will have s
 
 Percentage | Activity
 --- | ---
-25% | Design Assignments/Project   
+25% | Design Assignments/Final Project Submission   
 20% | Studio Participation  
 20% | Coding Assignments
 10% | Quizzes  
