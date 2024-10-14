@@ -201,6 +201,7 @@ Submit your results on [PrairieLearn](https://us.prairielearn.com)
 
 [Slides](https://drive.google.com/file/d/1nGdStMezjX7CRQ44YvaMoCT9rEt-ieBl/view?usp=share_link)    
 <!--[Lecture Recording](https://drive.google.com/file/d/1mJMeiJQmANY4AU3I6-XQUOL2jHuOF7sk/view?usp=share_link)  --> 
+[Lecture Recording 1](https://drive.google.com/file/d/11t1DPibTtYOh-00CYdfnNm8lm2PtOKzg/view?usp=sharing) [Lecture Recording 2](https://drive.google.com/file/d/1mJMeiJQmANY4AU3I6-XQUOL2jHuOF7sk/view?usp=share_link)
 [Instructions](https://docs.google.com/document/d/12ivLXLjBSvvynfy07yLdoSw0VGl9SGYxDgyg-ugsgqE/edit?usp=sharing)   
 Submit your results on [PrairieLearn](https://us.prairielearn.com)  
 
