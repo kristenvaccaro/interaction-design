@@ -74,8 +74,6 @@ You will create a visual design in a high-fidelity prototype.
 
 #### Assignment #6   
 Due Week 6 Friday, 11:59PM   
-
-Due Week 7 Friday, 11:59PM   
 **Note, a 3 minute demo of your interactions is due Thursday at 8am on Discord!**   
 
 You will design interactions for your own prototype, record a demo, and conduct a heuristic evaluation.    
