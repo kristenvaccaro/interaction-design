@@ -75,12 +75,13 @@ _Slides: [Monday](https://drive.google.com/file/d/1yexUsabImBJpY9nlX9rr09_KJAVF6
 _Slides: [Wednesday](https://drive.google.com/file/d/1HVx15PvQq36xVhsbSEsD8JHEsGhD0Jp2/view?usp=drive_link)_  
 
 ## Week 7: Dark Patterns
-Reading:  
+OPTIONAL Readings:  
 Sara Morrison "Dark patterns, the tricks websites use to make you say yes, explained" on [Vox](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy)  
 Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired](https://www.wired.com/story/how-to-spot-avoid-dark-patterns/)  
 
-_Slides: [Monday](https://drive.google.com/file/d/1eTD7MhKcCc0YtUFS5gdvAKdvZbAzOU7w/view?usp=drive_link)_  
-_Slides: [Wednesday](https://drive.google.com/file/d/1j9tnhOj7k5u5-4vVPjr12bqD_daEXv4S/view?usp=drive_link)_  
+No lectures, studios, or coding lab in Week 7
+<!-- _Slides: [Monday](https://drive.google.com/file/d/1eTD7MhKcCc0YtUFS5gdvAKdvZbAzOU7w/view?usp=drive_link)_  
+_Slides: [Wednesday](https://drive.google.com/file/d/1j9tnhOj7k5u5-4vVPjr12bqD_daEXv4S/view?usp=drive_link)_  -->
 
 ## Week 8: User Testing
 Note: No studios / coding lab due to Thanksgiving holiday   
