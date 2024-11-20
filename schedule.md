@@ -62,8 +62,7 @@ _Slides: [Monday](https://drive.google.com/file/d/1hKKAtb9dSi7CgKgRF39ViY7Yef8Ls
 _Slides: [Wednesday](https://drive.google.com/file/d/1ZokwzgwQs7cfubql-q8sN0p3upS4VLw4/view?usp=drive_link)_  
 -->
 
-## Week 6: Interaction Design
-Note: no studios /coding lab due to Veterans Day Holiday    
+## Week 6: Interaction Design    
 Reading:     
 Everett N McKay "UI Is Communication" Chapter 2 [Interaction Design](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efgp45WkNKFCnBoQC2PcOPkBClrbxx8bEhwrN-EgeMcD0A?e=lU0iHe)   
 Alan Dix, Janet Finlay, Gregory Abowd & Russell Beale "Human-Computer Interaction" Chapter 7 [Design Rules](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETu9XXtRtAxIkPG43caDbLABh8-FUlSZ9NgecJ8hVdDaVg?e=s1F8wK)    
