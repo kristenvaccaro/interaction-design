@@ -225,7 +225,7 @@ Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_inst
 
 #### Coding Lab #8
 
-[Slides](https://drive.google.com/file/d/1YqYjhA5ik_9xVvaCRsHGTvyipE9yxqls/view?usp=drive_link)   
+[Slides](https://drive.google.com/file/d/1OMvuLCiV4d-vvqfNatuKOenNCLXeAPh1/view?usp=drive_link)   
 [Instructions](https://docs.google.com/document/d/1DWGK9WBzY_Ne5OumiyMtNWuL1i6QatxvsPNsBNqcjY8/edit?usp=sharing)   
 Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/143041/assessment/2380835)    
 
