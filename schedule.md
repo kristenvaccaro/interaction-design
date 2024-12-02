@@ -88,7 +88,7 @@ Reading: Stephanie Marsh "User Research : A Practical Guide to Designing Better 
 _Slides: [Monday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
 _Slides: [Wednesday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
 
-## Week 9: Qualitative Methods for Testing
+## Week 9: Qualitative & Quantitative Methods for Testing
 Note: No studios / coding lab due to Thanksgiving holiday 
 Reading:  
 Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Chapter 10 [Diary Studies](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EaAtyaxTdi9OvYY_Gu8eiAQBuNiuHW_skwcuTENdBS2t_A), Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services", Chapter 14 [A/B Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Eden7s0VTCZOgTz406l9nZQBsyE_I5hRKFc2XyHAAxr2pg)
@@ -96,9 +96,9 @@ Stephanie Marsh "User Research : A Practical Guide to Designing Better Products 
 _Slides: [Monday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
 _Slides: [Wednesday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
 
-## Week 10: Quantitative Methods for Testing
-Reading:  
+## Week 10: Other Considerations for User Testing & Quarter Review
+Reading:  None
  
 
-_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EWg-SSTtVRNBrni7hUnwkOkBNwbGcY0tl48suMuSN3Z3_A?e=Wm8wEf)_  
-_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ERUSFzcWrVhMueGc98pwKcUBhZn5c7DyPGJGjuEoXyR8fA?e=vdvnBN)_  
+_Slides: [Monday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
+_Slides: [Wednesday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
