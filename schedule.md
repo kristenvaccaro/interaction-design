@@ -38,7 +38,9 @@ Yvonne Rogers, Helen Sharp & Jenny Preece "Interaction Design: Beyond Human-Comp
 _Slides: [Monday](https://drive.google.com/file/d/16bOCVB39WPLgM9Mc-pT9nBlwa6HepqXR/view?usp=drive_link)_  
 _Slides: [Wednesday](https://drive.google.com/file/d/1__6KauHgoVpi6E8Z5VfDoVYuCpvFGxFx/view?usp=drive_link)_  
 
-## Week 4: Information Design
+## Week 4: No Class
+
+## Week 5: Information Design
 Reading:  
 Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETeWGHesBNBBiFvEwSm686UBYdSOHm5rWdRQkl3l-G5m2g?e=8lh0hm) and Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)  
 Akos Lada et al. [How does News Feed predict what you want to see?](https://tech.facebook.com/engineering/2021/1/news-feed-ranking/)
@@ -48,7 +50,7 @@ Akos Lada et al. [How does News Feed predict what you want to see?](https://tech
 _Slides: [Monday](https://drive.google.com/file/d/1hKKAtb9dSi7CgKgRF39ViY7Yef8LsyMR/view?usp=drive_link)_  
 _Slides: [Wednesday](https://drive.google.com/file/d/1ZokwzgwQs7cfubql-q8sN0p3upS4VLw4/view?usp=drive_link)_  
 
-## Week 5: Visual Design
+## Week 6: Visual Design
 Reading:  
 Robin Williams "The Non-Designer's Design Book" Part 1 [Design Principles](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EYIFhLP0iI1JnDmGuaB_rRwBck536WK0nE5b9ME6SybXHA?e=ETHUao)  
 Interaction Design Foundation "Color Theory" [What is Color Theory?](https://www.interaction-design.org/literature/topics/color-theory)
@@ -62,7 +64,7 @@ _Slides: [Monday](https://drive.google.com/file/d/1hKKAtb9dSi7CgKgRF39ViY7Yef8Ls
 _Slides: [Wednesday](https://drive.google.com/file/d/1ZokwzgwQs7cfubql-q8sN0p3upS4VLw4/view?usp=drive_link)_  
 -->
 
-## Week 6: Interaction Design    
+## Week 7: Interaction Design    
 Reading:     
 Everett N McKay "UI Is Communication" Chapter 2 [Interaction Design](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efgp45WkNKFCnBoQC2PcOPkBClrbxx8bEhwrN-EgeMcD0A?e=lU0iHe)   
 Alan Dix, Janet Finlay, Gregory Abowd & Russell Beale "Human-Computer Interaction" Chapter 7 [Design Rules](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETu9XXtRtAxIkPG43caDbLABh8-FUlSZ9NgecJ8hVdDaVg?e=s1F8wK)    
@@ -73,10 +75,10 @@ _OPTIONAL REFERENCE_ Alan Cooper, Robert Reimann & David Cronin "About Face 3: T
 _Slides: [Monday](https://drive.google.com/file/d/1yexUsabImBJpY9nlX9rr09_KJAVF6l2t/view?usp=drive_link)_  
 _Slides: [Wednesday](https://drive.google.com/file/d/1HVx15PvQq36xVhsbSEsD8JHEsGhD0Jp2/view?usp=drive_link)_  
 
-## Week 7: Dark Patterns
+<!-- ## Week 7: Dark Patterns
 OPTIONAL Readings:  
 Sara Morrison "Dark patterns, the tricks websites use to make you say yes, explained" on [Vox](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy)  
-Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired](https://www.wired.com/story/how-to-spot-avoid-dark-patterns/)  
+Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired](https://www.wired.com/story/how-to-spot-avoid-dark-patterns/)  -->
 
 No lectures, studios, or coding lab in Week 7
 <!-- _Slides: [Monday](https://drive.google.com/file/d/1eTD7MhKcCc0YtUFS5gdvAKdvZbAzOU7w/view?usp=drive_link)_  
