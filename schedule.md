@@ -39,6 +39,7 @@ _Slides: [Monday](https://drive.google.com/file/d/16bOCVB39WPLgM9Mc-pT9nBlwa6Hep
 _Slides: [Wednesday](https://drive.google.com/file/d/1__6KauHgoVpi6E8Z5VfDoVYuCpvFGxFx/view?usp=drive_link)_  
 
 ## Week 4: No Class
+No lectures, studios, or coding lab in Week 7
 
 ## Week 5: Information Design
 Reading:  
