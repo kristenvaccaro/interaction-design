@@ -18,9 +18,9 @@ _[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-Tb
 Reading:     
 Dev Patnaik "Needfinding: The Why and How of Uncovering People’s Needs" <!-- [Excerpts](https://drive.google.com/file/d/1266xxFwQm195506qiSz9fmVxvs_disGu/view?usp=sharing) -->     
 Excerpts on Observations, Interviews, and Recording from Jenny Preece, Yvonne Rogers & Helen Sharp "Interaction Design: Beyond Human-Computer Interaction"     <!-- Chapter 7.6 [Observation](https://drive.google.com/file/d/1Za76spC6gVWE8BsSwwfF95OFZ_eizxjU/view?usp=sharing) -->     
-[Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)    
-<!-- Dev Patnaik & Robert Becker "Needfinding: The Why and How of Uncovering People’s Needs" from [Design Management Journal](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXFj0Nu-FRNLqdvcQt_vdv4BJXxEyUsykhJ0Hy7msLlDGA?e=aG4hvf) -->    
+[Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
 _[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
+<!-- Dev Patnaik & Robert Becker "Needfinding: The Why and How of Uncovering People’s Needs" from [Design Management Journal](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXFj0Nu-FRNLqdvcQt_vdv4BJXxEyUsykhJ0Hy7msLlDGA?e=aG4hvf) -->   
 
 ## Week 2: Ideation
 Reading:  
