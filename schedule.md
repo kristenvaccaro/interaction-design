@@ -17,8 +17,8 @@ _[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-Tb
 ## Week 1: Needfinding   
 Reading:     
 Dev Patnaik "Needfinding: The Why and How of Uncovering People’s Needs" <!-- [Excerpts](https://drive.google.com/file/d/1266xxFwQm195506qiSz9fmVxvs_disGu/view?usp=sharing) -->    
-Excerpt on "Gathering Data from Customers" from Karl Ulrich & Steven Eppinger [Product Design and Development](https://www.amazon.com/Product-Design-Development-Karl-Ulrich/dp/0073404772)    
-Excerpts on "Observations" and "Interviews" from Jenny Preece, Yvonne Rogers & Helen Sharp [Interaction Design: Beyond Human-Computer Interaction](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer/dp/111990109X/)     <!-- Chapter 7.6 [Observation](https://drive.google.com/file/d/1Za76spC6gVWE8BsSwwfF95OFZ_eizxjU/view?usp=sharing) -->     
+Excerpt on "Gathering Data from Customers" from [Product Design and Development](https://www.amazon.com/Product-Design-Development-Karl-Ulrich/dp/0073404772) by Karl Ulrich & Steven Eppinger    
+Excerpts on "Observations" and "Interviews" from [Interaction Design: Beyond Human-Computer Interaction](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer/dp/111990109X/) by Jenny Preece, Yvonne Rogers & Helen Sharp     <!-- Chapter 7.6 [Observation](https://drive.google.com/file/d/1Za76spC6gVWE8BsSwwfF95OFZ_eizxjU/view?usp=sharing) -->     
 [Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
 _[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
 <!-- Dev Patnaik & Robert Becker "Needfinding: The Why and How of Uncovering People’s Needs" from [Design Management Journal](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXFj0Nu-FRNLqdvcQt_vdv4BJXxEyUsykhJ0Hy7msLlDGA?e=aG4hvf) -->   
