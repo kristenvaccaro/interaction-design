@@ -22,7 +22,7 @@ Jenny Preece, Yvonne Rogers & Helen Sharp "Interaction Design: Beyond Human-Comp
 
 _[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
 
-## Week 2: From Needs to Solutions
+## Week 2: Ideation
 Reading:  
 Sheila Pontis "Making Sense of Field Research" Chapter 9 [Bridging to design: from findings to actionable design decisions](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EfpHoSXTXHBJoK3BZBn3CykBocPpr5AWWwFuKP_g6ijp1Q?e=gzPSc1)  
 Karl Ulrich & Steven Eppinger "Product Design and Development" Chapter 5 [Identifying Customer Needs](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EST6CpqPSIpCmMV0dhsJWysBsCYzyvgHuQgjJvncsvbiEA?e=maiw5O)  
