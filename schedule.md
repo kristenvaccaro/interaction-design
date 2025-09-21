@@ -32,11 +32,10 @@ _[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-Tb
 
 ## Week 3: Sketching & Prototyping
 Reading:  
-Bill Buxton "Sketching User Experiences: Getting the Design Right and the Right Design" [The Anatomy of Sketching](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETY5_S6SvzpCs-A9JkWr-d8B7cuu7-5X0SEpi0Jc3uVPUw)   
-Yvonne Rogers, Helen Sharp & Jenny Preece "Interaction Design: Beyond Human-Computer Interaction" Chapter 8 [Design, Prototyping, and Construction](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EQf5dU72JGpAtyxjjK99_DoBS34iy50WT24x85CSI3xl1Q?e=v0Vqp7)  
-
-_Slides: [Monday](https://drive.google.com/file/d/16bOCVB39WPLgM9Mc-pT9nBlwa6HepqXR/view?usp=drive_link)_  
-_Slides: [Wednesday](https://drive.google.com/file/d/1__6KauHgoVpi6E8Z5VfDoVYuCpvFGxFx/view?usp=drive_link)_  
+"The Anatomy of Sketching" from [Sketching User Experiences]() by Bill Buxton     
+Excerpts on "Prototyping" from [Interaction Design: Beyond Human-Computer Interaction](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer/dp/111990109X/) by Jenny Preece, Yvonne Rogers & Helen Sharp     
+[Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
+_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
 
 ## Week 4: No Class
 No lectures, studios, or coding lab in Week 4
