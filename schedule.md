@@ -16,7 +16,7 @@ _[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-Tb
 
 ## Week 1: Needfinding   
 Reading:     
-Dev Patnaik "Needfinding: The Why and How of Uncovering People’s Needs" <!-- [Excerpts](https://drive.google.com/file/d/1266xxFwQm195506qiSz9fmVxvs_disGu/view?usp=sharing) -->    
+"Needfinding: The Why and How of Uncovering People’s Needs" by Dev Patnaik <!-- [Excerpts](https://drive.google.com/file/d/1266xxFwQm195506qiSz9fmVxvs_disGu/view?usp=sharing) -->    
 Excerpt on "Gathering Data from Customers" from [Product Design and Development](https://www.amazon.com/Product-Design-Development-Karl-Ulrich/dp/0073404772) by Karl Ulrich & Steven Eppinger    
 Excerpts on "Observations" and "Interviews" from [Interaction Design: Beyond Human-Computer Interaction](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer/dp/111990109X/) by Jenny Preece, Yvonne Rogers & Helen Sharp     <!-- Chapter 7.6 [Observation](https://drive.google.com/file/d/1Za76spC6gVWE8BsSwwfF95OFZ_eizxjU/view?usp=sharing) -->     
 [Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
@@ -24,9 +24,13 @@ _[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-Tb
 <!-- Dev Patnaik & Robert Becker "Needfinding: The Why and How of Uncovering People’s Needs" from [Design Management Journal](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXFj0Nu-FRNLqdvcQt_vdv4BJXxEyUsykhJ0Hy7msLlDGA?e=aG4hvf) -->   
 
 ## Week 2: Ideation
-Reading:  
-Sheila Pontis "Making Sense of Field Research" Chapter 9 [Bridging to design: from findings to actionable design decisions](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EfpHoSXTXHBJoK3BZBn3CykBocPpr5AWWwFuKP_g6ijp1Q?e=gzPSc1)  
-Karl Ulrich & Steven Eppinger "Product Design and Development" Chapter 5 [Identifying Customer Needs](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EST6CpqPSIpCmMV0dhsJWysBsCYzyvgHuQgjJvncsvbiEA?e=maiw5O)  
+Reading:   
+
+Excerpts on "Identifying Customer Needs" from [Product Design and Development](https://www.amazon.com/Product-Design-Development-Karl-Ulrich/dp/0073404772) by Karl Ulrich & Steven Eppinger    
+"How to do affinity mapping that doesn’t suck" by Slava Shestopalov   
+Tom Kelley "The Perfect Brainstorm" from [The Art of Innovation](https://www.amazon.com/Art-Innovation-Lessons-Creativity-Americas/dp/0385499841)     
+<!-- Sheila Pontis "Making Sense of Field Research" Chapter 9 [Bridging to design: from findings to actionable design decisions](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EfpHoSXTXHBJoK3BZBn3CykBocPpr5AWWwFuKP_g6ijp1Q?e=gzPSc1)  -->
+<!-- Karl Ulrich & Steven Eppinger "Product Design and Development" Chapter 5 [Identifying Customer Needs](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EST6CpqPSIpCmMV0dhsJWysBsCYzyvgHuQgjJvncsvbiEA?e=maiw5O)  -->
 
 _Slides: [Monday](https://drive.google.com/file/d/1WK7jOM88zrft-n30F_WC1vCjNYbc5JlE/view?usp=drive_link)_  
 _Slides: [Wednesday](https://drive.google.com/drive/folders/1bJ_Xm4nxDt12eZDTJ2pu-4ljd6YspxvV?usp=drive_link)_  
