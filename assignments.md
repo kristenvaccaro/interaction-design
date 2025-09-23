@@ -208,23 +208,24 @@ Submit your results on [PrairieLearn](https://us.prairielearn.com)
 Submit your results on [PrairieLearn](https://us.prairielearn.com)  
 
 #### Coding Lab #4   
+No lectures, assignments, or coding labs this week. 
+
+#### Coding Lab #5
 
 [Slides](https://drive.google.com/file/d/1dypisj0IXGdWkh6ZudbPpLSV0Jyk4EiU/view?usp=drive_link)   
 [Instructions](https://docs.google.com/document/d/1tP2r-JYAmiyPys0yfKyShRXUG9u8qh97JvKEhPNMid8/edit?usp=sharing)   
 Submit your results on [PrairieLearn](https://us.prairielearn.com)  
 
-#### Coding Lab #5  
+#### Coding Lab #6  
 
 [Instructions](https://docs.google.com/document/d/1EmJxAlJeR9kq3LCZiI141mHxGWgwd7pxupG-M5Q01G4/edit?usp=sharing)    
 Submit your results on [PrairieLearn](https://us.prairielearn.com)  
 
-#### Coding Lab #6   
+#### Coding Lab #7   
 
 [Slides](https://drive.google.com/file/d/1RL3zyWmj1pjgtm2uXzkMPzVzl4knhNOM/view?usp=drive_link)   
 [Instructions](https://docs.google.com/document/d/1rgtl5vj8MLkq6UCvBDc5JbB95monima26HxqoeoutdU/edit?usp=sharing)   
 Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/143041/assessment/2378129)   
-
-#### No Coding Lab Week 7
 
 #### Coding Lab #8
 
