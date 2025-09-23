@@ -56,6 +56,9 @@ You will sketch possible solutions for the needs you identified.
 [Instructions](https://docs.google.com/document/d/1lagFlIdlN0dpGQgtR_ytREDWwnOQiFskwua425pMqvQ/edit?usp=sharing)   
 [Materials](https://drive.google.com/file/d/120TzpI6lG39vWzKcNr3WIsN6O0DTF-B4/view?usp=drive_link)   
 
+#### Assignment #4
+No Assignment Week 4
+
 #### Assignment #5   
 Due Week 5 Friday, 11:59PM   
 
