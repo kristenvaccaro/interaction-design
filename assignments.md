@@ -76,7 +76,7 @@ You will create a visual design in a high-fidelity prototype.
 [(Optional) Materials](https://drive.google.com/file/d/1BBlxi9aJmm0bwk-lI7dgwL-ERA079iJc/view?usp=drive_link)   
 
 #### Assignment #7   
-Due Week 6 Friday, 11:59PM   
+Due Week 7 Friday, 11:59PM   
 **Note, a 3 minute demo of your interactions is due before the start of your studio!**   
 
 You will design interactions for your own prototype, record a demo, and conduct a heuristic evaluation.    
@@ -210,6 +210,7 @@ Submit your results on [Gradescope](https://www.gradescope.com/)
 #### Coding Lab #4   
 No lectures, assignments, or coding labs this week. 
 
+<!-- 
 #### Coding Lab #5
 
 [Slides](https://drive.google.com/file/d/1dypisj0IXGdWkh6ZudbPpLSV0Jyk4EiU/view?usp=drive_link)   
@@ -237,11 +238,12 @@ Submit your results on [Gradescope](https://www.gradescope.com/)
 
 #### No Coding Lab Week 10 - Open Coding Session
 
-Week 10 please come for help with any issues in the coding on your final project. 
+Week 10 please come for help with any issues in the coding on your final project.
+--> 
 
 ## Quizzes
   
-The quizzes will ask similar questions and prepare you for the final exam. Quizzes will be released on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/165782) each Monday, and will be due by Friday 5PM.    
+The quizzes will ask similar questions and prepare you for the final exam. Quizzes will be during lecture and will start at exactly 1pm. We will collect them at 1:02pm, so please be on time!    
 
 ## Final Exam
 
