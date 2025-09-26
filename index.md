@@ -37,7 +37,7 @@ Studios: Thursday 2-3:50, Thursday 4-5:50, Thursday 6-7:50, Friday 5-6:50
 Shelby Myrman   
 smyrman@ucsd.edu   
 Studios: Thursday 9-10:50, Friday 11-12:50, Friday 3-4:50
-Office Hours: [Thusday 2-3](https://ucsd.zoom.us/j/96277928470) and [Friday 2-3](https://ucsd.zoom.us/j/93108519947) via Zoom
+Office Hours: [Thusday 2-3](https://ucsd.zoom.us/j/96277928470) via Zoom
 
 
 <!-- Student Hours: Monday 11AM  
