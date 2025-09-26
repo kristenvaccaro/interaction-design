@@ -1,4 +1,4 @@
-# Interaction Design: Fall 2024   
+# Interaction Design: Fall 2025   
 
 This course (CSE 170) provides a practice-based overview of user experience (UX) and user interface (UI) design. Topics will include: identifying opportunities to build tools, principles of good design, and practices for evaluating and iterating on designs. 
 
@@ -30,13 +30,14 @@ CSE 170 Student Hours: Wednesday 12-1PM
 Location: Outside Center Hall 105
 
 TAs  
-Tianyi Shan  
-tshan@ucsd.edu   
-Studios: TBD
+Nazanin Sabri   
+nsabri@ucsd.edu
+Studios: Thursday 2-3:50, Thursday 4-5:50, Thursday 6-7:50, Friday 5-6:50
 
-Smruthi Gowtham   
-sgowtham@ucsd.edu   
-Studios: TBD
+Shelby Myrman   
+smyrman@ucsd.edu   
+Studios: Thursday 9-10:50, Friday 11-12:50, Friday 3-4:50
+Office Hours: [Thusday 2-3](https://ucsd.zoom.us/j/96277928470) and [Friday 2-3](https://ucsd.zoom.us/j/93108519947) via Zoom
 
 
 <!-- Student Hours: Monday 11AM  

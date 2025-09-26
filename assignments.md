@@ -22,7 +22,7 @@ Design assignments will be due at 11:59PM Friday, every week.
 ### Links
 
 #### Assignment #1
-Due Week 1 Friday (October 4), 11:59PM  
+Due Week 1 Friday (October 3), 11:59PM  
 
 You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!   
 You may not use students as your needer group! Instead, I recommend identifying a topic or area of interest to you. Here are some ideas from past years:
@@ -185,19 +185,19 @@ You will plan user testing for your tool or system.
 
 ## Coding Labs
 
-Submit all coding labs on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/165782)    
+Submit all coding labs on [Gradescope](https://www.gradescope.com/). 
 
 #### Coding Lab #1
 
 [Slides](https://drive.google.com/file/d/13-V6r0Co6R36FqBstnh8FN3hF_XUhqPt/view?usp=drive_link)    
 [Instructions](https://docs.google.com/document/d/1Vw_FP30RpA4RJIafceWIcOg2oDhlk_1bRuqGWPKcDKQ/edit?usp=sharing)    
-Submit your results on [PrairieLearn](https://us.prairielearn.com)  
+Submit your results on [Gradescope](https://www.gradescope.com/). 
 
 #### Coding Lab #2
 
 [Slides](https://drive.google.com/file/d/1iodcRI7mTa1R-eou1qrOxgZ5FyL1gw9e/view?usp=sharing)     
 [Instructions](https://docs.google.com/document/d/1NXNImg8zl1R0GK8Y9IM2j712zuM892J1xbQnM7SAzdA/edit?usp=drive_link)    
-Submit your results on [PrairieLearn](https://us.prairielearn.com)  
+Submit your results on [Gradescope](https://www.gradescope.com/)  
 
 #### Coding Lab #3   
 
@@ -205,7 +205,7 @@ Submit your results on [PrairieLearn](https://us.prairielearn.com)
 <!--[Lecture Recording](https://drive.google.com/file/d/1mJMeiJQmANY4AU3I6-XQUOL2jHuOF7sk/view?usp=share_link)  --> 
 [Lecture Recording 1](https://drive.google.com/file/d/11t1DPibTtYOh-00CYdfnNm8lm2PtOKzg/view?usp=sharing) [Lecture Recording 2](https://drive.google.com/file/d/1mJMeiJQmANY4AU3I6-XQUOL2jHuOF7sk/view?usp=share_link)    
 [Instructions](https://docs.google.com/document/d/12ivLXLjBSvvynfy07yLdoSw0VGl9SGYxDgyg-ugsgqE/edit?usp=sharing)   
-Submit your results on [PrairieLearn](https://us.prairielearn.com)  
+Submit your results on [Gradescope](https://www.gradescope.com/)  
 
 #### Coding Lab #4   
 No lectures, assignments, or coding labs this week. 
@@ -214,24 +214,24 @@ No lectures, assignments, or coding labs this week.
 
 [Slides](https://drive.google.com/file/d/1dypisj0IXGdWkh6ZudbPpLSV0Jyk4EiU/view?usp=drive_link)   
 [Instructions](https://docs.google.com/document/d/1tP2r-JYAmiyPys0yfKyShRXUG9u8qh97JvKEhPNMid8/edit?usp=sharing)   
-Submit your results on [PrairieLearn](https://us.prairielearn.com)  
+Submit your results on [Gradescope](https://www.gradescope.com/)  
 
 #### Coding Lab #6  
 
 [Instructions](https://docs.google.com/document/d/1EmJxAlJeR9kq3LCZiI141mHxGWgwd7pxupG-M5Q01G4/edit?usp=sharing)    
-Submit your results on [PrairieLearn](https://us.prairielearn.com)  
+Submit your results on [Gradescope](https://www.gradescope.com/)  
 
 #### Coding Lab #7   
 
 [Slides](https://drive.google.com/file/d/1RL3zyWmj1pjgtm2uXzkMPzVzl4knhNOM/view?usp=drive_link)   
 [Instructions](https://docs.google.com/document/d/1rgtl5vj8MLkq6UCvBDc5JbB95monima26HxqoeoutdU/edit?usp=sharing)   
-Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/143041/assessment/2378129)   
+Submit your results on [Gradescope](https://www.gradescope.com/)   
 
 #### Coding Lab #8
 
 [Slides](https://drive.google.com/file/d/1OMvuLCiV4d-vvqfNatuKOenNCLXeAPh1/view?usp=drive_link)   
 [Instructions](https://docs.google.com/document/d/1DWGK9WBzY_Ne5OumiyMtNWuL1i6QatxvsPNsBNqcjY8/edit?usp=sharing)   
-Submit your results on [PrairieLearn](https://us.prairielearn.com/pl/course_instance/143041/assessment/2380835)    
+Submit your results on [Gradescope](https://www.gradescope.com/)    
 
 #### No Coding Lab Week 9 (Happy Thanksgiving!)
 
