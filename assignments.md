@@ -190,7 +190,7 @@ Submit all coding labs on [Gradescope](https://www.gradescope.com/).
 #### Coding Lab #1
 
 [Slides](https://drive.google.com/file/d/13-V6r0Co6R36FqBstnh8FN3hF_XUhqPt/view?usp=drive_link)    
-[Instructions](https://docs.google.com/document/d/1Vw_FP30RpA4RJIafceWIcOg2oDhlk_1bRuqGWPKcDKQ/edit?usp=sharing)    
+[Instructions](https://docs.google.com/document/d/1C5vut-9aTy00oNJ3BT7Ur74Rj1ptCVA0vLX2RvYbg2A/edit?usp=sharing)    
 Submit your results on [Gradescope](https://www.gradescope.com/). 
 
 #### Coding Lab #2
