@@ -185,7 +185,9 @@ You will plan user testing for your tool or system.
 
 ## Coding Labs
 
+### Submission Instructions
 Submit all coding labs on [Gradescope](https://www.gradescope.com/). 
+For the autograder to work, you must use [CodePen](https://codepen.io/pen/) to complete your assigment, export your work as a .zip file, and upload the .zip file directly to Gradescope. [See detailed instructions here.](https://docs.google.com/document/d/1PUWaGbj9II68R5kdZXvCvmhcg3-Vw9ZZCXUDnpzMCsQ/edit?usp=sharing)
 
 #### Coding Lab #1
 
