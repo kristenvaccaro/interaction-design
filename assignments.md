@@ -214,7 +214,6 @@ Submit your results on [Gradescope](https://www.gradescope.com/)
 #### Coding Lab #4   
 No lectures, assignments, or coding labs this week. 
 
-<!-- 
 #### Coding Lab #5
 
 [Slides](https://drive.google.com/file/d/1dypisj0IXGdWkh6ZudbPpLSV0Jyk4EiU/view?usp=drive_link)   
@@ -223,15 +222,17 @@ Submit your results on [Gradescope](https://www.gradescope.com/)
 
 #### Coding Lab #6  
 
+[Slides](https://drive.google.com/file/d/1RL3zyWmj1pjgtm2uXzkMPzVzl4knhNOM/view?usp=drive_link)  
 [Instructions](https://docs.google.com/document/d/1rgtl5vj8MLkq6UCvBDc5JbB95monima26HxqoeoutdU/edit?usp=sharing)    
 Submit your results on [Gradescope](https://www.gradescope.com/)  
 
 #### Coding Lab #7   
 
 [Slides](https://drive.google.com/file/d/1RL3zyWmj1pjgtm2uXzkMPzVzl4knhNOM/view?usp=drive_link)   
-[Instructions](https://docs.google.com/document/d/1rgtl5vj8MLkq6UCvBDc5JbB95monima26HxqoeoutdU/edit?usp=sharing)   
+[Instructions](https://docs.google.com/document/d/1DWGK9WBzY_Ne5OumiyMtNWuL1i6QatxvsPNsBNqcjY8/edit?usp=sharing)   
 Submit your results on [Gradescope](https://www.gradescope.com/)   
 
+<!--
 #### Coding Lab #8
 
 [Slides](https://drive.google.com/file/d/1OMvuLCiV4d-vvqfNatuKOenNCLXeAPh1/view?usp=drive_link)   
