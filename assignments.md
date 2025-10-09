@@ -215,8 +215,7 @@ Submit your results on [Gradescope](https://www.gradescope.com/)
 No lectures, assignments, or coding labs this week. 
 
 #### Coding Lab #5
-
-[Slides](https://drive.google.com/file/d/1dypisj0IXGdWkh6ZudbPpLSV0Jyk4EiU/view?usp=drive_link)   
+   
 [Instructions](https://docs.google.com/document/d/1EDAkg32F73gb3oQVb6cFsh25q8Oj3jOaDnl2oj9cDQ4/edit?usp=sharing)   
 Submit your results on [Gradescope](https://www.gradescope.com/)  
 
