@@ -42,13 +42,11 @@ No lectures, studios, or coding lab in Week 4
 
 ## Week 5: Information Design
 Reading:  
-<!-- Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETeWGHesBNBBiFvEwSm686UBYdSOHm5rWdRQkl3l-G5m2g?e=8lh0hm) and Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)  
-Akos Lada et al. [How does News Feed predict what you want to see?](https://tech.facebook.com/engineering/2021/1/news-feed-ranking/)-->
-<!-- Nicole Fenlon & Kate Kiefer Lee "Nicely Said: Writing for the Web with Style and Purpose" Chapter 4 [Writing Basics](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ea12OrMuyQFJqSMSEG4wGzIBGBeTLBJCkN9_Hf64kNoIyA?e=md8cKj)  -->
+Excerpts on Navigation Design and Information Design from ["Elements of User Experience"](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0735712026) by Jesse James Garrett    
+Excerpts on Organization Systems and Design for Finding from [Information Architecture](https://www.amazon.com/Information-Architecture-Beyond-Louis-Rosenfeld/dp/1491911689) by Rosenfeld, Morville & Arango   
 
-
-_Slides: [Monday](https://drive.google.com/file/d/1hKKAtb9dSi7CgKgRF39ViY7Yef8LsyMR/view?usp=drive_link)_  
-_Slides: [Wednesday](https://drive.google.com/file/d/1ZokwzgwQs7cfubql-q8sN0p3upS4VLw4/view?usp=drive_link)_  
+[Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
+_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
 
 ## Week 6: Visual Design
 Reading:  
