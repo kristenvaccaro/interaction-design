@@ -42,8 +42,8 @@ No lectures, studios, or coding lab in Week 4
 
 ## Week 5: Information Design
 Reading:  
-Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETeWGHesBNBBiFvEwSm686UBYdSOHm5rWdRQkl3l-G5m2g?e=8lh0hm) and Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)  
-Akos Lada et al. [How does News Feed predict what you want to see?](https://tech.facebook.com/engineering/2021/1/news-feed-ranking/)
+<!-- Jesse James Garrett "Elements of User Experience" Chapter 5 [The Structure Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETeWGHesBNBBiFvEwSm686UBYdSOHm5rWdRQkl3l-G5m2g?e=8lh0hm) and Chapter 6 [The Skeleton Plane](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETkNteRu11pKosFRCfsS7EMBUa7Zxq0FYO9ewkdqeJ7Zog?e=1CbTMY)  
+Akos Lada et al. [How does News Feed predict what you want to see?](https://tech.facebook.com/engineering/2021/1/news-feed-ranking/)-->
 <!-- Nicole Fenlon & Kate Kiefer Lee "Nicely Said: Writing for the Web with Style and Purpose" Chapter 4 [Writing Basics](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ea12OrMuyQFJqSMSEG4wGzIBGBeTLBJCkN9_Hf64kNoIyA?e=md8cKj)  -->
 
 
