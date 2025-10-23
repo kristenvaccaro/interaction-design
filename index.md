@@ -66,8 +66,7 @@ Course related announcements will be shared on Canvas. Please use Canvas for you
 By default office hours will be group-office hours, as many students will have similar questions and can learn from each other. *If you have a personal issue*, please email me to set up a separate time.
 
 #### Questions that are a good fit for email:
-- Would you be willing to write a recommendation letter for me?
-- I have a personal issue that will require submitting an assignment more than 5 days late...
+Canvas messages should be used for all course-related communications. Emails will not receive replies.  
 
 ## Grading
 
