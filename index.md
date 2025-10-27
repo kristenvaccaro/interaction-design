@@ -84,8 +84,6 @@ Late Policy: You will receive *5 free late days* that can be used for design ass
 
 Attendance Policy: Attendance at the lectures is recommended, but studio attendance is required, beginning in Week 1. You may skip one studio without penalty, but any additional missed studio will lose 25% of the total studio participation portion of your grade (i.e., 4 missed studios = 0% credit for studio participation). To request an excused absence, contact me and your studio TA on Canvas. 
 
-Lowest Quiz Dropped Policy: Your lowest quiz score (including a missed quiz) will be automatically dropped. 
-
 ## Inclusion Statement
 It is my hope that we will develop a supportive learning community that will foster rich discussions through the sharing of personal ideas, experiences, and interpretations of the course material. Honesty, listening for understanding, a willingness to share your ideas, and respect for self and others are basic guidelines that can help create a positive learning environment. Your participation and feedback is important to the success of the course and I welcome your thoughts throughout the semester on how we might improve class processes that will encourage effective communication and dialogue.
 
