@@ -84,6 +84,20 @@ Late Policy: You will receive *5 free late days* that can be used for design ass
 
 Attendance Policy: Attendance at the lectures is recommended, but studio attendance is required, beginning in Week 1. You may skip one studio without penalty, but any additional missed studio will lose 25% of the total studio participation portion of your grade (i.e., 4 missed studios = 0% credit for studio participation). To request an excused absence, contact me and your studio TA on Canvas. 
 
+## LLM Policy
+
+#### Can I use LLMs to write the code for my coding labs?
+
+I discourage LLM/"vibe" coding if you are still learning (i.e., if this is your first experience with web development). Experienced web developers may use LLMs, but must "cite your sources", i.e., specify the model and prompt used. You must also include the original LLM generated code and mark any changes you made.   
+
+In addition, if we suspect any code was LLM generated or have other questions/concerns about your code, you may be asked to come to office hours and explain what it does, assess whether it is the simplest solution, and/or compare to other strategies covered in class. 
+
+#### Can I use LLMs for the design assignments?
+
+It is strictly forbidden to use LLMs to fabricate any data from users (either in needfinding or user testing). You need to know your users and their experiences to do good design.  
+
+However, it is now common practice in industry to use LLMs for things like generating information architectures, providing critiques on designs, or transcribing/summarizing user testing feedback. While I recommend doing a first draft of all tasks yourself first, you are permitted to use LLMs for these tasks, following the same "cite your sources" policy (specify the model and prompt used).
+
 ## Inclusion Statement
 It is my hope that we will develop a supportive learning community that will foster rich discussions through the sharing of personal ideas, experiences, and interpretations of the course material. Honesty, listening for understanding, a willingness to share your ideas, and respect for self and others are basic guidelines that can help create a positive learning environment. Your participation and feedback is important to the success of the course and I welcome your thoughts throughout the semester on how we might improve class processes that will encourage effective communication and dialogue.
 
