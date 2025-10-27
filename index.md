@@ -82,7 +82,7 @@ Design assignments are due Friday 11:59 PM
 
 Late Policy: You will receive *5 free late days* that can be used for design assignment or web dev coding lab submissions, but you should still be prepared to discuss your plans in enough detail to get feedback in your studio. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
 
-Attendance Policy: Attendance at the lectures is optional, but you must attend all studios, beginning in Week 1. Any missed studio will lose 25% of the total studio participation portion of your grade (i.e., 4 missed studios = 0% credit for studio participation). To request an excused absence, fill out [this Google form](https://forms.gle/M77m6T62NeBCsPLcA) by 4:30PM the day before your studio; if your absence is excused, your TA will confirm that before the start of class. 
+Attendance Policy: Attendance at the lectures is recommended, but studio attendance is required, beginning in Week 1. You may skip one studio without penalty, but any additional missed studio will lose 25% of the total studio participation portion of your grade (i.e., 4 missed studios = 0% credit for studio participation). To request an excused absence, contact me and your studio TA on Canvas. 
 
 Lowest Quiz Dropped Policy: Your lowest quiz score (including a missed quiz) will be automatically dropped. 
 
