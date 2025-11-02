@@ -54,8 +54,8 @@ Excerpts from [The Non-Designer's Design Book](https://www.amazon.com/Non-Design
 Excerpts from [The Complete Color Harmony Workbook](https://www.amazon.com/Complete-Color-Harmony-Workbook-Combinations) by Kiki Eldridge   
 <!-- Interaction Design Foundation "Color Theory" [What is Color Theory?](https://www.interaction-design.org/literature/topics/color-theory)-->
 
-_Slides: [Monday](https://drive.google.com/file/d/1FIsATHenzmKFvnNIkBf9R9P6Nl1JUhfp/view?usp=drive_link)_    
-_Slides: [Wednesday](https://drive.google.com/file/d/1X6CEK2jekQosSkmIzTgzphTlQV29C1We/view?usp=drive_link)_    
+[Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
+_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
 
 <!--Johannes Itten "The Elements of Color" [Excerpts](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EXCTTxH87_FCuLEoEX0kVewB9p3-qRcobbx-QXldHnTq7w?e=fOrZvB)
 
