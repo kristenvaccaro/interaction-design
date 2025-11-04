@@ -64,15 +64,19 @@ _Slides: [Wednesday](https://drive.google.com/file/d/1ZokwzgwQs7cfubql-q8sN0p3up
 -->
 
 ## Week 7: Interaction Design    
-Reading:     
-Everett N McKay "UI Is Communication" Chapter 2 [Interaction Design](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efgp45WkNKFCnBoQC2PcOPkBClrbxx8bEhwrN-EgeMcD0A?e=lU0iHe)   
-Alan Dix, Janet Finlay, Gregory Abowd & Russell Beale "Human-Computer Interaction" Chapter 7 [Design Rules](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETu9XXtRtAxIkPG43caDbLABh8-FUlSZ9NgecJ8hVdDaVg?e=s1F8wK)    
+Reading:    
+Excerpts on Mental Models from [Interaction Design: Beyond Human-Computer Interaction](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer/dp/111990109X/) by Jenny Preece, Yvonne Rogers & Helen Sharp    
+_OPTIONAL_ Excerpts from [The Humane Interface](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376) by Jef Raskins    
+Excerpts on Heuristic Evaluation and the Shneiderman, Norman, Nielsen and ISO Heuristics
+
+<!-- Everett N McKay "UI Is Communication" Chapter 2 [Interaction Design](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Efgp45WkNKFCnBoQC2PcOPkBClrbxx8bEhwrN-EgeMcD0A?e=lU0iHe)   
+Alan Dix, Janet Finlay, Gregory Abowd & Russell Beale "Human-Computer Interaction" Chapter 7 [Design Rules](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ETu9XXtRtAxIkPG43caDbLABh8-FUlSZ9NgecJ8hVdDaVg?e=s1F8wK)  -->  
 _OPTIONAL REFERENCE_ Alan Cooper, Robert Reimann & David Cronin "About Face 3: The Essentials of Interaction Design" Part III [Designing Interaction Details](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVm9WQODxFJMhUHcEuOmTE4BbJy6F_KkzCSfySijHlDLbg?e=Om2SiZ)
 
 <!-- Chapter 5.7 [Screen Design And Layout](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EbeMpqja0kxJmx1jhfixhSgBCVEG25hqyDkgnJ4KbkwIcQ?e=w9wW2O) and -->
 
-_Slides: [Monday](https://drive.google.com/file/d/1yexUsabImBJpY9nlX9rr09_KJAVF6l2t/view?usp=drive_link)_  
-_Slides: [Wednesday](https://drive.google.com/file/d/1HVx15PvQq36xVhsbSEsD8JHEsGhD0Jp2/view?usp=drive_link)_  
+[Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
+_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
 
 <!-- ## Week 7: Dark Patterns
 OPTIONAL Readings:  
