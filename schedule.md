@@ -83,22 +83,22 @@ Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired]
 
 
 ## Week 8: User Testing  
-Reading: Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Section 2 [Selecting and Using User Research Methods](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZUkPiWsURlMkS2_zJe3C8gBcBPiQHWhMwY4ttFlXME6iQ), Chapter 5 [Usability Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcZBbxgdLW5MkSdb-8j5LpUB7sQyIpdP2DHtF6oqmomfOQ), Chapter 9 [User Interviews](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcS7gaF88Z1Fli_qVUBeZpEBL5l0IwOIrbDo5ruuVDf_Qw), Chapter 8 [Surveys](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVYK7z2Oh7BPtK8uimYTjU0BON8tYeANxokbxdHFnnx2jw), Chapter 13 [Contextual Inquiry](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZVy3tNq-xtGs6yZJ8n3BeMBiLwXlCqbfhK4K7QSXC3rpg)     
+Reading: 
+Excerpts from ["User Research : A Practical Guide to Designing Better Products and Services"]() by Stephanie Marsh   
 
-_Slides: [Monday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
-_Slides: [Wednesday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
+[Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
+_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
 
-## Week 9: Qualitative & Quantitative Methods for Testing
+## Week 9: Analyzing User Data
 Note: No studios / coding lab due to Thanksgiving holiday 
 Reading:  
-Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Chapter 10 [Diary Studies](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EaAtyaxTdi9OvYY_Gu8eiAQBuNiuHW_skwcuTENdBS2t_A), Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services", Chapter 14 [A/B Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Eden7s0VTCZOgTz406l9nZQBsyE_I5hRKFc2XyHAAxr2pg)
+<!-- Section 2 [Selecting and Using User Research Methods](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZUkPiWsURlMkS2_zJe3C8gBcBPiQHWhMwY4ttFlXME6iQ), Chapter 5 [Usability Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcZBbxgdLW5MkSdb-8j5LpUB7sQyIpdP2DHtF6oqmomfOQ), Chapter 9 [User Interviews](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcS7gaF88Z1Fli_qVUBeZpEBL5l0IwOIrbDo5ruuVDf_Qw), Chapter 8 [Surveys](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVYK7z2Oh7BPtK8uimYTjU0BON8tYeANxokbxdHFnnx2jw), Chapter 13 [Contextual Inquiry](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZVy3tNq-xtGs6yZJ8n3BeMBiLwXlCqbfhK4K7QSXC3rpg)  Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Chapter 10 [Diary Studies](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EaAtyaxTdi9OvYY_Gu8eiAQBuNiuHW_skwcuTENdBS2t_A), Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services", Chapter 14 [A/B Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Eden7s0VTCZOgTz406l9nZQBsyE_I5hRKFc2XyHAAxr2pg) -->
 
 _Slides: [Monday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
 _Slides: [Wednesday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
 
-## Week 10: Other Considerations for User Testing & Quarter Review
+## Week 10: Additional Considerations for User Testing & Quarter Review
 Reading:  None
  
-
-_Slides: [Monday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
-_Slides: [Wednesday](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=drive_link)_  
+[Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
+_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
