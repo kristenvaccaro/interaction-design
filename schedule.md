@@ -68,6 +68,7 @@ Reading:
 Excerpts on Mental Models from [Interaction Design: Beyond Human-Computer Interaction](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer/dp/111990109X/) by Jenny Preece, Yvonne Rogers & Helen Sharp    
 _OPTIONAL_ Excerpts from [The Humane Interface](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376) by Jef Raskins    
 Excerpts on Heuristic Evaluation and the Shneiderman, Norman, Nielsen and ISO Heuristics     
+_OPTIONAL_  ["Dark patterns, the tricks websites use to make you say yes, explained"](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy) from Sara Morrison at Vox  
 _OPTIONAL REFERENCE_ Alan Cooper, Robert Reimann & David Cronin "About Face 3: The Essentials of Interaction Design" Part III [Designing Interaction Details](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVm9WQODxFJMhUHcEuOmTE4BbJy6F_KkzCSfySijHlDLbg?e=Om2SiZ)
 
 <!-- Chapter 5.7 [Screen Design And Layout](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EbeMpqja0kxJmx1jhfixhSgBCVEG25hqyDkgnJ4KbkwIcQ?e=w9wW2O) and -->
@@ -80,9 +81,6 @@ OPTIONAL Readings:
 Sara Morrison "Dark patterns, the tricks websites use to make you say yes, explained" on [Vox](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy)  
 Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired](https://www.wired.com/story/how-to-spot-avoid-dark-patterns/)  -->
 
-No lectures, studios, or coding lab in Week 7
-<!-- _Slides: [Monday](https://drive.google.com/file/d/1eTD7MhKcCc0YtUFS5gdvAKdvZbAzOU7w/view?usp=drive_link)_  
-_Slides: [Wednesday](https://drive.google.com/file/d/1j9tnhOj7k5u5-4vVPjr12bqD_daEXv4S/view?usp=drive_link)_  -->
 
 ## Week 8: User Testing  
 Reading: Stephanie Marsh "User Research : A Practical Guide to Designing Better Products and Services" Section 2 [Selecting and Using User Research Methods](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZUkPiWsURlMkS2_zJe3C8gBcBPiQHWhMwY4ttFlXME6iQ), Chapter 5 [Usability Testing](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcZBbxgdLW5MkSdb-8j5LpUB7sQyIpdP2DHtF6oqmomfOQ), Chapter 9 [User Interviews](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EcS7gaF88Z1Fli_qVUBeZpEBL5l0IwOIrbDo5ruuVDf_Qw), Chapter 8 [Surveys](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVYK7z2Oh7BPtK8uimYTjU0BON8tYeANxokbxdHFnnx2jw), Chapter 13 [Contextual Inquiry](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EZVy3tNq-xtGs6yZJ8n3BeMBiLwXlCqbfhK4K7QSXC3rpg)     
