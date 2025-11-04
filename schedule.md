@@ -69,7 +69,7 @@ Excerpts on Mental Models from [Interaction Design: Beyond Human-Computer Intera
 Excerpts from [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Don Norman    
 Excerpts on Heuristic Evaluation and the Shneiderman, Norman, Nielsen and ISO Heuristics     
 _OPTIONAL_ Excerpts from [The Humane Interface](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376) by Jef Raskins    
-_OPTIONAL_  ["Dark patterns, the tricks websites use to make you say yes, explained"](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy) from Sara Morrison at Vox    
+_OPTIONAL_  ["How to Spot—and Avoid—Dark Patterns on the Web"](https://www.wired.com/story/how-to-spot-avoid-dark-patterns/) from Eric Ravenscraft WIRED      
 _OPTIONAL REFERENCE_ Alan Cooper, Robert Reimann & David Cronin "About Face 3: The Essentials of Interaction Design" Part III [Designing Interaction Details](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVm9WQODxFJMhUHcEuOmTE4BbJy6F_KkzCSfySijHlDLbg?e=Om2SiZ)
 
 <!-- Chapter 5.7 [Screen Design And Layout](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EbeMpqja0kxJmx1jhfixhSgBCVEG25hqyDkgnJ4KbkwIcQ?e=w9wW2O) and -->
