@@ -67,8 +67,8 @@ _Slides: [Wednesday](https://drive.google.com/file/d/1ZokwzgwQs7cfubql-q8sN0p3up
 Reading:    
 Excerpts on Mental Models from [Interaction Design: Beyond Human-Computer Interaction](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer/dp/111990109X/) by Jenny Preece, Yvonne Rogers & Helen Sharp    
 Excerpts from [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Don Norman    
-_OPTIONAL_ Excerpts from [The Humane Interface](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376) by Jef Raskins    
 Excerpts on Heuristic Evaluation and the Shneiderman, Norman, Nielsen and ISO Heuristics     
+_OPTIONAL_ Excerpts from [The Humane Interface](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376) by Jef Raskins    
 _OPTIONAL_  ["Dark patterns, the tricks websites use to make you say yes, explained"](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy) from Sara Morrison at Vox    
 _OPTIONAL REFERENCE_ Alan Cooper, Robert Reimann & David Cronin "About Face 3: The Essentials of Interaction Design" Part III [Designing Interaction Details](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVm9WQODxFJMhUHcEuOmTE4BbJy6F_KkzCSfySijHlDLbg?e=Om2SiZ)
 
