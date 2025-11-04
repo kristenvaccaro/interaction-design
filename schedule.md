@@ -51,7 +51,7 @@ _[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-Tb
 ## Week 6: Visual Design
 Reading:  
 Excerpts from [The Non-Designer's Design Book](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151/) by Robin Williams   
-Excerpts from [The Complete Color Harmony Workbook](https://www.amazon.com/Complete-Color-Harmony-Workbook-Combinations) by Kiki Eldridge   
+Excerpts from [The Complete Color Harmony Workbook](https://www.amazon.com/Complete-Color-Harmony-Workbook-Combinations/dp/1592533299) by Kiki Eldridge   
 <!-- Interaction Design Foundation "Color Theory" [What is Color Theory?](https://www.interaction-design.org/literature/topics/color-theory)-->
 
 [Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
