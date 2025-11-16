@@ -86,6 +86,7 @@ Eric Ravenscraft "How to Spot—and Avoid—Dark Patterns on the Web" on [Wired]
 ## Week 8: User Testing  
 Reading: 
 Excerpts from ["User Research : A Practical Guide to Designing Better Products and Services"](https://www.amazon.com/User-Research-Improve-Product-Service/dp/1398603600) by Stephanie Marsh   
+"Question and Questionnaire Design" by Jon Krosnick and Stanley Presser  
 
 [Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
 _[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
