@@ -231,15 +231,15 @@ Submit your results on [Gradescope](https://www.gradescope.com/)
 [Instructions](https://docs.google.com/document/d/1DWGK9WBzY_Ne5OumiyMtNWuL1i6QatxvsPNsBNqcjY8/edit?usp=sharing)   
 Submit your results on [Gradescope](https://www.gradescope.com/)   
 
-<!--
+
 #### Coding Lab #8
 
-[Slides](https://drive.google.com/file/d/1OMvuLCiV4d-vvqfNatuKOenNCLXeAPh1/view?usp=drive_link)   
-[Instructions](https://docs.google.com/document/d/1DWGK9WBzY_Ne5OumiyMtNWuL1i6QatxvsPNsBNqcjY8/edit?usp=sharing)   
+[Instructions](https://docs.google.com/document/d/10_xlE3bGg_XK746MytwC2Zgr2HSynVmU1DVwgj3pvGA/edit?usp=sharing)   
 Submit your results on [Gradescope](https://www.gradescope.com/)    
 
 #### No Coding Lab Week 9 (Happy Thanksgiving!)
 
+<!--
 #### No Coding Lab Week 10 - Open Coding Session
 
 Week 10 please come for help with any issues in the coding on your final project.
