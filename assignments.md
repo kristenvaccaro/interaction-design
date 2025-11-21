@@ -95,7 +95,7 @@ You will design interactions for your own prototype, record a demo, and conduct 
 
 
 #### Assignment #8 
-Due Week 8 Friday, 11:59PM   
+Due Week 9 Wednesday, 11:59PM      
 
 You will conduct a user test of your application.      
 
@@ -232,7 +232,8 @@ Submit your results on [Gradescope](https://www.gradescope.com/)
 Submit your results on [Gradescope](https://www.gradescope.com/)   
 
 
-#### Coding Lab #8
+#### Coding Lab #8     
+Extended deadline: Week 9 Wednesday 11:59PM!
 
 [Instructions](https://docs.google.com/document/d/10_xlE3bGg_XK746MytwC2Zgr2HSynVmU1DVwgj3pvGA/edit?usp=sharing)   
 Submit your results on [Gradescope](https://www.gradescope.com/)    
