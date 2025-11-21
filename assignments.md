@@ -95,7 +95,7 @@ You will design interactions for your own prototype, record a demo, and conduct 
 
 
 #### Assignment #8 
-Due Week 9 Wednesday, 11:59PM      
+Extended deadline: Week 9 Wednesday, 11:59PM!      
 
 You will conduct a user test of your application.      
 
