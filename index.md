@@ -1,4 +1,4 @@
-# Interaction Design: Fall 2025   
+# Interaction Design: Fall 2026   
 
 This course (CSE 170) provides a practice-based overview of user experience (UX) and user interface (UI) design. Topics will include: identifying opportunities to build tools, principles of good design, and practices for evaluating and iterating on designs. 
 
