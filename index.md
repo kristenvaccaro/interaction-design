@@ -88,7 +88,7 @@ Percentage | Activity
 30% | Midterms  
 30% | Final Exam
 
-Design assignments are due Friday 11:59 PM
+Design assignments are due Thursday 11:59 PM
 
 Late Policy: You will receive *5 free late days* that can be used for design assignment or web dev coding lab submissions, but you should still be prepared to discuss your plans in enough detail to get feedback in your studio. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
 
