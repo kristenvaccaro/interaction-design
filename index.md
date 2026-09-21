@@ -82,17 +82,18 @@ Canvas messages should be used for all course-related communications. Emails wil
 
 Percentage | Activity
 --- | ---
-10% | Portfolio Project 
+10% | Portfolio Design Project 
 10% | Coding Assignments
 20% | Attendance & Participation (10% Studio, 10% Lecture)  
 30% | Midterms  
 30% | Final Exam
 
-Design assignments are due Thursday 11:59 PM
+Portfolio design assignments are due Thursday 11:59 PM
+Coding assignments are due Saturday 11:59 PM  
 
-Late Policy: You will receive *5 free late days* that can be used for design assignment or web dev coding lab submissions, but you should still be prepared to discuss your plans in enough detail to get feedback in your studio. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
+Late Policy: You will receive *10 free late days* that can be shared between any design assignment or web dev coding lab submissions over the quarter, but you should still be prepared to discuss your plans in enough detail to get feedback in your studio. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
 
-Attendance Policy: Attendance at the lectures is recommended, but studio attendance is required, beginning in Week 1. You may skip one studio without penalty, but any additional missed studio will lose 25% of the total studio participation portion of your grade (i.e., 4 missed studios = 0% credit for studio participation). To request an excused absence, contact me and your studio TA on Canvas. 
+Attendance Policy: Attendance at the lectures and studios is required, beginning in Week 1. For full credit, you must attend at least 12 lectures and 7 studios. Any additional missed studios require an excused absence, by contacting me and your studio TA on Canvas. 
 
 ## LLM Policy
 
