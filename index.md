@@ -107,7 +107,7 @@ Note, all students will be called for multiple _viva voce_, or oral exams where 
 
 It is strictly forbidden to use LLMs to fabricate any data from users (either in needfinding or user testing). You need to know your users and their experiences to do good design.  
 
-However, it is now common practice in industry to use LLMs for things like generating information architectures, providing critiques on designs, or transcribing/summarizing user testing feedback. While I recommend doing a first draft of all tasks yourself first, you are permitted to use LLMs for these tasks, following the same "cite your sources" policy (specify the model and prompt used).
+However, it is now common practice in industry to use LLMs for things like generating information architectures, providing critiques on designs, or transcribing/summarizing user testing feedback. While I recommend doing a first draft of all tasks yourself first, you are permitted to use LLMs for these tasks.
 
 ## Inclusion Statement
 It is my hope that we will develop a supportive learning community that will foster rich discussions through the sharing of personal ideas, experiences, and interpretations of the course material. Honesty, listening for understanding, a willingness to share your ideas, and respect for self and others are basic guidelines that can help create a positive learning environment. Your participation and feedback is important to the success of the course and I welcome your thoughts throughout the semester on how we might improve class processes that will encourage effective communication and dialogue.
