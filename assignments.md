@@ -2,7 +2,13 @@
 
 There will be five forms of assessment over the quarter: active participation in design studios (20%), weekly design assignments (25%), coding assignments (20%), quizzes (10%), and a final exam (25%). All deadlines are given in PT.  
 
-## Studio Attendance  & Active Participation   
+## Attendance  & Active Participation   
+
+#### Lectures
+
+Attending lectures (and participating in discussions and activities) will help you learn more than the readings alone. But I recognize that "life happens", so you can earn full credit without attending every single class. You should attend 12 lectures and 6 studios for full credit. Attendance will be measured using a Google form, so please bring a device (phone, tablet, laptop, watch?, smart glasses???) you can use to respond. 
+
+#### Studios
 You will present your weekly design assignment in your studio each week and receive feedback from your peers. The steps of the critique will be:    
 1) **Listen:** Students will present their own work briefly. Other students should listen attentively: no phones, no working on your own project.    
 2) **Ask questions:** Students should ask any questions they have about the work or the process. Examples: what inspired you? How did you accomplish X? What is your goal with element Y? Etc.   
