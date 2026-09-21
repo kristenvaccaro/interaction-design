@@ -13,9 +13,9 @@ As a general rule, you should expect to contribute at least 3 times to the discu
 
 You may miss two studios without contacting us, without penalty. After that, each missed studio attendance will reduce your total studio attendance grade by 20%. To request an excused absence, contact both me and your studio TA by email. 
 
-## Design Assignments
+## Portfolio Project (aka Design Assignments)
 
-You will complete ten weekly design assignments over the course of the quarter. These design assignments will help you understand and apply the concepts we talk about in class.  
+Your portfolio project will be a single project you will submit at the end of the quarter. If you are applying for design jobs, this could be an excellent addition to your portfolio. Each week you will complete a design assignment, all of which will build into your final submission. Each week's design assignments is matched to that week's content in lecture, so they will help you understand and apply the concepts we talk about in class.  
 
 Design assignments will be due at 11:59PM Thursday, every week. 
 
