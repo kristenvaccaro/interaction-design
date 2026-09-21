@@ -250,7 +250,7 @@ Week 10 please come for help with any issues in the coding on your final project
   
 The quizzes will ask similar questions and prepare you for the final exam. Quizzes will be during lecture and will start at exactly 1pm. We will collect them at 1:02pm, so please be on time! -->    
 
-<! -- ## Extra Credit CBTF Exams
+<!-- ## Extra Credit CBTF Exams
 
 The extra credit tests for this course will be administered by the Triton Testing Center (TTC) in the Computer-Based Testing Lab in AP&M B349. The TTC’s rules concerning testing are the rules for this course.   
 
