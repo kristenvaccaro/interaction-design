@@ -265,6 +265,10 @@ All exams for this course will be administered by the Triton Testing Center (TTC
 
 You must schedule your tests in advance, and it is recommended that you do so as soon as possible. Scheduling for all tests, with the exception of finals, opens on the first day of instruction.    
 
+Midterm 1: Week 4  
+Midterm 2: Week 8  
+Final: Week 11/Finals Week
+
 To schedule, visit prairietest.com and log in with your UC San Diego credentials. More information about testing policies and procedures can be found on the TTC’s website. You may also email tritontesting@ucsd.edu for assistance.   
 
 Please note that, if you plan to use OSD-approved accommodations for your test, you will take it at the TTC’s Pepper Canyon Hall location. You must schedule your test at least three days in advance through the RegisterBlast system. 
