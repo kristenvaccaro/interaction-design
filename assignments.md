@@ -6,7 +6,7 @@ Assessments will include: active participation in lectures & design studios (20%
 
 #### Lectures
 
-Attending lectures, and participating in discussions and activities, will help you learn more than the readings alone. But I recognize that "life happens", so you can earn full credit without attending every single class. You should attend at least 12 lectures and 6 studios for full credit. Attendance will be measured using a Google form, so please bring a device (phone, tablet, laptop, watch?, smart glasses???) you can use to respond. 
+Attending lectures, and participating in discussions and activities, will help you learn more than the readings alone. But I recognize that "life happens", so you can earn full credit without attending every single class. You should attend at least 12 lectures and 6 studios for full credit. Attendance will be measured using a Google form, so please bring a device (phone, tablet, laptop, watch?, smart glasses???) you can use to respond. There are no podcasts/recordings of lectures, so please find a friend to share their notes if you miss class. 
 
 #### Studios
 During the studio each week, you will present your progress on your portfolio project and receive feedback from your peers. The steps of the critique will be:    
