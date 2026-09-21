@@ -17,9 +17,9 @@ You may miss two studios without contacting us, without penalty. After that, eac
 
 Your portfolio project will be a single project you will submit at the end of the quarter. If you are applying for design jobs, this could be an excellent addition to your portfolio. Each week you will complete a design assignment, all of which will build into your final submission. Each week's design assignments is matched to that week's content in lecture, so they will help you understand and apply the concepts we talk about in class.  
 
-Design assignments will be due at 11:59PM Thursday, every week. 
+**Due: 11:59PM Thursday, every week.**  
 
-### Links
+<!-- ### Links -->
 
 #### Assignment #1
 Due Week 1 Thursday (October 1), 11:59PM  
