@@ -34,7 +34,7 @@ Senior citizens shopping at UTC mall
 People working at a local community garden   
 Gaming-focused livestreamers on Twitch   
 Knitters on a knitting-related social media forum    
-Baristas working at a local coffee shop    
+Volunteers at a local food pantry   
 Late night workers at fast food places (e.g., McDonalds)    
 Vendors at a farmers market   
 Children visiting a museum in Balboa Park    
