@@ -16,11 +16,11 @@ This course (CSE 170) provides a practice-based overview of user experience (UX)
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design), [PrairieLearn](https://us.prairielearn.com/pl/course_instance/165782), [Canvas](https://canvas.ucsd.edu/), and [Discord](https://discord.gg/YzcCxEpt8r)     
 
-Classroom: Center Hall 105  
-Class Days and Times: Monday, Wednesday, and Friday 1PM  
-Student Hours: Wednesday 12-1PM (outside Center Hall 105)  
-Design Studios: Thursdays or Fridays   
-Unless you have been given permission by the instructors in advance, you must attend the design studio session that you enrolled in  
+Classroom: Center Hall 119 
+Class Days and Times: Tuesday & Thursday 3:30PM  
+Office Hours: TBD  
+Design Studios: Fridays   
+Unless you have been given permission by the instructors in advance, you should attend the design studio session that you enrolled in  
 
 ## Instructors
 
@@ -30,14 +30,24 @@ CSE 170 Student Hours: Monday and Friday 2-3PM
 Location: Outside Center Hall 105
 
 TAs  
-Nazanin Sabri   
-nsabri@ucsd.edu
-Studios: Thursday 2-3:50, Thursday 4-5:50, Thursday 6-7:50, Friday 5-6:50
+Nina Chen   
+nic005@ucsd.edu 
+Studios: TBD    
+Office Hours: TBD
 
-Shelby Myrman   
+Jacob Yim    
+j1yim@ucsd.edu 
+Studios: TBD
+Office Hours: TBD   
+
+<! -- Nazanin Sabri   
+nsabri@ucsd.edu
+Studios: Thursday 2-3:50, Thursday 4-5:50, Thursday 6-7:50, Friday 5-6:50 -->
+
+<!-- Shelby Myrman   
 smyrman@ucsd.edu   
 Studios: Thursday 9-10:50, Friday 11-12:50, Friday 3-4:50
-Office Hours: [Thusday 2-3](https://ucsd.zoom.us/j/96277928470) via Zoom
+Office Hours: [Thusday 2-3](https://ucsd.zoom.us/j/96277928470) via Zoom -->
 
 
 <!-- Student Hours: Monday 11AM  
@@ -72,11 +82,12 @@ Canvas messages should be used for all course-related communications. Emails wil
 
 Percentage | Activity
 --- | ---
-25% | Design Assignments/Final Project Submission   
-20% | Studio Participation  
-20% | Coding Assignments
-10% | Quizzes  
-25% | Final Exam
+10% | Design Assignments/Final Project Submission 
+10% | Coding Assignments
+10% | Studio Participation  
+10% | Lecture Attendance
+30% | Midterms  
+30% | Final Exam
 
 Design assignments are due Friday 11:59 PM
 
