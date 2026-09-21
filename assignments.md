@@ -25,21 +25,8 @@ Design assignments will be due at 11:59PM Thursday, every week.
 Due Week 1 Friday (October 3), 11:59PM  
 
 You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!   
-While students as a needer group are not forbidden per se, some of the final grade will be for the "novelty" of your project! Project ideas I have seen **a lot** in past years: some fix for web reg/TSS (everyone hates web reg/TSS), some fix for problems parking on campus (everyone hates parking on campus), some fix for organizing your tasks/projects/homework (everyone hates keeping track of homework). I suggest selecting a group that is likely to have more interesting/exciting/new problems than these. 
 
-Here are some ideas from past years:
-
-Surfers at the beach   
-Senior citizens shopping at UTC mall   
-People working at a local community garden   
-Gaming-focused livestreamers on Twitch   
-Knitters on a knitting-related social media forum    
-Volunteers at a local food pantry   
-Late night workers at fast food places (e.g., McDonalds)    
-Vendors at a farmers market   
-Children visiting a museum in Balboa Park    
-
-
+[Instructions](https://docs.google.com/document/d/17DY5zViMBWFgDDhZ242FAtjdDdFJkIxYsRfmGbm4I1Y/edit?usp=sharing)   
 [Materials](https://drive.google.com/file/d/1JmKrg75gFlEcPON22ZeYP9DJ_2r15f8z/view?usp=sharing)   
 
 #### Assignment #2
