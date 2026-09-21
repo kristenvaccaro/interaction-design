@@ -25,7 +25,7 @@ Design assignments will be due at 11:59PM Thursday, every week.
 Due Week 1 Friday (October 3), 11:59PM  
 
 You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!   
-While students as a needer group are not forbidden per se, some of the final grade will be for the "novelty" of your project! Project ideas I have seen **a lot** in past years: some fix for web reg (everyone hates web reg), some fix for problems parking on campus (everyone hates parking on campus), some fix for organizing your tasks/projects/homework (everyone hates keeping track of homework). I suggest selecting a group that is likely to have more interesting/exciting/new problems than these. 
+While students as a needer group are not forbidden per se, some of the final grade will be for the "novelty" of your project! Project ideas I have seen **a lot** in past years: some fix for web reg/TSS (everyone hates web reg/TSS), some fix for problems parking on campus (everyone hates parking on campus), some fix for organizing your tasks/projects/homework (everyone hates keeping track of homework). I suggest selecting a group that is likely to have more interesting/exciting/new problems than these. 
 
 Here are some ideas from past years:
 
