@@ -5,7 +5,8 @@ title: Schedule
 # Deadlines
 
 Readings: Before start of class (readings are listed in the order they will be covered through the week)    
-Design Assignments: Friday 11:59PM    
+Design Assignments: Thursday 11:59PM    
+Coding Assignments: Saturday 11:59PM  
 
 # Topics & Readings
 
