@@ -82,7 +82,7 @@ Canvas messages should be used for all course-related communications. Emails wil
 
 Percentage | Activity
 --- | ---
-10% | Design Assignments/Final Project Submission 
+10% | Portfolio Project 
 10% | Coding Assignments
 10% | Studio Participation  
 10% | Lecture Attendance
