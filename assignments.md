@@ -27,7 +27,7 @@ Your portfolio project will be a single project you will submit at the end of th
 <!-- ### Links -->
 
 #### Assignment #1
-Due Week 1 Thursday (October 1), 11:59PM  
+Due **Week 1** Thursday (October 1), 11:59PM  
 
 You will develop a plan for conducting a needfinding study. Note, next week you will conduct the needfinding, so keep that in mind!   
 
