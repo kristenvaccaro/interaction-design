@@ -1,6 +1,6 @@
 # Assignments
 
-There will be five forms of assessment over the quarter: active participation in design studios (20%), weekly design assignments (25%), coding assignments (20%), quizzes (10%), and a final exam (25%). All deadlines are given in PT.  
+There will be five forms of assessment over the quarter: active participation in lectures & design studios (20%), a portfolio design project (10%), coding assignments (10%), and three exams (two midterms & one final: 60%). All deadlines are given in PT.  
 
 ## Attendance  & Active Participation   
 
