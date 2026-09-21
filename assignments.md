@@ -24,6 +24,8 @@ Your portfolio project will be a single project you will submit at the end of th
 
 Each week you will complete a design assignment, all of which will build into your final submission. Each week's design assignments is matched to that week's content in lecture, so they will help you understand and apply the concepts we talk about in class.  
 
+Studios will be used to share your current plans & designs, so the assignment should be completed before your studio starts. 
+
 **Due: 11:59PM Thursday, every week.**  
 
 <!-- ### Links -->
