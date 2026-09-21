@@ -99,9 +99,9 @@ Attendance Policy: Attendance at the lectures and studios is required, beginning
 
 #### Can I use LLMs to write the code for my coding labs?
 
-I discourage LLM/"vibe" coding if you are still learning (i.e., if this is your first experience with web development). Experienced web developers may use LLMs, but must "cite your sources", i.e., specify the model and prompt used. You must also include the original LLM generated code and mark any changes you made.   If you do not cite your sources, you may receive a zero or be referred for an academic integrity violation. 
+LLM/"vibe" coding can make it difficult to learn, if you are relying on the LLM to think/plan for you. So I don't recommend it if this is your first experience with web development. However industry now heavily relies on these models to speed development processes, so I do encourage more experienced students to experiment with them. 
 
-In addition, if we suspect any code was LLM generated or have other questions/concerns about your code, you may be asked to come to office hours and explain what it does, assess whether it is the simplest solution, and/or compare to other strategies covered in class. 
+Note, all students will be called for 2 _viva voce_, or oral exams where you will quizzed on your own code submission. Your grade will be determined by your ability to explain and provide rationales for decisions in your code. 
 
 #### Can I use LLMs for the design assignments?
 
