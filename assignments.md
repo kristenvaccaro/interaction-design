@@ -30,7 +30,7 @@ You will develop a plan for conducting a needfinding study. Note, next week you 
 [Materials](https://drive.google.com/file/d/1JmKrg75gFlEcPON22ZeYP9DJ_2r15f8z/view?usp=sharing)   
 
 #### Assignment #2
-Due Week 2 Thursday, 11:59PM   
+<!--Due Week 2 Thursday, 11:59PM   -->
 
 You will conduct observations and analyze your findings.       
 
@@ -38,7 +38,7 @@ You will conduct observations and analyze your findings.
 [Materials](https://drive.google.com/file/d/1C4wS1ebfbmMwRIxqFiyP-40Ln_vRZr33/view?usp=drive_link)   
 
 #### Assignment #3   
-Due Week 3 Thursday, 11:59PM   
+<!-- Due Week 3 Thursday, 11:59PM   -->
 
 You will sketch possible solutions for the needs you identified.          
 
@@ -46,7 +46,7 @@ You will sketch possible solutions for the needs you identified.
 [Materials](https://drive.google.com/file/d/120TzpI6lG39vWzKcNr3WIsN6O0DTF-B4/view?usp=drive_link)   
 
 #### Assignment #4 
-Due Week 4 Thursday, 11:59PM   
+<!-- Due Week 4 Thursday, 11:59PM   -->
 
 You create an architecture diagram and low-fidelity prototype.           
 
@@ -57,7 +57,7 @@ You create an architecture diagram and low-fidelity prototype.
 No Assignment Week 4
 
 #### Assignment #6
-Due Week 6 Thursday, 11:59PM
+<!-- Due Week 6 Thursday, 11:59PM.  -->
 
 You will create a visual design in a high-fidelity prototype.      
 
@@ -65,8 +65,8 @@ You will create a visual design in a high-fidelity prototype.
 [(Optional) Materials](https://drive.google.com/file/d/1BBlxi9aJmm0bwk-lI7dgwL-ERA079iJc/view?usp=drive_link)   
 
 #### Assignment #7   
-Due Week 7 Thursday, 11:59PM   
-**Note, a 3 minute demo of your interactions is due before the start of your studio!**   
+<!-- Due Week 7 Thursday, 11:59PM   
+**Note, a 3 minute demo of your interactions is due before the start of your studio!**  -->  
 
 You will design interactions for your own prototype, record a demo, and conduct a heuristic evaluation.    
 
@@ -83,7 +83,7 @@ You will design interactions for your own prototype, record a demo, and conduct 
 
 #### Assignment #8 
 <!-- Extended deadline: Week 9 Wednesday, 11:59PM!-->      
-Due Week 8 Thursday, 11:59PM
+<!-- Due Week 8 Thursday, 11:59PM-->
 
 You will conduct a user test of your application.      
 
@@ -98,7 +98,7 @@ You will conduct a user test of your application.
 No Assignment Week 9
 
 #### Assignment #10 (Final Submission)
-Due Week 10 Thursday, 11:59PM 
+<!-- Due Week 10 Thursday, 11:59PM -->
 
 You will provide an overview of the development of your application & implement a portion as a website.  
 Notes: Late days cannot be used for the final submission due to grading deadlines (a limited number of exceptions may be possible, reach out to me well in advance). The final submission will be 50% of the Design Assignments grade, the other 50% will be an average of assignments 1-9.  
@@ -172,6 +172,8 @@ You will plan user testing for your tool or system.
 -->
 
 ## Coding Labs
+
+Coding Labs are due Saturday 11:59 each week. 
 
 ### Submission Instructions
 Submit all coding labs on [Gradescope](https://www.gradescope.com/). 
