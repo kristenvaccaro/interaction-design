@@ -173,7 +173,7 @@ You will plan user testing for your tool or system.
 
 ## Coding Labs
 
-Coding Labs are due Saturday 11:59 each week. 
+**Due: Saturday 11:59 each week**.    
 
 ### Submission Instructions
 Submit all coding labs on [Gradescope](https://www.gradescope.com/). 
