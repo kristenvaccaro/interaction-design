@@ -38,16 +38,17 @@ Excerpts on "Prototyping" from [Interaction Design: Beyond Human-Computer Intera
 [Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
 _[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
 
-## Week 4: No Class
-No lectures, studios, or coding lab in Week 4
-
-## Week 5: Information Design
+## Week 4: Information Design
 Reading:  
 Excerpts on Navigation Design and Information Design from ["Elements of User Experience"](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0735712026) by Jesse James Garrett    
 Excerpts on Organization Systems and Design for Finding from [Information Architecture](https://www.amazon.com/Information-Architecture-Beyond-Louis-Rosenfeld/dp/1491911689) by Rosenfeld, Morville & Arango   
 
 [Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
-_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
+_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_ 
+
+## Week 5: No Class
+No lectures, studios, or coding lab in Week 5   
+Enjoy the break after your first midterm!  
 
 ## Week 6: Visual Design
 Reading:  
