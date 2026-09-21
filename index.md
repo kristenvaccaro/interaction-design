@@ -109,6 +109,14 @@ It is strictly forbidden to use LLMs to fabricate any data from users (either in
 
 However, it is now common practice in industry to use LLMs for things like generating information architectures, providing critiques on designs, or transcribing/summarizing user testing feedback. While I recommend doing a first draft of all tasks yourself first, you are permitted to use LLMs for these tasks.
 
+#### Can I use LLMs to study for exams?
+
+Yes, this is a great idea. You are welcome to input my slides, any readings, or even assignments into any LLM of your choice in order to produce study guides, practice exam questions, and so on. 
+
+#### Will using LLMs lead to an academic integrity (AI) violation for this class?
+
+No. I have shared my recommendations for what LLMs uses are most likely to help with your learning/career, but no LLM use will lead to any academic integrity issues (with the obvious exception of exams hosted in the Computer Based Testing Facility CBTF). 
+
 ## Inclusion Statement
 It is my hope that we will develop a supportive learning community that will foster rich discussions through the sharing of personal ideas, experiences, and interpretations of the course material. Honesty, listening for understanding, a willingness to share your ideas, and respect for self and others are basic guidelines that can help create a positive learning environment. Your participation and feedback is important to the success of the course and I welcome your thoughts throughout the semester on how we might improve class processes that will encourage effective communication and dialogue.
 
