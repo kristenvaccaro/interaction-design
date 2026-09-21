@@ -178,6 +178,8 @@ You will plan user testing for your tool or system.
 
 ## Coding Labs
 
+Coding labs will help you practice your web development skills. Everyone may use LLMs for coding, however, all students will complete multiple _viva voce_ evaluations, where you will be asked to explain your code and provide rationales for decisions you made in a meeting with either the instructor or a TA. Please make sure you understand the code you submit!
+
 **Due: Saturday 11:59 each week**.    
 
 ### Submission Instructions
