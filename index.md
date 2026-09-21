@@ -99,7 +99,7 @@ Attendance Policy: Attendance at the lectures and studios is required, beginning
 
 #### Can I use LLMs to write the code for my coding labs?
 
-LLM/"vibe" coding can make it difficult to learn, if you are relying on the LLM to think or plan for you. It may also make it more difficult to recall specific functions, methods, or syntax on exams. So I don't recommend it if this is your first experience with web development. However industry now heavily relies on these models to speed development processes, so I do encourage more experienced students to experiment with them. 
+LLM/"vibe" coding can make it difficult to learn, if you are relying on the LLM to think or plan for you. It may also make it more difficult to recall specific functions, methods, or syntax on exams. So I don't recommend relying heavily on LLM-generated code if this is your first experience with web development. However industry now heavily relies on these models to speed development processes, so I do encourage more experienced students to experiment with them. 
 
 Note, all students will be called for multiple _viva voce_, or oral exams where you will quizzed on your own code submission. Your grade will be determined by your ability to explain and provide rationales for decisions in your code. 
 
