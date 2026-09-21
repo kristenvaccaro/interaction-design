@@ -246,11 +246,11 @@ Submit your results on [Gradescope](https://www.gradescope.com/)
 Week 10 please come for help with any issues in the coding on your final project.
 --> 
 
-## Minute Quizzes
+<!-- ## Minute Quizzes
   
-The quizzes will ask similar questions and prepare you for the final exam. Quizzes will be during lecture and will start at exactly 1pm. We will collect them at 1:02pm, so please be on time!    
+The quizzes will ask similar questions and prepare you for the final exam. Quizzes will be during lecture and will start at exactly 1pm. We will collect them at 1:02pm, so please be on time! -->    
 
-## Extra Credit CBTF Exams
+<! -- ## Extra Credit CBTF Exams
 
 The extra credit tests for this course will be administered by the Triton Testing Center (TTC) in the Computer-Based Testing Lab in AP&M B349. The TTC’s rules concerning testing are the rules for this course.   
 
@@ -258,8 +258,16 @@ You must schedule your tests in advance, and it is recommended that you do so as
 
 To schedule, visit prairietest.com and log in with your UC San Diego credentials. More information about testing policies and procedures can be found on the TTC’s website. You may also email tritontesting@ucsd.edu for assistance.   
 
-Please note that, if you plan to use OSD-approved accommodations for your test, you will take it at the TTC’s Pepper Canyon Hall location. You must schedule your test at least three days in advance through the RegisterBlast system.   
+Please note that, if you plan to use OSD-approved accommodations for your test, you will take it at the TTC’s Pepper Canyon Hall location. You must schedule your test at least three days in advance through the RegisterBlast system. -->   
 
-## Final Exam
+## Midterms and Final Exam
 
-A final exam will evaluate your understanding of the material for the entire quarter. It will consist of multiple choice and open-ended responses, similar to the quizzes and in-class discussions and activities. The final exam time is set by the university, and can be found on Blink. I am happy to offer a conflict exam. If everyone who is interested can attend the conflict exam time, no reason/excuse is needed. Otherwise, students with more serious conflicts will be prioritized. Look out for a survey near the end of the quarter. 
+There will be three exams this quarter (two midterms, one final). <!-- Exams will consist of multiple choice questions.  The final exam time is set by the university, and can be found on TSS. I am happy to offer a conflict exam. If everyone who is interested can attend the conflict exam time, no reason/excuse is needed. Otherwise, students with more serious conflicts will be prioritized. Look out for a survey near the end of the quarter. -->
+
+All exams for this course will be administered by the Triton Testing Center (TTC) in the Computer-Based Testing Lab in AP&M B349. The TTC’s rules concerning testing are the rules for this course.   
+
+You must schedule your tests in advance, and it is recommended that you do so as soon as possible. Scheduling for all tests, with the exception of finals, opens on the first day of instruction.    
+
+To schedule, visit prairietest.com and log in with your UC San Diego credentials. More information about testing policies and procedures can be found on the TTC’s website. You may also email tritontesting@ucsd.edu for assistance.   
+
+Please note that, if you plan to use OSD-approved accommodations for your test, you will take it at the TTC’s Pepper Canyon Hall location. You must schedule your test at least three days in advance through the RegisterBlast system. 
