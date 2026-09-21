@@ -40,7 +40,7 @@ j1yim@ucsd.edu
 Studios: TBD
 Office Hours: TBD   
 
-<! -- Nazanin Sabri   
+<!-- Nazanin Sabri   
 nsabri@ucsd.edu
 Studios: Thursday 2-3:50, Thursday 4-5:50, Thursday 6-7:50, Friday 5-6:50 -->
 
