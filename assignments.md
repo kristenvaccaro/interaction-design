@@ -17,7 +17,7 @@ You may miss two studios without contacting us, without penalty. After that, eac
 
 You will complete ten weekly design assignments over the course of the quarter. These design assignments will help you understand and apply the concepts we talk about in class.  
 
-Design assignments will be due at 11:59PM Friday, every week. 
+Design assignments will be due at 11:59PM Thursday, every week. 
 
 ### Links
 
