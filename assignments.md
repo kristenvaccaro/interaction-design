@@ -198,12 +198,12 @@ Submit your results on [Gradescope](https://www.gradescope.com/)
 Submit your results on [Gradescope](https://www.gradescope.com/)  
 
 #### Coding Lab #4   
-No lectures, assignments, or coding labs this week. 
-
-#### Coding Lab #5
-   
 [Instructions](https://docs.google.com/document/d/1EDAkg32F73gb3oQVb6cFsh25q8Oj3jOaDnl2oj9cDQ4/edit?usp=sharing)   
 Submit your results on [Gradescope](https://www.gradescope.com/)  
+
+
+#### Coding Lab #5
+No lectures, assignments, or coding labs this week. 
 
 #### Coding Lab #6  
 
@@ -219,7 +219,7 @@ Submit your results on [Gradescope](https://www.gradescope.com/)
 
 
 #### Coding Lab #8     
-Extended deadline: Week 9 Wednesday 11:59PM!
+<!--Extended deadline: Week 9 Wednesday 11:59PM!-->
 
 [Instructions](https://docs.google.com/document/d/10_xlE3bGg_XK746MytwC2Zgr2HSynVmU1DVwgj3pvGA/edit?usp=sharing)   
 Submit your results on [Gradescope](https://www.gradescope.com/)    
