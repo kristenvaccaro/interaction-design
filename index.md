@@ -88,7 +88,7 @@ Percentage | Activity
 30% | Midterms  
 30% | Final Exam
 
-Portfolio design assignments are due Thursday 11:59 PM
+Portfolio design assignments are due Thursday 11:59 PM   
 Coding assignments are due Saturday 11:59 PM  
 
 Late Policy: You will receive *10 free late days* that can be shared between any design assignment or web dev coding lab submissions over the quarter, but you should still be prepared to discuss your plans in enough detail to get feedback in your studio. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
