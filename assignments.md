@@ -6,18 +6,17 @@ There will be five forms of assessment over the quarter: active participation in
 
 #### Lectures
 
-Attending lectures, and participating in discussions and activities, will help you learn more than the readings alone. But I recognize that "life happens", so you can earn full credit without attending every single class. You should attend 12 lectures and 6 studios for full credit. Attendance will be measured using a Google form, so please bring a device (phone, tablet, laptop, watch?, smart glasses???) you can use to respond. 
+Attending lectures, and participating in discussions and activities, will help you learn more than the readings alone. But I recognize that "life happens", so you can earn full credit without attending every single class. You should attend at least 12 lectures and 6 studios for full credit. Attendance will be measured using a Google form, so please bring a device (phone, tablet, laptop, watch?, smart glasses???) you can use to respond. 
 
 #### Studios
-You will present your weekly design assignment in your studio each week and receive feedback from your peers. The steps of the critique will be:    
+During the studio each week, you will present your progress on your portfolio project and receive feedback from your peers. The steps of the critique will be:    
 1) **Listen:** Students will present their own work briefly. Other students should listen attentively: no phones, no working on your own project.    
 2) **Ask questions:** Students should ask any questions they have about the work or the process. Examples: what inspired you? How did you accomplish X? What is your goal with element Y? Etc.   
 3) **Offer feedback/suggestions:** Should have a reason/rationale. No personal attacks. If you provide negative feedback, you must provide a constructive suggestion. I like it because… You could improve by…   
 
-   
 As a general rule, you should expect to contribute at least 3 times to the discussion each studio. If active participation becomes an issue, we will count number of times each student participates. 
 
-You may miss two studios without contacting us, without penalty. After that, each missed studio attendance will reduce your total studio attendance grade by 20%. To request an excused absence, contact both me and your studio TA by email. 
+You should attend at least 6 studios for full credit. That means, you may miss two studios without contacting us, without penalty. After that, each missed studio attendance will reduce your total participation grade by 20%. To request an excused absence after your initial 2 "freebies", contact both me and your studio TA on Canvas. You should expect to provide some form of documentation about why you're missing additional studios.
 
 ## Portfolio Project (aka Design Assignments)
 
