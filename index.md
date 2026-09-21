@@ -6,7 +6,7 @@ This course (CSE 170) provides a practice-based overview of user experience (UX)
 1. This class is a good choice if you're interested in practical, hands on learning.  
 2. This a survey course and will provide pointers to additional classes where you can learn more detail: DSGN 100, COGS 121, COGS 125.  
 3. If you are interested in theory and/or cutting-edge research, you may prefer: CSE 190 Human-AI Interaction or COGS 120.  
-4. If you are interested in coding/software development, you may prefer: CSE 134B, CSE 136.  
+4. If you are interested in coding/software development, you may prefer: CSE 134B, CSE 136, or my other CSE 190/291 Targeted Advertising.  
 
 <!-- For an overview of basic concepts related to AI and interaction design, review the following documents:  
 [Machine Learning Review](https://kristenvaccaro.github.io/human-ai/review/ML_Review.pdf)  
