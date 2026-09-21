@@ -59,7 +59,7 @@ You create an architecture diagram and low-fidelity prototype.
 [(Optional) Materials](https://drive.google.com/file/d/1MlFAo7Ka9NNhS16DeVXNJmqXRVqd_Exu/view?usp=drive_link)  
 
 #### Assignment #5  
-No Assignment Week 4
+No Assignment Week 5
 
 #### Assignment #6
 <!-- Due Week 6 Thursday, 11:59PM.  -->
