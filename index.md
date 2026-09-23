@@ -84,9 +84,9 @@ Percentage | Activity
 --- | ---
 10% | Portfolio Design Project 
 10% | Coding Assignments
-20% | Attendance & Participation (10% Studio, 10% Lecture)  
+10% | Attendance & Participation (5% Studio, 5% Lecture)  
 30% | Midterms  
-30% | Final Exam
+40% | Final Exam
 
 Portfolio design assignments are due Thursday 11:59 PM   
 Coding assignments are due Saturday 11:59 PM  
