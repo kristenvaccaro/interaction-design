@@ -103,7 +103,7 @@ You will conduct a user test of your application.
 <!--
 [Instructions](https://docs.google.com/document/d/1Qcm0QSWObYGQSkPO_5YgVYUl3uLEi61t9R8FVFOFAB4/edit?usp=sharing)   -->
 
-#### Assignment #9 -- No Studio (Thanksgiving Holiday)   
+#### Assignment #9 -- No Studio (Happy Thanksgiving!)   
 No Assignment Week 9
 
 #### Assignment #10 (Final Submission)
