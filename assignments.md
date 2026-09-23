@@ -20,9 +20,9 @@ You should attend at least 6 studios for full credit. That means, you may miss t
 
 ## Portfolio Project (aka Design Assignments)
 
-Your portfolio project will be a single project you will submit at the end of the quarter. If you are applying for design jobs, this could be an excellent addition to your portfolio! 
+The portfolio project is an individual project you will work on over the quarter. By the end of the quarter, you will have produced an entry for your design portfolio. If you are applying for design jobs, this could be very useful for your applications and interviews! 
 
-Each week you will complete a design assignment, all of which will build into your final submission. Each week's design assignments is matched to that week's content in lecture, so they will help you understand and apply the concepts we talk about in class.  
+Each week will include check ins along the way to your final portfolio entry. Each week's design assignment is matched to that week's topic (including readings and lectures), so they will help you understand and apply the concepts we talk about in class. They will also build cumulatively over the course of the quarter until you have a finished design.   
 
 Studios will be used to share your current plans & designs, so the assignment should be completed before your studio starts. 
 
