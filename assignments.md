@@ -107,12 +107,12 @@ You will conduct a user test of your application.
 No Assignment Week 9
 
 #### Assignment #10 (Final Submission)
+Updated final submission instructions coming shortly
 <!-- Due Week 10 Thursday, 11:59PM -->
 
-You will provide an overview of the development of your application & implement a portion as a website.  
-Notes: Late days cannot be used for the final submission due to grading deadlines (a limited number of exceptions may be possible, reach out to me well in advance). The final submission will be 50% of the Design Assignments grade, the other 50% will be an average of assignments 1-9.  
-
-[Instructions](https://docs.google.com/document/d/1GcvxMZ7_ihoFjwwzi_eOzZzZ44d2wEp4f56A3wM2ddo/edit?usp=sharing)
+<!-- You will provide an overview of the development of your application & implement a portion as a website.  
+Notes: Late days cannot be used for the final submission due to grading deadlines (a limited number of exceptions may be possible, reach out to me well in advance). The final submission will be 50% of the Design Assignments grade, the other 50% will be an average of assignments 1-9. 
+[Instructions](https://docs.google.com/document/d/1GcvxMZ7_ihoFjwwzi_eOzZzZ44d2wEp4f56A3wM2ddo/edit?usp=sharing) -->
 
 
 
