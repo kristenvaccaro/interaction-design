@@ -31,13 +31,13 @@ Location: TBD
 
 TAs  
 [Nina Chen](https://www.ninachen.space/)   
-nic005@ucsd.edu 
-Studios: Friday 8-9:50, Friday 10-11:50, Friday 12-1:50
-Office Hours: Tuesday 2-3PM @ [CSE B270A](https://cse.ucsd.edu/about/floormaps) (No OH on Oct 13th)
+nic005@ucsd.edu   
+Studios: Friday 8-9:50, Friday 10-11:50, Friday 12-1:50   
+Office Hours: Tuesday 2-3PM @ [CSE B270A](https://cse.ucsd.edu/about/floormaps) (No OH on Oct 13th)    
 
 Jacob Yim    
-j1yim@ucsd.edu 
-Studios: TBD
+j1yim@ucsd.edu   
+Studios: TBD  
 Office Hours: TBD   
 
 <!-- Nazanin Sabri   
