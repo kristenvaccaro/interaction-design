@@ -17,8 +17,7 @@ This course (CSE 170) provides a practice-based overview of user experience (UX)
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/interaction-design), [PrairieLearn](https://us.prairielearn.com/pl/course_instance/165782), [Canvas](https://canvas.ucsd.edu/), and [Discord](https://discord.gg/YzcCxEpt8r)     
 
 Classroom: Center Hall 119 
-Class Days and Times: Tuesday & Thursday 3:30PM  
-Office Hours: TBD  
+Class Days and Times: Tuesday & Thursday 3:30PM     
 Design Studios: Fridays   
 Unless you have been given permission by the instructors in advance, you should attend the design studio session that you enrolled in  
 
@@ -26,8 +25,7 @@ Unless you have been given permission by the instructors in advance, you should 
 
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!    
-Office Hours: TBD    
-Location: TBD
+Office Hours: Thursday 10-11AM in CSE 3226     
 
 TAs  
 [Nina Chen](https://www.ninachen.space/)   
