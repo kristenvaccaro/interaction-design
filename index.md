@@ -33,10 +33,10 @@ nic005@ucsd.edu
 Studios: Friday 8-9:50, Friday 10-11:50, Friday 12-1:50   
 Office Hours: Tuesday 2-3PM @ [CSE B270A](https://cse.ucsd.edu/about/floormaps) (No OH on Oct 13th)    
 
-Jacob Yim    
+[Jacob Yim](https://jcbym.github.io)    
 j1yim@ucsd.edu   
-Studios: TBD  
-Office Hours: TBD   
+Studios: Friday 2-3:50, Friday 4-5:50, Friday 6-7:50  
+Office Hours: Monday 4-5PM @ [CSE B250A](https://cse.ucsd.edu/about/floormaps) (No OH on Sept 28 and Nov 2)  
 
 <!-- Nazanin Sabri   
 nsabri@ucsd.edu
