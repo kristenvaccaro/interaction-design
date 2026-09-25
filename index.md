@@ -30,12 +30,12 @@ Office Hours: Thursday 10-11AM in CSE 3226
 TAs  
 [Nina Chen](https://www.ninachen.space/)   
 nic005@ucsd.edu   
-Studios: Friday 8-9:50, Friday 10-11:50, Friday 12-1:50   
+Studios: Friday 8-9:50, Friday 10-11:50, Friday 12-1:50 @ [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
 Office Hours: Tuesday 2-3PM @ [CSE B270A](https://cse.ucsd.edu/about/floormaps) (No OH on Oct 13th)    
 
 [Jacob Yim](https://jcbym.github.io)    
 j1yim@ucsd.edu   
-Studios: Friday 2-3:50, Friday 4-5:50, Friday 6-7:50  
+Studios: Friday 2-3:50, Friday 4-5:50, Friday 6-7:50 @ [CSE 4258](https://cse.ucsd.edu/about/floormaps)
 Office Hours: Monday 4-5PM @ [CSE B250A](https://cse.ucsd.edu/about/floormaps) (No OH on Sept 28 and Nov 2)  
 
 <!-- Nazanin Sabri   
