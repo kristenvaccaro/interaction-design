@@ -13,7 +13,8 @@ Coding Assignments: Saturday 11:59PM
 ## Week 0: Introduction
 None  
 
-_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
+_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_   
+[Podcasts (for those not yet enrolled on Canvas)](https://drive.google.com/drive/folders/1ju2eR35FL7FYHGWS3cxD498g2sJ-bUXh?usp=sharing)   
 
 ## Week 1: Needfinding   
 Reading:     
@@ -21,7 +22,8 @@ Reading:
 Excerpt on "Gathering Data from Customers" from [Product Design and Development](https://www.amazon.com/Product-Design-Development-Karl-Ulrich/dp/0073404772) by Karl Ulrich & Steven Eppinger    
 Excerpts on "Observations" and "Interviews" from [Interaction Design: Beyond Human-Computer Interaction](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer/dp/111990109X/) by Jenny Preece, Yvonne Rogers & Helen Sharp    
 [Readings](https://drive.google.com/drive/folders/18-UiDtqk03nUIE_NKQ3kArBaKdOvw06T?usp=sharing)     
-_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_
+_[Slides](https://drive.google.com/drive/folders/1BRNjzJtkIXA00pd_Ee_gKdwpjDD-TbkT?usp=sharing)_   
+[Podcasts (for those not yet enrolled on Canvas)](https://drive.google.com/drive/folders/1ju2eR35FL7FYHGWS3cxD498g2sJ-bUXh?usp=sharing)  
 
 ## Week 2: Ideation
 Reading:   
