@@ -191,7 +191,7 @@ The viva voce code explanations will be an oral exam where the instructors will 
 
 In many ways, these will be similar to the technical interviews many of you will experience when you apply for jobs or internships. Interviewers are generally looking to understand your problem solving process, check that you can explain your thinking, and confirm your knowledge of the language and fundamentals. We will be evaluating very similar things, so this could be good practice for those interviews. 
 
-You will attend two exams over the quarter. You may sign up as soon as you know your assigned weeks, and will receive a reminder email the Sunday before your viva voce weeks. 
+You will attend two exams over the quarter. You may sign up as soon as you know your assigned weeks, and will receive a reminder email the Sunday before your viva voce weeks. Half of the coding lab grade will be based on the submitted code, the other half on the viva. 
 
 
 ### Submission Instructions
