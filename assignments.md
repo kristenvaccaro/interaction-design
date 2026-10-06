@@ -186,6 +186,14 @@ Coding labs will help you practice your web development skills. Everyone may use
 
 **Due: Saturday 11:59 each week**.    
 
+### Viva Voce Code Explanations   
+The viva voce code explanations will be an oral exam where the instructors will ask you questions about your code. These will primarily be questions like: what happens in a particular line of the code you submitted, the reasons for any choices you made, and alternatives you may have considered. However, they may also include other web development questions (e.g., what is a semantic element? how is it different from other elements?).    
+
+In many ways, these will be similar to the technical interviews many of you will experience when you apply for jobs or internships. Interviewers are generally looking to understand your problem solving process, check that you can explain your thinking, and confirm your knowledge of the language and fundamentals. We will be evaluating very similar things. So this could be good practice for those interviews. 
+
+You will attend two exams over the quarter. You may sign up as soon as you know your assigned weeks, and will receive a reminder email the Sunday before your viva voce weeks. 
+
+
 ### Submission Instructions
 Submit all coding labs on [Gradescope](https://www.gradescope.com/). 
 For the autograder to work, you must use [CodePen](https://codepen.io/pen/) to complete your assigment, export your work as a .zip file, and upload the .zip file directly to Gradescope. [See detailed instructions here.](https://docs.google.com/document/d/1PUWaGbj9II68R5kdZXvCvmhcg3-Vw9ZZCXUDnpzMCsQ/edit?usp=sharing)
