@@ -201,7 +201,7 @@ Sign up for a slot *during your assigned week* using any instructor's calendar l
 
 [Book a time with Jacob Yim](https://calendar.app.google/PnGAVN6niWa1KGEL8) (held in CSE 2109)
 
-[Book a time with Nina Chen](https://calendar.app.google/NomNVi9Epff8rvACA) (held in CSE 3217)
+<!-- [Book a time with Nina Chen](https://calendar.app.google/NomNVi9Epff8rvACA) (held in CSE 3217)-->
 
 If none of the time slots work for you, please let the instruction team know!
 
