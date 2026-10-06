@@ -193,7 +193,7 @@ In many ways, these will be similar to the technical interviews many of you will
 
 You will attend two exams over the quarter. You may sign up as soon as you know your assigned weeks, and will receive a reminder email the Sunday before your viva voce weeks. Half of the coding lab grade will be based on the submitted code, the other half on the viva. 
 
-View your assigned week here: [viva voce week assignments](https://docs.google.com/spreadsheets/d/1zo3gOcKtqoYgT8BjrHfVTUBhxv3mfl9yD_tHKETZphg/edit?usp=sharing).
+View your assigned week here: [Viva Voce Week Assignments](https://docs.google.com/spreadsheets/d/1zo3gOcKtqoYgT8BjrHfVTUBhxv3mfl9yD_tHKETZphg/edit?usp=sharing).
 
 Sign up for a slot *during your assigned week* using any instructor's calendar link below:
 
