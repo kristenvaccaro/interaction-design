@@ -38,10 +38,10 @@ j1yim@ucsd.edu
 Studios: Friday 2-3:50, Friday 4-5:50, Friday 6-7:50 @ [CSE 4258](https://cse.ucsd.edu/about/floormaps)
 Office Hours: Monday 4-5PM @ [CSE B250A](https://cse.ucsd.edu/about/floormaps) (No OH on Sept 28 and Nov 2)  
 
-[Arya Saygaonkar](mailto:asaygaonkar@ucsd.edu)
-asaygaonkar@ucsd.edu
-Studios: TBD
-Office Hours: TBD
+[Arya Saygaonkar](mailto:asaygaonkar@ucsd.edu)  
+asaygaonkar@ucsd.edu  
+Studios: TBD  
+Office Hours: TBD  
 
 <!-- Nazanin Sabri   
 nsabri@ucsd.edu
