@@ -40,7 +40,7 @@ Office Hours: Monday 4-5PM @ [CSE B250A](https://cse.ucsd.edu/about/floormaps) (
 
 [Arya Saygaonkar](mailto:asaygaonkar@ucsd.edu)  
 asaygaonkar@ucsd.edu  
-Studios: TBD  
+Studios: Friday 8-9:50, Friday 10-11:50 @ [CSE 4258](https://cse.ucsd.edu/about/floormaps)
 Office Hours: Monday 11-12PM @ [CSE B250A](https://cse.ucsd.edu/about/floormaps)  
 
 <!-- Nazanin Sabri   
