@@ -28,10 +28,6 @@ kv@ucsd.edu -- Please read the communication guidelines below before emailing!
 Office Hours: Thursday 10-11AM in CSE 3226     
 
 TAs  
-[Nina Chen](https://www.ninachen.space/)   
-nic005@ucsd.edu   
-Studios: Friday 8-9:50, Friday 10-11:50, Friday 12-1:50 @ [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
-Office Hours: Tuesday 2-3PM @ [CSE B270A](https://cse.ucsd.edu/about/floormaps) (No OH on Oct 13th)    
 
 [Jacob Yim](https://jcbym.github.io)    
 j1yim@ucsd.edu   
