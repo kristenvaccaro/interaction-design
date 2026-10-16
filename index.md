@@ -31,7 +31,7 @@ TAs
 
 [Jacob Yim](https://jcbym.github.io)    
 j1yim@ucsd.edu   
-Studios: Friday 2-3:50, Friday 4-5:50, Friday 6-7:50 @ [CSE 4258](https://cse.ucsd.edu/about/floormaps)
+Studios: Friday 12-1:50, Friday 2-3:50, Friday 4-5:50 @ [CSE 4258](https://cse.ucsd.edu/about/floormaps)
 Office Hours: Monday 4-5PM @ [CSE B250A](https://cse.ucsd.edu/about/floormaps) (No OH on Sept 28 and Nov 2)  
 
 [Arya Saygaonkar](mailto:asaygaonkar@ucsd.edu)  
