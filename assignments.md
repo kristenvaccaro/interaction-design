@@ -108,7 +108,11 @@ No Assignment Week 9
 
 #### Assignment #10 (Final Submission)
 Updated final submission instructions coming shortly
-<!-- Due Week 10 Thursday, 11:59PM -->
+Due Week 10 Thursday, 11:59PM
+
+You will create a portfolio entry for the project you worked on this quarter.
+
+[Instructions](https://docs.google.com/document/d/1Lhrp9dZhVrThnEUufqEnANVE_geXYBR5AWnsbIz4h3M/edit?usp=sharing)
 
 <!-- You will provide an overview of the development of your application & implement a portion as a website.  
 Notes: Late days cannot be used for the final submission due to grading deadlines (a limited number of exceptions may be possible, reach out to me well in advance). The final submission will be 50% of the Design Assignments grade, the other 50% will be an average of assignments 1-9. 
