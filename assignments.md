@@ -107,7 +107,7 @@ You will conduct a user test of your application.
 No Assignment Week 9
 
 #### Assignment #10 (Final Submission)
-Updated final submission instructions coming shortly
+<!-- Updated final submission instructions coming shortly-->
 Due Week 10 Thursday, 11:59PM
 
 You will create a portfolio entry for the project you worked on this quarter.
